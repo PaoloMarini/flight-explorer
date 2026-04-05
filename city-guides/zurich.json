@@ -1,0 +1,162 @@
+{
+  "city": "Zürich",
+  "country": "Switzerland",
+  "flag": "🇨🇭",
+  "currency": "CHF (Fr.)",
+  "language": "German (Swiss German)",
+  "weather": {
+    "tempHighC": 25,
+    "tempLowC": 15,
+    "description": "Warm & pleasant, occasional rain",
+    "icon": "⛅"
+  },
+  "quickFacts": [
+    "Yes, it's expensive — budget €50-70/day minimum for food",
+    "Tap water is pristine and free from 1,200+ public fountains",
+    "Lake Zürich swimming is free — locals jump in from the Badi (public baths)",
+    "The ZVV day pass covers trains, trams, boats, and even funiculars"
+  ],
+  "places": [
+    {
+      "name": "Lake Zürich",
+      "image": "lake-zurich.jpg",
+      "caption": "Crystal-clear lake in the city centre",
+      "description": "Swim at one of the historic Badi (lakeshore baths), take a boat cruise, or just stroll the promenade with gelato. Seebad Enge is the most scenic spot.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Lake%20Z%C3%BCrich",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=lake+zurich+switzerland"
+      }
+    },
+    {
+      "name": "Old Town (Altstadt)",
+      "image": "altstadt-zurich.jpg",
+      "caption": "Medieval lanes on both sides of the Limmat",
+      "description": "Cobblestone streets, guild houses, and hidden courtyards. The Niederdorf side (east) is livelier with bars and restaurants, while the Lindenhof side has views.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Old%20Town%20%28Altstadt%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=zurich+old+town"
+      }
+    },
+    {
+      "name": "Lindenhof",
+      "image": "lindenhof.jpg",
+      "caption": "Hilltop park with city views",
+      "description": "A peaceful hilltop square above the old town where locals play giant chess. The view over the Limmat River and university is one of Zürich's best-kept secrets.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Lindenhof",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=lindenhof+zurich"
+      }
+    },
+    {
+      "name": "Kunsthaus Zürich",
+      "image": "kunsthaus-zurich.jpg",
+      "caption": "World-class art museum",
+      "description": "From Monet to Giacometti, Munch to Picasso. The new David Chipperfield extension is stunning. Free on Wednesdays — perfect for budget-conscious art lovers.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Kunsthaus%20Z%C3%BCrich",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=kunsthaus+zurich"
+      }
+    },
+    {
+      "name": "Zürich West (Kreis 5)",
+      "image": "zurich-west.jpg",
+      "caption": "Industrial area turned creative hub",
+      "description": "Former factories now house trendy restaurants, clubs (Hive, Zukunft), and the Freitag flagship store in a tower of shipping containers. Viadukt market is under the arches.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Z%C3%BCrich%20West%20%28Kreis%205%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=zurich+west+district"
+      }
+    },
+    {
+      "name": "Uetliberg",
+      "image": "uetliberg.jpg",
+      "caption": "Zürich's home mountain",
+      "description": "A 20-minute train ride to panoramic views of the city, lake, and Alps. Hike the Planetenweg (Planet Trail) to Felsenegg or just enjoy the summit restaurant.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Uetliberg",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=uetliberg+zurich"
+      }
+    },
+    {
+      "name": "Grossmünster",
+      "image": "grossmunster.jpg",
+      "caption": "Romanesque church with twin towers",
+      "description": "Zürich's most recognisable landmark. Climb the Karlsturm tower for bird's-eye views and check out the Giacometti stained glass windows and Sigmar Polke's vibrant panels.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Grossm%C3%BCnster",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=grossmunster+zurich"
+      }
+    },
+    {
+      "name": "Badi Culture",
+      "image": "badi-culture.jpg",
+      "caption": "Historic public baths on the river",
+      "description": "Barfussbar, Frauenbadi, and Seebad Utoquai — these converted bathhouses are where locals swim, sunbathe, and drink. Some transform into bars and cinemas at night.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Badi%20Culture",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=badi+zurich+swimming"
+      }
+    },
+    {
+      "name": "Bahnhofstrasse",
+      "image": "bahnhofstrasse.jpg",
+      "caption": "One of the world's most exclusive shopping streets",
+      "description": "Window-shopping is free, and the street is beautifully car-free. Even if luxury isn't your thing, the Sprüngli bakery for Luxemburgerli macarons is unmissable.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bahnhofstrasse",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=bahnhofstrasse+zurich"
+      }
+    },
+    {
+      "name": "Rhine Falls Day Trip",
+      "image": "rhine-falls.jpg",
+      "caption": "Europe's largest waterfall, 45 min away",
+      "description": "Take a boat right up to the thundering cascade and climb the rock in the middle. Combine with lunch in the medieval town of Schaffhausen.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Rhine%20Falls%20Day%20Trip",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=rhine+falls+switzerland"
+      }
+    },
+    {
+      "name": "Fraumünster Church",
+      "image": "fraumunster.jpg",
+      "caption": "Chagall stained glass",
+      "description": "Romanesque church with five stunning Marc Chagall stained-glass windows (1970) and an Augusto Giacometti window.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Fraum%C3%BCnster%20Church"
+      }
+    },
+    {
+      "name": "Swiss National Museum",
+      "image": "landesmuseum.jpg",
+      "caption": "Swiss history",
+      "description": "Castle-like museum next to the main station covering Swiss cultural history from prehistory to present. New wing by Christ & Gantenbein.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Swiss%20National%20Museum"
+      }
+    },
+    {
+      "name": "Zürich West",
+      "image": "zurich-west.jpg",
+      "caption": "Industrial-chic quarter",
+      "description": "Former industrial area now home to Freitag flagship store (shipping container tower), Im Viadukt market and rooftop bars.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Z%C3%BCrich%20West"
+      }
+    },
+    {
+      "name": "Thermalbad & Spa",
+      "image": "thermalbad.jpg",
+      "caption": "Rooftop thermal pool",
+      "description": "Brewery converted to thermal baths. Rooftop pool with city views, barrel saunas and mineral water from 600m underground.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Thermalbad%20%26%20Spa"
+      }
+    }
+  ],
+  "foodScene": "Zürich Geschnetzeltes (sliced veal in cream sauce) is the local classic. Fondue and raclette are available year-round at spots like Swiss Chuchi. Sprüngli Luxemburgerli are the city's signature macaron. Budget tip: supermarket deli counters (Coop, Migros) sell excellent ready-made meals for a fraction of restaurant prices.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Z%C3%BCrich%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=zurich+travel"
+  }
+}

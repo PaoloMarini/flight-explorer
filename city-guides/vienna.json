@@ -1,0 +1,172 @@
+{
+  "city": "Vienna",
+  "country": "Austria",
+  "flag": "🇦🇹",
+  "currency": "EUR (€)",
+  "language": "German",
+  "weather": {
+    "tempHighC": 27,
+    "tempLowC": 17,
+    "description": "Warm & sunny with occasional showers",
+    "icon": "⛅"
+  },
+  "quickFacts": [
+    "Ranked #1 most liveable city in the world multiple years running",
+    "Coffee house culture is UNESCO-listed — don't rush your Melange",
+    "The €8/day public transport pass is one of Europe's best deals",
+    "Free open-air screenings at the Rathausplatz Film Festival in summer"
+  ],
+  "places": [
+    {
+      "name": "Schönbrunn Palace",
+      "image": "schonbrunn-palace.jpg",
+      "caption": "Habsburg imperial summer residence",
+      "description": "1,441 rooms of Baroque excess. The gardens are free and enormous — climb to the Gloriette for panoramic city views. Book the Grand Tour for the full experience.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Sch%C3%B6nbrunn%20Palace",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=schonbrunn+palace+vienna"
+      }
+    },
+    {
+      "name": "Naschmarkt",
+      "image": "naschmarkt.jpg",
+      "caption": "Vienna's legendary food market",
+      "description": "Over 120 stalls of cheese, olives, spices, fresh juices, and international street food. The Saturday flea market next door is perfect for vintage finds.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Naschmarkt",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=naschmarkt+vienna"
+      }
+    },
+    {
+      "name": "MuseumsQuartier",
+      "image": "museumsquartier.jpg",
+      "caption": "Art complex & local hangout",
+      "description": "World-class museums (Leopold, MUMOK) plus the best outdoor lounging spot in Vienna. Grab a drink and sit on the colourful courtyard benches like a local.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=MuseumsQuartier",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=museumsquartier+vienna"
+      }
+    },
+    {
+      "name": "St. Stephen's Cathedral",
+      "image": "st-stephens-cathedral.jpg",
+      "caption": "Gothic landmark with a mosaic roof",
+      "description": "The colourful tiled roof is unmistakable. Climb 343 steps up the South Tower for the best view of Vienna's rooftops. The catacombs tour is delightfully creepy.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=St.%20Stephen%27s%20Cathedral",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=st+stephens+cathedral+vienna"
+      }
+    },
+    {
+      "name": "Prater & Giant Ferris Wheel",
+      "image": "prater-ferris-wheel.jpg",
+      "caption": "Iconic amusement park since 1897",
+      "description": "The Riesenrad ferris wheel has featured in countless films. The park itself is free to enter — pay per ride. The adjoining Prater park is great for running or biking.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Prater%20%26%20Giant%20Ferris%20Wheel",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=prater+ferris+wheel+vienna"
+      }
+    },
+    {
+      "name": "Belvedere Palace",
+      "image": "belvedere-palace.jpg",
+      "caption": "Baroque palace with Klimt's The Kiss",
+      "description": "Two palaces, stunning gardens, and Austria's most famous painting. The Upper Belvedere has the Klimt collection — arrive early for a crowd-free moment with The Kiss.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Belvedere%20Palace",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=belvedere+palace+vienna"
+      }
+    },
+    {
+      "name": "Donaukanal",
+      "image": "donaukanal.jpg",
+      "caption": "Urban waterfront with street art",
+      "description": "Vienna's coolest strip — graffiti-covered walls, pop-up bars, and summer beach clubs along the Danube Canal. Strandbar Herrmann is the go-to sunset spot.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Donaukanal",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=donaukanal+vienna"
+      }
+    },
+    {
+      "name": "Hundertwasserhaus",
+      "image": "hundertwasserhaus.jpg",
+      "caption": "Quirky Gaudí-esque apartment building",
+      "description": "Friedensreich Hundertwasser's colourful, wavy apartment block rejects straight lines. You can't enter, but the KunstHausWien museum nearby showcases his art.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Hundertwasserhaus",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=hundertwasserhaus+vienna"
+      }
+    },
+    {
+      "name": "Café Central",
+      "image": "cafe-central.jpg",
+      "caption": "Vienna's most famous coffee house",
+      "description": "Freud, Trotsky, and Klimt all drank here. Order a Melange (Viennese cappuccino) and Apfelstrudel. The architecture alone is worth the visit. Expect a queue.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Caf%C3%A9%20Central",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=cafe+central+vienna"
+      }
+    },
+    {
+      "name": "Alte Donau",
+      "image": "alte-donau.jpg",
+      "caption": "Urban lake for swimming & kayaking",
+      "description": "Locals escape the heat at this old branch of the Danube. Free swimming, kayak rentals, and waterside restaurants. The Gänsehäufel beach has diving platforms.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Alte%20Donau",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=alte+donau+vienna"
+      }
+    },
+    {
+      "name": "St Stephen's Cathedral (Stephansdom)",
+      "image": "stephansdom.jpg",
+      "caption": "Gothic landmark",
+      "description": "Vienna's symbol since the 12th century. 137m South Tower (343 steps), coloured tile roof and catacomb tours.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=St%20Stephen%27s%20Cathedral%20%28Stephansdom%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=stephansdom%20vienna"
+      }
+    },
+    {
+      "name": "Vienna State Opera",
+      "image": "staatsoper.jpg",
+      "caption": "World-class opera",
+      "description": "Standing tickets from €4 — queue an hour before showtime for balcony spots. One of the world's great opera houses.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vienna%20State%20Opera"
+      }
+    },
+    {
+      "name": "Hofburg Imperial Palace",
+      "image": "hofburg.jpg",
+      "caption": "Habsburg residence",
+      "description": "Sprawling palace complex — Imperial Apartments, Sisi Museum, Spanish Riding School, National Library and the Crown Jewels.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Hofburg%20Imperial%20Palace"
+      }
+    },
+    {
+      "name": "Prater & Riesenrad",
+      "image": "prater.jpg",
+      "caption": "Iconic Ferris wheel",
+      "description": "Giant Ferris wheel (1897) in the Prater amusement park. Night ride for twinkling city views. The park has free entry.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Prater%20%26%20Riesenrad"
+      }
+    },
+    {
+      "name": "Viennese Coffee Houses",
+      "image": "kaffeehaus.jpg",
+      "caption": "UNESCO intangible heritage",
+      "description": "Café Central, Demel, Sperl — marble tables, newspapers on sticks, Sachertorte and Melange coffee. A way of life since 1685.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Viennese%20Coffee%20Houses"
+      }
+    }
+  ],
+  "foodScene": "Wiener Schnitzel (veal, pounded thin, pan-fried) is non-negotiable — Figlmüller is the classic spot. Sachertorte at Hotel Sacher vs. Demel is Vienna's great debate. Coffee house culture is an event — linger for hours over cake and newspapers. Würstelstand (sausage stands) for a cheap late-night Käsekrainer.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vienna%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=vienna+travel"
+  }
+}

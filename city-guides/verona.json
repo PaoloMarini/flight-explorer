@@ -1,0 +1,163 @@
+{
+  "city": "Verona",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "language": "Italian",
+  "weather": {
+    "tempHighC": 30,
+    "tempLowC": 19,
+    "description": "Hot & sunny, perfect for outdoor opera",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Shakespeare set Romeo & Juliet here — but the story is fictional",
+    "Summer opera season in the Arena is a bucket-list experience (€30+)",
+    "Day-trippable from Venice (1h train) or Lake Garda (30 min)",
+    "The Verona Card (€20/24h) covers most sights and buses"
+  ],
+  "places": [
+    {
+      "name": "Arena di Verona",
+      "image": "arena-di-verona.jpg",
+      "caption": "Roman amphitheatre turned opera venue",
+      "description": "This 2,000-year-old arena hosts world-class opera under the stars every summer. Even without a show, the interior is breathtaking. Grab the cheap stone seats.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Arena%20di%20Verona",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=arena+di+verona"
+      }
+    },
+    {
+      "name": "Piazza delle Erbe",
+      "image": "piazza-delle-erbe.jpg",
+      "caption": "Colourful market square",
+      "description": "Verona's ancient forum is now a vibrant square with a morning market, frescoed buildings, and great people-watching. Skip the overpriced cafés — buy a gelato.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Piazza%20delle%20Erbe",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=piazza+delle+erbe+verona"
+      }
+    },
+    {
+      "name": "Castel San Pietro",
+      "image": "castel-san-pietro.jpg",
+      "caption": "Best sunset viewpoint in Verona",
+      "description": "Climb the steps (or take the funicular) above the Roman theatre for a sweeping view of terracotta rooftops and the Adige River. Bring wine for sunset.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Castel%20San%20Pietro",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=castel+san+pietro+verona"
+      }
+    },
+    {
+      "name": "Ponte Pietra",
+      "image": "ponte-pietra.jpg",
+      "caption": "Ancient Roman stone bridge",
+      "description": "Verona's oldest bridge spans the turquoise Adige River. Rebuilt after WWII using the original stones. The view from the bridge at golden hour is perfection.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Ponte%20Pietra",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=ponte+pietra+verona"
+      }
+    },
+    {
+      "name": "Juliet's House",
+      "image": "juliets-house.jpg",
+      "caption": "The famous (fictional) balcony",
+      "description": "Touristy? Yes. Still fun? Absolutely. The courtyard is free but packed. The balcony photo costs a few euros. Skip the love locks and chewing gum wall.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Juliet%27s%20House",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=juliets+house+verona"
+      }
+    },
+    {
+      "name": "Giardino Giusti",
+      "image": "giardino-giusti.jpg",
+      "caption": "Renaissance garden with cypress trees",
+      "description": "One of Italy's finest Renaissance gardens with manicured hedges, grottos, and a belvedere viewpoint. A peaceful escape from the busy centro.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Giardino%20Giusti",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=giardino+giusti+verona"
+      }
+    },
+    {
+      "name": "Veronetta",
+      "image": "veronetta.jpg",
+      "caption": "Student quarter with local charm",
+      "description": "Across the river from the touristy centre, this university neighbourhood has the best-value trattorias, street art, and a genuine local atmosphere.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Veronetta",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=veronetta+verona"
+      }
+    },
+    {
+      "name": "Castelvecchio",
+      "image": "castelvecchio.jpg",
+      "caption": "Medieval fortress & art museum",
+      "description": "A 14th-century brick castle housing an impressive art collection. The fortified bridge over the Adige is one of Verona's most photogenic spots.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Castelvecchio",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=castelvecchio+verona"
+      }
+    },
+    {
+      "name": "Basilica di San Zeno",
+      "image": "basilica-di-san-zeno.jpg",
+      "caption": "Romanesque masterpiece off the tourist trail",
+      "description": "Verona's most beautiful church has bronze doors, a stunning rose window, and Mantegna's altarpiece. Blissfully quiet compared to the centro sights.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Basilica%20di%20San%20Zeno",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=basilica+san+zeno+verona"
+      }
+    },
+    {
+      "name": "Lake Garda Day Trip",
+      "image": "lake-garda.jpg",
+      "caption": "Italy's largest lake, 30 min away",
+      "description": "Catch a train to Peschiera or Desenzano for crystal-clear water, lakeside gelato, and dramatic mountain scenery. An easy half-day escape from the city.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Lake%20Garda%20Day%20Trip",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=lake+garda+italy"
+      }
+    },
+    {
+      "name": "Juliet's House (Casa di Giulietta)",
+      "image": "casa-giulietta.jpg",
+      "caption": "Romeo & Juliet balcony",
+      "description": "13th-century house with the famous balcony. Touch the bronze Juliet statue for luck, leave a love letter. Fictional but romantic.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Juliet%27s%20House%20%28Casa%20di%20Giulietta%29"
+      }
+    },
+    {
+      "name": "Castel San Pietro Viewpoint",
+      "image": "castel-san-pietro.jpg",
+      "caption": "Best city panorama",
+      "description": "Climb the staircase from Ponte Pietra for sunset views over Verona's rooftops, the Adige bend and the Arena.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Castel%20San%20Pietro%20Viewpoint"
+      }
+    },
+    {
+      "name": "Torre dei Lamberti",
+      "image": "torre-lamberti.jpg",
+      "caption": "Bell tower views",
+      "description": "84m medieval tower in the heart of Piazza Erbe. Lift or 238 stairs. Panoramic views from the terrace at the top.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Torre%20dei%20Lamberti"
+      }
+    },
+    {
+      "name": "Wine Tasting (Valpolicella)",
+      "image": "valpolicella.jpg",
+      "caption": "Amarone country",
+      "description": "Vineyards 20 min north producing Amarone and Ripasso. Visit cantinas for tastings and valley views. Book a wine tour.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Wine%20Tasting%20%28Valpolicella%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=valpolicella%20wine"
+      }
+    }
+  ],
+  "foodScene": "Verona's cuisine is hearty — try pastissada de caval (horse meat stew, a local specialty), risotto all'Amarone (made with the famous wine), or bigoli con sardele (thick pasta with sardines). The region produces Amarone and Valpolicella wines — do a tasting. Aperitivo with a spritz on Piazza delle Erbe is obligatory.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Verona%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=verona+travel"
+  }
+}
