@@ -1,0 +1,183 @@
+{
+  "city": "Kraków",
+  "country": "Poland",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł)",
+  "language": "Polish",
+  "weather": {
+    "tempHighC": 26,
+    "tempLowC": 14,
+    "description": "Warm continental summer",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Rynek Główny is Europe's largest medieval market square",
+    "The Wieliczka Salt Mine has an entire chapel carved from salt 101 meters underground",
+    "Poland's former royal capital and the country's undisputed cultural heart"
+  ],
+  "places": [
+    {
+      "name": "Rynek Główny (Main Market Square)",
+      "image": "rynek-glowny.jpg",
+      "caption": "Europe's largest medieval square",
+      "description": "This vast 13th-century market square is the beating heart of Kraków — the Renaissance Cloth Hall (Sukiennice) anchors the center, horse-drawn carriages clip-clop past, and a lone trumpeter plays the Hejnał melody from St. Mary's tower every hour. The atmosphere is intoxicating.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Rynek%20G%C5%82%C3%B3wny%20%28Main%20Market%20Square%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Rynek+G%C5%82%C3%B3wny+%28Main+Market+Square%29"
+      }
+    },
+    {
+      "name": "Wawel Castle & Cathedral",
+      "image": "wawel-castle.jpg",
+      "caption": "Poland's spiritual and royal soul",
+      "description": "Perched on a limestone hill above the Vistula, this castle complex was the seat of Polish kings for 500 years. The cathedral holds royal tombs and the famous Sigismund Bell (touching its clapper supposedly brings luck). Book separate tickets for each exhibition — the State Rooms and Crown Treasury are musts.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Wawel%20Castle%20%26%20Cathedral",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Wawel+Castle+%26+Cathedral"
+      }
+    },
+    {
+      "name": "Kazimierz",
+      "image": "kazimierz.jpg",
+      "caption": "From Jewish quarter to the coolest neighborhood",
+      "description": "Once Kraków's historic Jewish district, Kazimierz is now the city's most vibrant neighborhood — crumbling synagogues sit next to street-art-covered walls, craft beer bars, and vintage furniture shops. Plac Nowy's food stalls serve the city's best zapiekanka (Polish pizza-baguette) late into the night.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Kazimierz",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Kazimierz"
+      }
+    },
+    {
+      "name": "Wieliczka Salt Mine",
+      "image": "wieliczka.jpg",
+      "caption": "An underground world carved entirely from salt",
+      "description": "This 13th-century salt mine descends 327 meters and stretches over 287 km of tunnels. The Chapel of St. Kinga — an enormous underground church with chandeliers, altarpieces, and floors all carved from salt — is genuinely jaw-dropping. The guided tour is about 2.5 hours.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Wieliczka%20Salt%20Mine",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Wieliczka+Salt+Mine"
+      }
+    },
+    {
+      "name": "Planty Park",
+      "image": "planty-park.jpg",
+      "caption": "A green ring around the old town",
+      "description": "A 4.3-km loop of parkland encircling the entire old town, following the line of the medieval city walls. Horse-chestnut trees shade benches, statues, and flower beds — it's perfect for a morning run or an evening stroll with ice cream from E. Wedel on the main square.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Planty%20Park",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Planty+Park"
+      }
+    },
+    {
+      "name": "Oskar Schindler's Factory",
+      "image": "schindlers-factory.jpg",
+      "caption": "WWII history in Schindler's actual workplace",
+      "description": "Now a museum dedicated to Kraków under Nazi occupation, this is one of the most powerful war museums in Europe. The multimedia exhibitions place you inside the experience of both Kraków's citizens and its Jewish population. Located across the river in Podgórze — book tickets online.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Oskar%20Schindler%27s%20Factory",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Oskar+Schindler%27s+Factory"
+      }
+    },
+    {
+      "name": "Podgórze & Krakus Mound",
+      "image": "podgorze.jpg",
+      "caption": "Street art and the best panorama of the city",
+      "description": "This up-and-coming district across the Vistula is where you'll find Schindler's Factory and the moving Ghetto Heroes Square. Climb the Krakus Mound — a mysterious prehistoric earthwork — for a stunning 360-degree panorama of the city. Locals gather here for sunset drinks.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Podg%C3%B3rze%20%26%20Krakus%20Mound",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Podg%C3%B3rze+%26+Krakus+Mound"
+      }
+    },
+    {
+      "name": "St. Mary's Basilica",
+      "image": "st-marys-basilica.jpg",
+      "caption": "Two mismatched towers and a dazzling interior",
+      "description": "The 14th-century basilica dominating the Main Square has asymmetric towers (legend says two rival brothers built them) and an interior entirely covered in blue-and-gold stars. The medieval wooden altarpiece by Veit Stoss is one of the greatest artworks in Poland.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=St.%20Mary%27s%20Basilica",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=St.+Mary%27s+Basilica"
+      }
+    },
+    {
+      "name": "Nowa Huta",
+      "image": "nowa-huta.jpg",
+      "caption": "A Soviet-planned 'ideal city' within a city",
+      "description": "Built in the 1950s as a model socialist city to counter Kraków's intellectual elite, Nowa Huta is a fascinating lesson in communist urbanism. The wide boulevards and monumental architecture are surprisingly elegant, and a Trabant tour of the district is a uniquely offbeat experience.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Nowa%20Huta",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Nowa+Huta"
+      }
+    },
+    {
+      "name": "Zakrzówek Quarry",
+      "image": "zakrzowek.jpg",
+      "caption": "A turquoise swimming hole inside the city",
+      "description": "A former limestone quarry filled with strikingly turquoise water, now turned into a public swimming and recreation area. Wooden platforms line the cliffs and sun-seekers flock here on hot days. It's only 3 km from the old town — Kraków's best-kept summer secret.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Zakrz%C3%B3wek%20Quarry",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Zakrz%C3%B3wek+Quarry"
+      }
+    },
+    {
+      "name": "Wawel Royal Castle",
+      "image": "wawel.jpg",
+      "caption": "Polish Crown Jewels",
+      "description": "Hilltop castle complex above the Vistula — cathedral, royal chambers, fire-breathing dragon statue. Poland's most important heritage site.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Wawel%20Royal%20Castle",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=wawel%20castle%20krakow"
+      }
+    },
+    {
+      "name": "Main Market Square (Rynek Główny)",
+      "image": "rynek-glowny.jpg",
+      "caption": "Europe's largest medieval square",
+      "description": "800-year-old square with Cloth Hall market, St Mary's Basilica and the hourly bugle call. Magical at any time of day.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Main%20Market%20Square%20%28Rynek%20G%C5%82%C3%B3wny%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=rynek%20glowny%20krakow"
+      }
+    },
+    {
+      "name": "Kazimierz (Jewish Quarter)",
+      "image": "kazimierz.jpg",
+      "caption": "Historic & hipster",
+      "description": "Former Jewish district now Kraków's coolest neighbourhood. Synagogues, street art, bar hopping and the films of Schindler's List.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Kazimierz%20%28Jewish%20Quarter%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=kazimierz%20krakow"
+      }
+    },
+    {
+      "name": "Auschwitz-Birkenau",
+      "image": "auschwitz.jpg",
+      "caption": "Holocaust memorial",
+      "description": "70 km from Kraków. A difficult but essential visit. Book guided tours in advance. Free entry but time-slot reservations needed.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Auschwitz-Birkenau"
+      }
+    },
+    {
+      "name": "St Mary's Basilica",
+      "image": "st-marys.jpg",
+      "caption": "Gothic masterpiece",
+      "description": "14th-century basilica with Veit Stoss's stunning altarpiece (the largest Gothic altar in the world). Hourly bugle call from the tower.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=St%20Mary%27s%20Basilica"
+      }
+    },
+    {
+      "name": "Zakopane Day Trip",
+      "image": "zakopane.jpg",
+      "caption": "Mountain resort",
+      "description": "2 hours south in the Tatra Mountains. Cable car to Kasprowy Wierch, cheese market, wooden architecture and hiking trails.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Zakopane%20Day%20Trip",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=zakopane%20poland"
+      }
+    }
+  ],
+  "foodScene": "Kraków is one of Europe's best-value food cities with quality to match. Start with zapiekanka — the legendary half-baguette topped with mushrooms, cheese, and ketchup — from Plac Nowy in Kazimierz (Endzior is the go-to stall). For sit-down Polish food, Starka serves beautifully presented pierogi, żurek (sour rye soup), and bigos (hunter's stew) in a moody Kazimierz cellar. Pod Aniołami, in a medieval basement near the main square, grills meats over a charcoal pit and the smoked oscypek cheese is incredible. Milk bars (bar mleczny) like Kuchnia U Doroty serve dirt-cheap home-style Polish food — placki ziemniaczane (potato pancakes) and kotlet schabowy (breaded pork cutlet) for a few złoty. For craft beer, House of Beer has 100+ taps, and the multibar complexes in Kazimierz basements are perfect for a long crawl.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Krak%C3%B3w%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=krak%C3%B3w+travel"
+  }
+}

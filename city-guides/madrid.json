@@ -1,0 +1,181 @@
+{
+  "city": "Madrid",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "currency": "EUR (€)",
+  "language": "Spanish",
+  "weather": {
+    "tempHighC": 35,
+    "tempLowC": 20,
+    "description": "Hot and dry Mediterranean summer with blazing sun",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Madrid has more bars per capita than any other European capital — one for every 132 residents",
+    "The city sits at 650m elevation, making it the highest capital in the EU",
+    "Dinner before 10pm is considered early — locals eat late and go out even later"
+  ],
+  "places": [
+    {
+      "name": "Retiro Park",
+      "image": "retiro-park.jpg",
+      "caption": "Madrid's green lung and Sunday ritual",
+      "description": "This 125-hectare former royal garden is where madrileños come to breathe. Row a boat on the lake beneath the Monument to Alfonso XII, get lost in the only public statue dedicated to the Devil, and catch free outdoor concerts in summer. The Crystal Palace is pure magic at golden hour.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Retiro%20Park",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Retiro+Park"
+      }
+    },
+    {
+      "name": "Museo del Prado",
+      "image": "museo-del-prado.jpg",
+      "caption": "One of the world's greatest art collections",
+      "description": "Home to Velázquez's Las Meninas, Goya's Black Paintings, and Bosch's Garden of Earthly Delights, the Prado is overwhelming in the best way. Pro tip: visit during the last two hours for free entry and smaller crowds. Don't try to see everything — pick a few rooms and go deep.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Museo%20del%20Prado",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Museo+del+Prado"
+      }
+    },
+    {
+      "name": "Mercado de San Miguel",
+      "image": "mercado-de-san-miguel.jpg",
+      "caption": "Iron-and-glass market hall next to Plaza Mayor",
+      "description": "This gorgeous 1916 wrought-iron market is Madrid's most photogenic food stop. Yes, it's touristic, but the quality is real — vermouth on tap, Galician oysters, and jamon ibérico sliced to order. For a more local market experience, try Mercado de la Cebada in La Latina.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mercado%20de%20San%20Miguel",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Mercado+de+San+Miguel"
+      }
+    },
+    {
+      "name": "La Latina",
+      "image": "la-latina.jpg",
+      "caption": "Tapas, cañas, and the best Sunday in Madrid",
+      "description": "This medieval neighborhood comes alive on Sunday mornings during El Rastro flea market, then the crowd migrates to Calle de la Cava Baja — possibly the densest strip of tapas bars in all of Spain. Grab croquetas at Casa Julio and tortilla at Juana La Loca.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=La%20Latina",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=La+Latina"
+      }
+    },
+    {
+      "name": "Templo de Debod",
+      "image": "templo-de-debod.jpg",
+      "caption": "A 2,200-year-old Egyptian temple at sunset",
+      "description": "Egypt gifted this authentic 2nd-century BC temple to Spain in 1968, and it now sits in a park overlooking the Royal Palace with the best sunset views in the city. Arrive 30 minutes before golden hour to claim a spot on the grass — every madrileño will be there.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Templo%20de%20Debod",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Templo+de+Debod"
+      }
+    },
+    {
+      "name": "Malasaña",
+      "image": "malasana.jpg",
+      "caption": "Madrid's countercultural beating heart",
+      "description": "Centered around Plaza del Dos de Mayo, Malasaña is where Madrid gets scruffy and cool. Vintage shops, independent bookstores, Third-wave coffee at Toma Café, and some of the city's best craft beer bars. The nightlife here goes until sunrise — literally.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Malasa%C3%B1a",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Malasa%C3%B1a"
+      }
+    },
+    {
+      "name": "Royal Palace of Madrid",
+      "image": "royal-palace.jpg",
+      "caption": "Europe's largest functioning royal palace",
+      "description": "With 3,418 rooms, this Baroque palace dwarfs Buckingham and Versailles. The Throne Room and Royal Pharmacy are highlights. The changing of the guard happens on the first Wednesday of each month. Walk through the adjacent Sabatini Gardens for a quiet escape.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Royal%20Palace%20of%20Madrid",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Royal+Palace+of+Madrid"
+      }
+    },
+    {
+      "name": "Reina Sofía Museum",
+      "image": "reina-sofia.jpg",
+      "caption": "Where Guernica lives",
+      "description": "Picasso's anti-war masterpiece Guernica is the anchor of Spain's national modern art museum, but the Dalí and Miró collections are equally powerful. The museum's glass elevator shafts overlooking Atocha are an architectural icon. Free entry evenings and all day Sunday afternoons.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Reina%20Sof%C3%ADa%20Museum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Reina+Sof%C3%ADa+Museum"
+      }
+    },
+    {
+      "name": "Lavapiés",
+      "image": "lavapies.jpg",
+      "caption": "Madrid's most multicultural barrio",
+      "description": "Once working-class, now one of Madrid's most vibrant and diverse neighborhoods. Senegalese restaurants sit next to Indian grocers and Spanish tabernas. The street art is some of the best in the city, and the terrace bars around Calle Argumosa are prime people-watching territory.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Lavapi%C3%A9s",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Lavapi%C3%A9s"
+      }
+    },
+    {
+      "name": "Matadero Madrid",
+      "image": "matadero.jpg",
+      "caption": "A former slaughterhouse turned art factory",
+      "description": "This sprawling complex of repurposed early-20th-century abattoir buildings now houses galleries, theaters, design studios and a cinema. Most exhibitions are free, and the sun-drenched central plaza is a gathering spot for Madrid's creative crowd on weekends.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Matadero%20Madrid",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Matadero+Madrid"
+      }
+    },
+    {
+      "name": "Prado Museum",
+      "image": "prado.jpg",
+      "caption": "World-class art",
+      "description": "Spain's national art museum — Velázquez, Goya, El Greco, Bosch. Free entry last 2 hours daily. Allow half a day minimum.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Prado%20Museum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=prado%20museum%20madrid"
+      }
+    },
+    {
+      "name": "Plaza Mayor",
+      "image": "plaza-mayor.jpg",
+      "caption": "Grand square",
+      "description": "17th-century arcaded square hosting markets, bullfights and executions over the centuries. Now cafés and street performers.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Plaza%20Mayor"
+      }
+    },
+    {
+      "name": "Gran Vía",
+      "image": "gran-via.jpg",
+      "caption": "Madrid's Broadway",
+      "description": "Grand boulevard of theatres, shopping and rooftop bars. The Schweppes sign is iconic. Walk it at night when it's lit up.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Gran%20V%C3%ADa"
+      }
+    },
+    {
+      "name": "Reina Sofía",
+      "image": "reina-sofia.jpg",
+      "caption": "Modern art & Guernica",
+      "description": "Picasso's Guernica is here — plus Dalí and Miró. Free entry evenings and Sundays. The glass elevator towers are striking.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Reina%20Sof%C3%ADa"
+      }
+    },
+    {
+      "name": "Santiago Bernabéu Stadium",
+      "image": "bernabeu.jpg",
+      "caption": "Real Madrid's home",
+      "description": "Recently renovated futuristic stadium. Museum and tour of the trophy room, pitch and presidential box.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Santiago%20Bernab%C3%A9u%20Stadium"
+      }
+    },
+    {
+      "name": "El Rastro Flea Market",
+      "image": "el-rastro.jpg",
+      "caption": "Sunday market",
+      "description": "Madrid's legendary Sunday flea market since 1740. La Latina neighbourhood — antiques, vintage, street food and crowds.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=El%20Rastro%20Flea%20Market",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=el%20rastro%20madrid"
+      }
+    }
+  ],
+  "foodScene": "Madrid's food culture revolves around one sacred ritual: the tapas crawl (ir de cañas). Start with a caña (small draft beer) and a plate of patatas bravas at Las Bravas, then move to Casa Labra for their legendary deep-fried cod since 1860. Cocido madrileño — a slow-cooked chickpea-and-meat stew served in three courses — is the city's soul dish; try it at La Barraca. For bocadillo de calamares (fried squid sandwich), the bars around Plaza Mayor are surprisingly legit. The Mercado de Vallehermoso in Chamberí is food-hall perfection without the tourist crush. Late-night churros con chocolate at Chocolatería San Ginés (open since 1894) is a mandatory 3am move after a night out.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Madrid%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=madrid+travel"
+  }
+}

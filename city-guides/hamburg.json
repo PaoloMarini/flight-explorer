@@ -1,0 +1,161 @@
+{
+  "city": "Hamburg",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "currency": "EUR (€)",
+  "language": "German",
+  "weather": {
+    "tempHighC": 23,
+    "tempLowC": 14,
+    "description": "Mild summer with North Sea breezes",
+    "icon": "⛅"
+  },
+  "quickFacts": [
+    "More bridges than Venice, Amsterdam, and London combined — over 2,300",
+    "The Beatles played 281 shows in Hamburg before they were famous",
+    "Europe's second-largest port and a UNESCO-listed warehouse district"
+  ],
+  "places": [
+    {
+      "name": "Speicherstadt",
+      "image": "speicherstadt.jpg",
+      "caption": "The world's largest warehouse district",
+      "description": "This UNESCO-listed red-brick warehouse complex built on oak timber piles is staggeringly beautiful, especially at night when the neo-Gothic facades are illuminated. Originally storing coffee, spices, and oriental carpets, the warehouses now house museums, including the addictive Miniatur Wunderland.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Speicherstadt",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Speicherstadt"
+      }
+    },
+    {
+      "name": "Miniatur Wunderland",
+      "image": "miniatur-wunderland.jpg",
+      "caption": "The world's most mind-blowing model railway",
+      "description": "Not just for train nerds — this insanely detailed model world covers entire countries, working airports, and day-night cycles across 1,500 square meters. It's Germany's most-visited attraction, with hidden jokes and moving scenes everywhere. Book tickets early; they sell out weeks in advance.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Miniatur%20Wunderland",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Miniatur+Wunderland"
+      }
+    },
+    {
+      "name": "Elbphilharmonie",
+      "image": "elbphilharmonie.jpg",
+      "caption": "A crystal wave on the waterfront",
+      "description": "Hamburg's dazzling concert hall sits like a glass wave atop an old warehouse. The free Plaza viewing platform at 37 meters gives spectacular harbor panoramas. If you can snag tickets for a concert, the acoustics in the Grand Hall (designed by Yasuhisa Toyota) are among the world's best.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Elbphilharmonie",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Elbphilharmonie"
+      }
+    },
+    {
+      "name": "Reeperbahn & St. Pauli",
+      "image": "reeperbahn.jpg",
+      "caption": "Europe's most famous nightlife strip",
+      "description": "Hamburg's legendary red-light and entertainment district is way more than its reputation — it's where The Beatles cut their teeth, indie bands play sweaty clubs, and you'll find some of the city's best bars. Große Freiheit 36 still hosts live music nightly. Visit after dark.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Reeperbahn%20%26%20St.%20Pauli",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Reeperbahn+%26+St.+Pauli"
+      }
+    },
+    {
+      "name": "HafenCity",
+      "image": "hafencity.jpg",
+      "caption": "Europe's largest urban redevelopment",
+      "description": "A brand-new city quarter rising on the old docks, mixing striking contemporary architecture with waterfront living. Walk along the Magellan-Terrassen for views over the traditional harbor, and check out the emerging restaurant and gallery scene. It's still being built — come watch a city reinvent itself.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=HafenCity",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=HafenCity"
+      }
+    },
+    {
+      "name": "Planten un Blomen",
+      "image": "planten-un-blomen.jpg",
+      "caption": "Free light shows, Japanese gardens, and rollerblading",
+      "description": "This gorgeous inner-city park has a Japanese garden with tea ceremonies, the largest in Europe, plus a tropical greenhouse, massive playground, and free water-light concerts with music on summer evenings. Rollerblading on the wide paths is a Hamburg rite of passage.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Planten%20un%20Blomen",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Planten+un+Blomen"
+      }
+    },
+    {
+      "name": "Schanzenviertel (Schanze)",
+      "image": "schanzenviertel.jpg",
+      "caption": "Hamburg's counterculture nerve center",
+      "description": "The Schanze is Hamburg's scruffiest, most creative neighborhood — street art covers every surface, the legendary Rote Flora squat anchors the scene, and the bars, vinyl shops, and international restaurants reflect its proudly diverse community. Best for a Saturday morning market-to-brunch drift.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Schanzenviertel%20%28Schanze%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Schanzenviertel+%28Schanze%29"
+      }
+    },
+    {
+      "name": "Alster Lakes",
+      "image": "alster-lakes.jpg",
+      "caption": "A lake in the heart of the city",
+      "description": "The Inner and Outer Alster lakes define Hamburg's cityscape — a vast water mirror surrounded by grand white villas and parkland. Rent a kayak or SUP board, or just walk the 7.4-km Outer Alster loop. The Alsterperle kiosk on the eastern shore is the perfect sunset beer spot.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Alster%20Lakes",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Alster+Lakes"
+      }
+    },
+    {
+      "name": "Fischmarkt",
+      "image": "fischmarkt.jpg",
+      "caption": "Sunday mornings at 5am — seriously",
+      "description": "Every Sunday from 5am, the harbor fish market comes alive with shouting vendors selling everything from fresh eels to tropical plants. It's a Hamburg institution — many arrive straight from the Reeperbahn. Grab a Fischbrötchen (fish sandwich) and soak in the perfectly chaotic atmosphere.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Fischmarkt",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Fischmarkt"
+      }
+    },
+    {
+      "name": "Blankenese",
+      "image": "blankenese.jpg",
+      "caption": "A hillside fishing village inside the city",
+      "description": "This affluent Elbe-side neighborhood feels like the Amalfi Coast transplanted to northern Germany — steep stairways (Treppenviertel) wind between thatched-roof houses down to a sandy beach. Walk the Elbe riverside path and watch massive container ships pass surreally close.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Blankenese",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Blankenese"
+      }
+    },
+    {
+      "name": "Reeperbahn",
+      "image": "reeperbahn.jpg",
+      "caption": "Nightlife mile",
+      "description": "Hamburg's famous red-light and entertainment district. Where the Beatles played at the Star-Club in 1962. Clubs, bars, shows.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Reeperbahn"
+      }
+    },
+    {
+      "name": "Fish Market (Fischmarkt)",
+      "image": "fischmarkt.jpg",
+      "caption": "Sunday morning institution",
+      "description": "Every Sunday 5-9:30am. Fish, fruit, flowers and live bands in the auction hall. A Hamburg ritual — often the end of Saturday night.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Fish%20Market%20%28Fischmarkt%29"
+      }
+    },
+    {
+      "name": "St Pauli Piers (Landungsbrücken)",
+      "image": "landungsbrucken.jpg",
+      "caption": "Harbour gateway",
+      "description": "Starting point for harbour boat tours. Fish sandwich stands, Old Elbe Tunnel (1911) and views of container ships and cranes.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=St%20Pauli%20Piers%20%28Landungsbr%C3%BCcken%29"
+      }
+    },
+    {
+      "name": "Schanzenviertel",
+      "image": "schanzenviertel.jpg",
+      "caption": "Hip neighbourhood",
+      "description": "Alternative quarter with street art, vintage shops, international food and craft beer bars. Flora concert venue and nightlife.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Schanzenviertel"
+      }
+    }
+  ],
+  "foodScene": "Hamburg is Germany's seafood capital, and the Fischbrötchen (fish sandwich — usually smoked or pickled herring in a crusty roll) is its street-food king. Grab one at Brücke 10 near the Landungsbrücken or at the Sunday Fischmarkt. Beyond fish, the Schanzenviertel has Hamburg's most exciting food scene — try Bullerei (Tim Mälzer's restaurants in a former cattle market) for refined German cooking, or Hatari for surprisingly great Icelandic-style hot dogs. Labskaus — a divisive sailor's dish of corned beef, beetroot, potatoes, and a fried egg on top — is a must-try at Alte Mühle. For Asian food, the Steindamm area near the Hauptbahnhof has excellent Vietnamese pho and Turkish lahmacun. The Portugiesenviertel (Portuguese Quarter) near the harbor serves Iberian seafood that rivals Lisbon.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Hamburg%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=hamburg+travel"
+  }
+}

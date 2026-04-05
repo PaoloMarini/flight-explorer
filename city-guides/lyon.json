@@ -1,0 +1,153 @@
+{
+  "city": "Lyon",
+  "country": "France",
+  "flag": "🇫🇷",
+  "currency": "EUR (€)",
+  "language": "French",
+  "weather": {
+    "tempHighC": 28,
+    "tempLowC": 17,
+    "description": "Warm summer, sunnier than Paris",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Widely considered France's gastronomic capital — even Parisians admit it",
+    "The traboules — secret passageways through buildings — were used by the French Resistance in WWII",
+    "The Lumière brothers invented cinema here in 1895"
+  ],
+  "places": [
+    {
+      "name": "Vieux Lyon (Old Town)",
+      "image": "vieux-lyon.jpg",
+      "caption": "Renaissance streets and secret passageways",
+      "description": "One of Europe's largest Renaissance quarters, this UNESCO-listed old town is a labyrinth of cobbled streets, 15th-century courtyards, and traboules — hidden passageways cutting through buildings. Duck into the traboule at 54 Rue Saint-Jean for a stunning vaulted passage to the parallel street.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vieux%20Lyon%20%28Old%20Town%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Vieux+Lyon+%28Old+Town%29"
+      }
+    },
+    {
+      "name": "Basilique Notre-Dame de Fourvière",
+      "image": "fourviere.jpg",
+      "caption": "Lyon's hilltop wedding cake of a basilica",
+      "description": "Perched on Fourvière hill above the old town, this exuberant 19th-century basilica mixes Byzantine, Romanesque, and Gothic styles into something wildly over-the-top and utterly magnificent. Take the funicular up for the basilica and the sweeping panorama — on clear days you can see Mont Blanc.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Basilique%20Notre-Dame%20de%20Fourvi%C3%A8re",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Basilique+Notre-Dame+de+Fourvi%C3%A8re"
+      }
+    },
+    {
+      "name": "Les Halles de Lyon Paul Bocuse",
+      "image": "les-halles.jpg",
+      "caption": "The belly of France's food capital",
+      "description": "Named after Lyon's legendary chef, this covered market is a temple to French gastronomy. Over 60 stalls sell Saint-Marcellin cheese, Lyonnaise sausages, quenelles, pralines, and exceptional charcuterie. Grab an oyster plate and a glass of Beaujolais at one of the stand-up bars.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Les%20Halles%20de%20Lyon%20Paul%20Bocuse",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Les+Halles+de+Lyon+Paul+Bocuse"
+      }
+    },
+    {
+      "name": "Presqu'île",
+      "image": "presquile.jpg",
+      "caption": "The peninsula between two rivers",
+      "description": "The narrow peninsula between the Rhône and Saône rivers is Lyon's commercial and cultural center. Place Bellecour — one of Europe's largest public squares — anchors the south end, while the Opéra and Hôtel de Ville define the north. The shopping streets in between are excellent.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Presqu%27%C3%AEle",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Presqu%27%C3%AEle"
+      }
+    },
+    {
+      "name": "Parc de la Tête d'Or",
+      "image": "parc-tete-dor.jpg",
+      "caption": "A free zoo, lake, and botanical garden in one",
+      "description": "Lyon's magnificent 117-hectare park has a free zoo (with giraffes and elephants!), a beautiful lake with rowing boats, a rose garden with 320 varieties, and a botanical garden. It's where all of Lyon comes to run, cycle, and picnic on summer weekends. Renting a Vélo'v bike to ride through is ideal.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Parc%20de%20la%20T%C3%AAte%20d%27Or",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Parc+de+la+T%C3%AAte+d%27Or"
+      }
+    },
+    {
+      "name": "Croix-Rousse",
+      "image": "croix-rousse.jpg",
+      "caption": "The hill that works, covered in street art",
+      "description": "Known as 'the hill that works' (versus Fourvière, 'the hill that prays'), this former silk-weavers' quarter is now Lyon's most bohemian neighborhood. Steep traboule passages, massive murals (don't miss the Fresque des Canuts), weekend street markets, and craft ateliers define its character.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Croix-Rousse",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Croix-Rousse"
+      }
+    },
+    {
+      "name": "Confluence",
+      "image": "confluence.jpg",
+      "caption": "Where the rivers meet and Lyon goes modern",
+      "description": "At the southern tip where the Rhône and Saône merge, a former industrial wasteland has been reborn as a bold architectural district. The Musée des Confluences — a futuristic glass-and-steel cloud — is the centerpiece. The surrounding docks have been converted into shops, restaurants, and a riverside promenade.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Confluence",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Confluence"
+      }
+    },
+    {
+      "name": "Amphithéâtre des Trois Gaules",
+      "image": "amphitheatre.jpg",
+      "caption": "Roman ruins in a city park",
+      "description": "These atmospheric Roman ruins on the slopes of Croix-Rousse date back to 19 AD. Once the meeting place for all of Roman Gaul, the amphitheatre is free to visit and rarely crowded. Nearby, the larger Roman theatres on Fourvière hill still host open-air performances in summer.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Amphith%C3%A9%C3%A2tre%20des%20Trois%20Gaules",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Amphith%C3%A9%C3%A2tre+des+Trois+Gaules"
+      }
+    },
+    {
+      "name": "Berges du Rhône",
+      "image": "berges-du-rhone.jpg",
+      "caption": "Lyon's best-loved riverside hangout",
+      "description": "The beautifully landscaped east bank of the Rhône stretches for 5 km of floating gardens, skate parks, pétanque courts, and grassy slopes. On summer evenings, half of Lyon sits along the river with wine, cheese, and a baguette. Péniches (river barges converted to bars) add to the vibe.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Berges%20du%20Rh%C3%B4ne",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Berges+du+Rh%C3%B4ne"
+      }
+    },
+    {
+      "name": "Fresque des Lyonnais",
+      "image": "fresque-des-lyonnais.jpg",
+      "caption": "An eight-story trompe-l'oeil masterpiece",
+      "description": "A massive mural painted on the side of a building in the 1st arrondissement depicting 30 famous Lyonnais, from the Lumière brothers to Antoine de Saint-Exupéry to Paul Bocuse. The hyper-realistic painted windows, balconies, and figures are so convincing they fool you at first glance.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Fresque%20des%20Lyonnais",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Fresque+des+Lyonnais"
+      }
+    },
+    {
+      "name": "Confluence District",
+      "image": "confluence.jpg",
+      "caption": "Modern waterfront",
+      "description": "Where the Rhône and Saône rivers meet. Museum of Confluences (deconstructivist architecture), shopping and riverside walks.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Confluence%20District"
+      }
+    },
+    {
+      "name": "Traboules",
+      "image": "traboules.jpg",
+      "caption": "Secret passageways",
+      "description": "Hidden corridors linking streets through buildings — used by silk workers and WWII Resistance. Push open unmarked doors to explore.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Traboules",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=traboules%20lyon"
+      }
+    },
+    {
+      "name": "Roman Theatres of Fourvière",
+      "image": "roman-theatres.jpg",
+      "caption": "Ancient amphitheatres",
+      "description": "Two Roman theatres from 15 BC still hosting summer concerts (Nuits de Fourvière festival). Free to visit. Panoramic views.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Roman%20Theatres%20of%20Fourvi%C3%A8re"
+      }
+    }
+  ],
+  "foodScene": "Lyon is arguably the food capital of France, and that's saying something. The city invented the bouchon lyonnais — cozy, red-checkered-tablecloth restaurants serving unapologetically rich Lyonnaise cuisine. At a traditional bouchon like Daniel et Denise or Café des Fédérations, order quenelle de brochet (pike dumpling in crayfish sauce), salade lyonnaise (with poached egg, lardons, and mustard vinaigrette), and tablier de sapeur (breaded tripe — better than it sounds). The charcuterie is world-class: rosette de Lyon, cervelas, and andouillette are all local specialties. For the best of all worlds, Les Halles Paul Bocuse is paradise — try the praline tart at Pralus and Saint-Marcellin at Mère Richard. The quais along the Saône have excellent modern bistros, and the Croix-Rousse market on Sunday mornings is Lyon's finest outdoor food experience.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Lyon%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=lyon+travel"
+  }
+}

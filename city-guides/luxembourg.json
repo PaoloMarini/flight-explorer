@@ -1,0 +1,200 @@
+{
+  "city": "Luxembourg City",
+  "country": "Luxembourg",
+  "flag": "🇱🇺",
+  "currency": "EUR (€)",
+  "language": "Luxembourgish / French / German",
+  "weather": {
+    "tempHighC": 24,
+    "tempLowC": 13,
+    "description": "Pleasant summer with green valleys",
+    "icon": "⛅"
+  },
+  "quickFacts": [
+    "The only Grand Duchy left in the world — ruled by a Grand Duke",
+    "All public transport is free — buses, trams, and trains, no ticket needed",
+    "One of the wealthiest countries per capita on Earth, but surprisingly walkable and green"
+  ],
+  "places": [
+    {
+      "name": "Casemates du Bock",
+      "image": "casemates-du-bock.jpg",
+      "caption": "17 km of underground tunnels carved into rock",
+      "description": "These UNESCO-listed fortifications were carved into the sandstone cliffs starting in 1644. The 17 km of underground passages once sheltered 35,000 people during wartime. The views from the clifftop over the Alzette valley and Grund below are some of the most dramatic in any European capital.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Casemates%20du%20Bock",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Casemates+du+Bock"
+      }
+    },
+    {
+      "name": "Grund (Lower Town)",
+      "image": "grund.jpg",
+      "caption": "A fairytale village at the bottom of a gorge",
+      "description": "The lower town tucked into the Alzette river valley feels like a different world from the city above — pastel-colored houses, cobblestone lanes, and riverside cafés nestled below towering cliff walls. Take the free panoramic elevator from the Plateau du Saint-Esprit for the most dramatic entrance.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Grund%20%28Lower%20Town%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Grund+%28Lower+Town%29"
+      }
+    },
+    {
+      "name": "Chemin de la Corniche",
+      "image": "chemin-de-la-corniche.jpg",
+      "caption": "Europe's most beautiful balcony",
+      "description": "Called 'the most beautiful balcony in Europe' and for once the hyperbole is justified. This cliffside promenade carved along the old fortress walls offers jaw-dropping views over the Grund, the Alzette valley, and the Kirchberg plateau. Walk it at golden hour for maximum drama.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Chemin%20de%20la%20Corniche",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Chemin+de+la+Corniche"
+      }
+    },
+    {
+      "name": "Place d'Armes & Place Guillaume II",
+      "image": "place-darmes.jpg",
+      "caption": "The twin hearts of the city",
+      "description": "Place d'Armes is the lively main square surrounded by café terraces and street performers, while adjacent Place Guillaume II (known as Knuedler) hosts markets and the stately City Hall. In summer, both squares buzz with open-air events and festivals. Perfect for people-watching over a coffee.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Place%20d%27Armes%20%26%20Place%20Guillaume%20II",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Place+d%27Armes+%26+Place+Guillaume+II"
+      }
+    },
+    {
+      "name": "MUDAM (Museum of Modern Art)",
+      "image": "mudam.jpg",
+      "caption": "I.M. Pei's glass fortress of contemporary art",
+      "description": "Designed by I.M. Pei (of Louvre Pyramid fame), MUDAM sits on the Kirchberg plateau inside the ruins of Fort Thüngen. The building alone — all glass and limestone — is worth the visit. The rotating exhibitions focus on cutting-edge contemporary art, design, and photography.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=MUDAM%20%28Museum%20of%20Modern%20Art%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=MUDAM+%28Museum+of+Modern+Art%29"
+      }
+    },
+    {
+      "name": "Pfaffenthal & the Panoramic Elevator",
+      "image": "pfaffenthal.jpg",
+      "caption": "Glass elevator with a view",
+      "description": "The free glass panoramic elevator connects the upper city to the Pfaffenthal valley — a 71-meter vertical drop with stunning valley views. Below, the Pfaffenthal neighborhood is undergoing a quiet renaissance with new cafés and the excellent urban swimming complex.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Pfaffenthal%20%26%20the%20Panoramic%20Elevator",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Pfaffenthal+%26+the+Panoramic+Elevator"
+      }
+    },
+    {
+      "name": "Notre-Dame Cathedral",
+      "image": "notre-dame-luxembourg.jpg",
+      "caption": "Gothic elegance with a Renaissance twist",
+      "description": "This Jesuit church from 1621 blends late-Gothic architecture with Renaissance elements and beautiful stained-glass windows. The crypt houses the tomb of John the Blind, a medieval warrior-king who fought at the Battle of Crécy despite being literally blind. Free entry.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Notre-Dame%20Cathedral",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Notre-Dame+Cathedral"
+      }
+    },
+    {
+      "name": "Kirchberg Plateau",
+      "image": "kirchberg.jpg",
+      "caption": "EU institutions meet modern architecture",
+      "description": "Luxembourg's modern quarter on a plateau above the old town hosts EU institutions, the Philharmonie concert hall, and MUDAM. The architecture is striking — Ricardo Bofill, Dominique Perrault, and Christian de Portzamparc all left their mark. The elevated park Parc Central is a great picnic spot.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Kirchberg%20Plateau",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Kirchberg+Plateau"
+      }
+    },
+    {
+      "name": "Wenzel Walk",
+      "image": "wenzel-walk.jpg",
+      "caption": "1,000 years of history in one walk",
+      "description": "A signposted circular walking route through the old town covering 1,000 years of Luxembourg's history in about 100 minutes. It descends from the upper town through ancient gateways, along fortifications, down to the Grund, and back up — a perfect self-guided introduction to the city.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Wenzel%20Walk",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Wenzel+Walk"
+      }
+    },
+    {
+      "name": "Mullerthal Trail (Little Switzerland)",
+      "image": "mullerthal.jpg",
+      "caption": "A mini-Switzerland just outside the city",
+      "description": "The Mullerthal region, 30 km east of the city, is a landscape of dramatic sandstone rock formations, moss-covered gorges, and tiny castles. The Schiessentümpel waterfall is the signature photo spot. Multiple trail routes range from easy loops to full-day hikes — all reachable by free public bus.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mullerthal%20Trail%20%28Little%20Switzerland%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Mullerthal+Trail+%28Little+Switzerland%29"
+      }
+    },
+    {
+      "name": "Old Town (UNESCO)",
+      "image": "old-town-lux.jpg",
+      "caption": "Fortified city",
+      "description": "Compact medieval centre perched on a gorge. Grand Ducal Palace, Notre-Dame Cathedral and winding cobbled streets.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Old%20Town%20%28UNESCO%29"
+      }
+    },
+    {
+      "name": "Grund District",
+      "image": "grund.jpg",
+      "caption": "Valley quarter",
+      "description": "Charming lower town in the Alzette valley. Riverside restaurants, the abbey and a glass elevator back up to the old town.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Grund%20District",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=grund%20luxembourg"
+      }
+    },
+    {
+      "name": "MUDAM (Modern Art Museum)",
+      "image": "mudam.jpg",
+      "caption": "Contemporary art",
+      "description": "I.M. Pei-designed museum in the Kirchberg quarter with rotating exhibitions. Glass architecture meets historic Fort Thüngen.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=MUDAM%20%28Modern%20Art%20Museum%29"
+      }
+    },
+    {
+      "name": "Place d'Armes",
+      "image": "place-darmes.jpg",
+      "caption": "City centre square",
+      "description": "Luxembourg's main square with terraced cafés, live music in summer and the tourist office. Starting point for exploring.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Place%20d%27Armes"
+      }
+    },
+    {
+      "name": "Vianden Castle",
+      "image": "vianden.jpg",
+      "caption": "Fairy-tale fortress",
+      "description": "Romanesque castle on a hill above the Our River, 1 hour from the city. One of the most beautiful castles west of the Rhine.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vianden%20Castle",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=vianden%20castle"
+      }
+    },
+    {
+      "name": "Philharmonie Luxembourg",
+      "image": "philharmonie.jpg",
+      "caption": "World-class concert hall",
+      "description": "Stunning 823-pillar building by Christian de Portzamparc. Excellent acoustics and varied programming year-round.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Philharmonie%20Luxembourg"
+      }
+    },
+    {
+      "name": "Pétrusse Valley",
+      "image": "petrusse.jpg",
+      "caption": "Green gorge",
+      "description": "Park-filled valley cutting through the city centre. Walk under the three bridges spanning the gorge. Peaceful escape.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=P%C3%A9trusse%20Valley"
+      }
+    },
+    {
+      "name": "Mullerthal Trail",
+      "image": "mullerthal.jpg",
+      "caption": "Luxembourg's little Switzerland",
+      "description": "Hiking region 30 min east with sandstone rock formations, waterfalls and moss-covered forests. Well-marked trails.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mullerthal%20Trail",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=mullerthal%20trail"
+      }
+    }
+  ],
+  "foodScene": "Luxembourg's food punches above its tiny weight class, blending French finesse with German heartiness. The national dish is Judd mat Gaardebounen — smoked pork collar with broad beans in a creamy sauce — and it's comfort food royalty. Try it at Am Tiirmschen or Mousel's Cantine in the Grund, one of the city's most atmospheric old brasseries. Bouneschlupp (green bean soup with potatoes and bacon) is another winter staple. Gromperekichelcher (crispy potato fritters) are the go-to street food at festivals and markets. For pastry, Oberweis and Namur are local institutions — try a Quetschentaart (plum tart) in season. Luxembourg is also a serious wine country — the Moselle Valley produces excellent Crémant (sparkling wine) and Riesling. The restaurant scene in the Grund and Clausen neighborhoods is booming, with modern European bistros alongside traditional brasseries.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Luxembourg%20City%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=luxembourg+city+travel"
+  }
+}
