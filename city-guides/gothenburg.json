@@ -1,0 +1,181 @@
+{
+  "city": "Gothenburg",
+  "country": "Sweden",
+  "flag": "🇸🇪",
+  "currency": "SEK (kr)",
+  "language": "Swedish",
+  "weather": {
+    "tempHighC": 22,
+    "tempLowC": 13,
+    "description": "Pleasant Scandinavian summer with late sunsets",
+    "icon": "⛅"
+  },
+  "quickFacts": [
+    "Sweden's second city and the friendlier, less expensive alternative to Stockholm",
+    "Home to Volvo, Hasselblad cameras, and more Michelin stars per capita than most cities",
+    "The Gothenburg archipelago has car-free islands reachable by public ferry"
+  ],
+  "places": [
+    {
+      "name": "Haga District",
+      "image": "haga.jpg",
+      "caption": "Cozy wooden houses and giant cinnamon buns",
+      "description": "Gothenburg's oldest neighborhood is a charming strip of 19th-century wooden houses, vintage shops, and cafés. The oversized kanelbullar (cinnamon buns) at Café Husaren are the size of your head and a local institution. Come for the fika, stay for the boutique browsing.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Haga%20District",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Haga+District"
+      }
+    },
+    {
+      "name": "Southern Gothenburg Archipelago",
+      "image": "archipelago.jpg",
+      "caption": "Car-free islands on a public ferry",
+      "description": "Hop on a ferry (free with a transit pass!) to the car-free islands of Styrsö, Donsö, or Brännö. Rent a bike, swim off the rocks, and eat fresh-caught shrimp on the pier. Brännö has a famous outdoor dance floor where locals dance to live music on summer evenings.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Southern%20Gothenburg%20Archipelago",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Southern+Gothenburg+Archipelago"
+      }
+    },
+    {
+      "name": "Feskekôrka (Fish Church)",
+      "image": "feskekorka.jpg",
+      "caption": "A cathedral built for seafood",
+      "description": "This gorgeous 1874 market hall looks exactly like a Gothic church but is dedicated entirely to fish and shellfish. Recently renovated, it now has a restaurant upstairs and market stalls below selling the freshest seafood on the west coast. The shrimp sandwiches are unmissable.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Feskek%C3%B4rka%20%28Fish%20Church%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Feskek%C3%B4rka+%28Fish+Church%29"
+      }
+    },
+    {
+      "name": "Slottsskogen Park",
+      "image": "slottsskogen.jpg",
+      "caption": "Free moose, penguins, and summer festivals",
+      "description": "Gothenburg's central park doubles as a free zoo with moose, seals, and Humboldt penguins. In summer, Way Out West music festival takes over the grounds, and locals spend entire days here barbecuing, playing kubb, and doing absolutely nothing. Also has great running trails.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Slottsskogen%20Park",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Slottsskogen+Park"
+      }
+    },
+    {
+      "name": "Universeum",
+      "image": "universeum.jpg",
+      "caption": "A rainforest inside Scandinavia",
+      "description": "Sweden's national science center houses an actual indoor rainforest with free-flying birds and tropical fish, plus an aquarium, space exhibitions, and more. It's aimed at families but genuinely fun for adults — the shark tunnel and the rooftop ocean tank are highlights.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Universeum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Universeum"
+      }
+    },
+    {
+      "name": "Linnéstaden",
+      "image": "linnestaden.jpg",
+      "caption": "Gothenburg's hippest café-lined avenue",
+      "description": "The leafy streets around Linnégatan are Gothenburg's trendiest neighborhood — all specialty coffee, vegan brunch, and curated vintage shops. Långgatorna (the Long Streets) running parallel are more eclectic, with dive bars, record shops, and late-night kebab joints.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Linn%C3%A9staden",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Linn%C3%A9staden"
+      }
+    },
+    {
+      "name": "Gothenburg Botanical Garden",
+      "image": "botanical-garden.jpg",
+      "caption": "One of Europe's largest and loveliest",
+      "description": "Covering 175 hectares (only 40 cultivated), this garden is home to 16,000 species including a stunning rock garden and a Japanese valley. The tropical greenhouses are impressive, and the surrounding nature reserve has hiking trails that feel miles from the city.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Gothenburg%20Botanical%20Garden",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Gothenburg+Botanical+Garden"
+      }
+    },
+    {
+      "name": "Röda Sten Konsthall",
+      "image": "roda-sten.jpg",
+      "caption": "Raw contemporary art in an old boiler house",
+      "description": "A former industrial boiler house turned cutting-edge art gallery, sitting right under the Älvsborg Bridge. The raw concrete interiors host bold exhibitions and the café terrace overlooks the river mouth. The graffiti-covered exterior is an artwork in itself.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=R%C3%B6da%20Sten%20Konsthall",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=R%C3%B6da+Sten+Konsthall"
+      }
+    },
+    {
+      "name": "Skansen Kronan",
+      "image": "skansen-kronan.jpg",
+      "caption": "A hilltop fortress with the best city views",
+      "description": "This 17th-century fortress sits atop a hill in Haga, offering panoramic views over the city's rooftops. The short uphill walk through Haga's backstreets is worth it — bring takeaway fika from below and sit on the old cannon placements watching the sunset.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Skansen%20Kronan",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Skansen+Kronan"
+      }
+    },
+    {
+      "name": "Magasinsgatan",
+      "image": "magasinsgatan.jpg",
+      "caption": "Design-forward shopping and brunch",
+      "description": "A pedestrianized street in the city center that's become Gothenburg's design district — curated concept stores, Swedish fashion labels, and some of the city's best coffee at Da Matteo. The vibe is stylish-but-relaxed in a way only Scandinavians manage.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Magasinsgatan",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Magasinsgatan"
+      }
+    },
+    {
+      "name": "Liseberg Amusement Park",
+      "image": "liseberg.jpg",
+      "caption": "Scandinavia's biggest",
+      "description": "Theme park with roller coasters, gardens and summer concerts. Helix coaster is world-class. Christmas market in winter.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Liseberg%20Amusement%20Park",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=liseberg%20gothenburg"
+      }
+    },
+    {
+      "name": "Gothenburg Archipelago",
+      "image": "archipelago.jpg",
+      "caption": "Car-free islands",
+      "description": "Tram then ferry to islands like Styrsö and Vrångö. Swimming, kayaking, seafood restaurants. 45 min from city centre.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Gothenburg%20Archipelago",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=gothenburg%20archipelago"
+      }
+    },
+    {
+      "name": "Slottsskogen",
+      "image": "slottsskogen.jpg",
+      "caption": "City park",
+      "description": "137-hectare park with free mini-zoo (penguins, elk, seals), playgrounds and wide lawns. Where Gothenburg has picnics.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Slottsskogen"
+      }
+    },
+    {
+      "name": "Saluhallen Market",
+      "image": "saluhallen.jpg",
+      "caption": "Indoor food hall",
+      "description": "1889 market hall with Swedish delicacies — smoked salmon, cheese, pastries. Lunch counters for kanelbulle and coffee.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Saluhallen%20Market"
+      }
+    },
+    {
+      "name": "Röda Sten Art Hall",
+      "image": "roda-sten.jpg",
+      "caption": "Contemporary art",
+      "description": "Converted boiler house under the Älvsborg bridge. Cutting-edge exhibitions, live music events and harbour views.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=R%C3%B6da%20Sten%20Art%20Hall"
+      }
+    },
+    {
+      "name": "Paddle the Canals",
+      "image": "paddan.jpg",
+      "caption": "Canal boat tour",
+      "description": "Paddan sightseeing boats navigate Gothenburg's canals and harbour. Low flat boats slide under 20 bridges. Classic city experience.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Paddle%20the%20Canals"
+      }
+    }
+  ],
+  "foodScene": "Gothenburg punches way above its weight for food — more Michelin stars per capita than you'd expect from Sweden's 'second city.' The west coast seafood is the star: order a shrimp sandwich (räksmörgås) piled absurdly high with hand-peeled shrimp at Feskekôrka or any waterfront café. For fine dining, Koka and Bhoga serve inventive Nordic tasting menus. But the real Gothenburg food move is fika — the sacred Swedish coffee-and-pastry break. Café Husaren in Haga serves cinnamon buns the size of your face, and Da Matteo roasts some of Sweden's best specialty coffee. In summer, hit the archipelago for fresh-off-the-boat seafood — lobster season starts in September but shrimp is summer. For cheap eats, the food trucks at Magasinsgatan and the kebab joints on Långgatorna are local favorites.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Gothenburg%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=gothenburg+travel"
+  }
+}

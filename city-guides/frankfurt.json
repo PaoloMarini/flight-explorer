@@ -1,0 +1,180 @@
+{
+  "city": "Frankfurt",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "currency": "EUR (€)",
+  "language": "German",
+  "weather": {
+    "tempHighC": 26,
+    "tempLowC": 15,
+    "description": "Warm summer, occasionally hot",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Frankfurt's skyline is so unusual for Europe it's nicknamed 'Mainhattan'",
+    "Goethe — Germany's greatest writer — was born here in 1749",
+    "The city produces more cider (Apfelwein) than beer"
+  ],
+  "places": [
+    {
+      "name": "Römerberg",
+      "image": "roemerberg.jpg",
+      "caption": "Frankfurt's medieval heart, rebuilt from ashes",
+      "description": "The city's stunning central square features a row of half-timbered houses faithfully reconstructed after WWII bombing. The Römer (city hall) with its stepped-gable facade has hosted celebrations since 1405. Markets and festivals fill the square year-round.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=R%C3%B6merberg",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=R%C3%B6merberg"
+      }
+    },
+    {
+      "name": "Sachsenhausen",
+      "image": "sachsenhausen.jpg",
+      "caption": "Cider taverns and cobblestoned nightlife",
+      "description": "Cross the Eiserner Steg footbridge to reach Frankfurt's best-loved neighborhood. The narrow streets around Schweizer Straße and Kleine Rittergasse are packed with traditional Apfelwein (cider) taverns — Wagner, Dauth-Schneider, and Adolf Wagner are all classics.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Sachsenhausen",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Sachsenhausen"
+      }
+    },
+    {
+      "name": "Museumsufer (Museum Embankment)",
+      "image": "museumsufer.jpg",
+      "caption": "A mile of world-class museums along the river",
+      "description": "Thirteen museums line the south bank of the Main river, from the Städel (one of Europe's finest art collections) to the quirky German Film Museum and the Museum of Applied Art. The Museumsufer Festival in August turns the whole embankment into a massive open-air party.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Museumsufer%20%28Museum%20Embankment%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Museumsufer+%28Museum+Embankment%29"
+      }
+    },
+    {
+      "name": "Main Tower Observation Deck",
+      "image": "main-tower.jpg",
+      "caption": "The only skyscraper with public rooftop access",
+      "description": "At 200 meters up, the Main Tower observation deck gives jaw-dropping views over the banking district skyline, the Taunus hills, and the river. It's the only Frankfurt skyscraper open to the public, and on clear days you can see over 80 km. There's a restaurant and cocktail bar up top too.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Main%20Tower%20Observation%20Deck",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Main+Tower+Observation+Deck"
+      }
+    },
+    {
+      "name": "Neue Altstadt (New Old Town)",
+      "image": "neue-altstadt.jpg",
+      "caption": "A medieval quarter rebuilt from scratch",
+      "description": "Opened in 2018, this lovingly reconstructed quarter between the Römerberg and the cathedral recreates 35 historic buildings destroyed in WWII. The mix of faithful reproductions and modern interpretations is fascinating — and the tiny Hühnermarkt square feels genuinely old.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Neue%20Altstadt%20%28New%20Old%20Town%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Neue+Altstadt+%28New+Old+Town%29"
+      }
+    },
+    {
+      "name": "Palmengarten",
+      "image": "palmengarten.jpg",
+      "caption": "A botanical world tour in one park",
+      "description": "One of Europe's largest botanical gardens, covering 22 hectares with tropical greenhouses, a rose garden, and bamboo groves. In summer, the open-air concerts and the lake with rowing boats make it a perfect afternoon escape from the financial district's concrete.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Palmengarten",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Palmengarten"
+      }
+    },
+    {
+      "name": "Eiserner Steg",
+      "image": "eiserner-steg.jpg",
+      "caption": "Frankfurt's most romantic footbridge",
+      "description": "This 19th-century iron pedestrian bridge spanning the Main offers the classic Frankfurt skyline photo — bank towers to the north, Sachsenhausen rooftops to the south. At sunset, the bridge fills with people nursing bottles of Apfelwein and watching the river turn gold.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Eiserner%20Steg",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Eiserner+Steg"
+      }
+    },
+    {
+      "name": "Kleinmarkthalle",
+      "image": "kleinmarkthalle.jpg",
+      "caption": "Where Frankfurt goes to eat, not to pose",
+      "description": "This covered market near the Zeil has been feeding locals since 1954. Sixty stalls sell everything from Turkish börek to hand-rolled pasta to the famous Grüne Soße (green herb sauce). The upper floor wine bar pours excellent local Rheingau Rieslings.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Kleinmarkthalle",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Kleinmarkthalle"
+      }
+    },
+    {
+      "name": "Berger Straße (Bornheim)",
+      "image": "berger-strasse.jpg",
+      "caption": "Frankfurt's liveliest neighborhood strip",
+      "description": "A long, leafy street in Bornheim lined with independent cafés, vintage shops, and restaurants that's a world away from the banking district. Saturday mornings bring a bustling farmers' market, and the Berger Straßenfest in summer is one of the city's biggest street parties.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Berger%20Stra%C3%9Fe%20%28Bornheim%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Berger+Stra%C3%9Fe+%28Bornheim%29"
+      }
+    },
+    {
+      "name": "Grüneburgpark",
+      "image": "grueneburgpark.jpg",
+      "caption": "Frankfurt's favorite urban meadow",
+      "description": "A sprawling green space in the Westend that connects to the Palmengarten, with a beautiful Korean Garden gifted by South Korea. In summer, pickup football games, slackliners, and picnicking families take over the lawns. The adjacent Rothschild Park is quieter and more romantic.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Gr%C3%BCneburgpark",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Gr%C3%BCneburgpark"
+      }
+    },
+    {
+      "name": "Main Tower",
+      "image": "main-tower.jpg",
+      "caption": "Skyscraper views",
+      "description": "200m observation deck — the only skyscraper with public access in Frankfurt's dramatic skyline ('Mainhattan').",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Main%20Tower"
+      }
+    },
+    {
+      "name": "Sachsenhausen & Apple Wine",
+      "image": "sachsenhausen.jpg",
+      "caption": "Cider quarter",
+      "description": "District south of the Main known for Apfelwein (apple wine) taverns. Drink it from the traditional ribbed glass (Geripptes).",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Sachsenhausen%20%26%20Apple%20Wine",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=sachsenhausen%20frankfurt"
+      }
+    },
+    {
+      "name": "Städel Museum",
+      "image": "stadel.jpg",
+      "caption": "700 years of art",
+      "description": "One of Germany's most important art museums. Botticelli to Bacon. The underground extension for contemporary art is stunning.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=St%C3%A4del%20Museum"
+      }
+    },
+    {
+      "name": "Old Opera House (Alte Oper)",
+      "image": "alte-oper.jpg",
+      "caption": "Concert hall",
+      "description": "Rebuilt Renaissance opera house now hosting concerts and events. The illuminated façade and Opernplatz fountain are beautiful at night.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Old%20Opera%20House%20%28Alte%20Oper%29"
+      }
+    },
+    {
+      "name": "Main River Walk",
+      "image": "main-river.jpg",
+      "caption": "Riverside promenade",
+      "description": "Walk or cycle along both banks of the Main. Sunset views of the skyline, beer gardens and the Eiserner Steg pedestrian bridge.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Main%20River%20Walk"
+      }
+    },
+    {
+      "name": "Frankfurt New Old Town",
+      "image": "new-old-town.jpg",
+      "caption": "Dom-Römer Quarter",
+      "description": "35 reconstructed historic buildings opened in 2018 between the Cathedral and Römerberg. Half-timbered architecture reborn.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Frankfurt%20New%20Old%20Town"
+      }
+    }
+  ],
+  "foodScene": "Frankfurt's signature dish is Grüne Soße (green sauce) — a cold sauce of seven fresh herbs mixed with eggs and sour cream, served over boiled potatoes and eggs. It's so beloved they celebrate a Grüne Soße Festival every spring. Apfelwein (hard apple cider) is the local drink, served in a ribbed glass called a Geripptes in the traditional taverns of Sachsenhausen — try Wagner or Zum Gemalten Haus. Handkäs mit Musik (marinated cheese with raw onions) is the ultimate bar snack, and Frankfurter Rippchen (cured pork chops with sauerkraut) sticks to your ribs. For something modern, the Bahnhofsviertel (station quarter) has reinvented itself as a foodie destination — Maxie Eisen does smoked-meat sandwiches in a former red-light-district bar, and EatDogSleep serves ramen in a tattoo-shop-like setting.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Frankfurt%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=frankfurt+travel"
+  }
+}

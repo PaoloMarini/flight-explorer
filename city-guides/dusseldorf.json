@@ -1,0 +1,189 @@
+{
+  "city": "Düsseldorf",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "currency": "EUR (€)",
+  "language": "German",
+  "weather": {
+    "tempHighC": 25,
+    "tempLowC": 14,
+    "description": "Warm summer with occasional thunderstorms",
+    "icon": "⛅"
+  },
+  "quickFacts": [
+    "The Altstadt (Old Town) is nicknamed 'the longest bar in the world' — 260+ pubs in one square kilometer",
+    "Home to the largest Japanese community in Europe, with an authentic Little Tokyo district",
+    "Königsallee ('Kö') is Germany's answer to the Champs-Élysées"
+  ],
+  "places": [
+    {
+      "name": "Altstadt (Old Town)",
+      "image": "altstadt.jpg",
+      "caption": "The longest bar in the world",
+      "description": "Over 260 bars, pubs, and breweries packed into a single square kilometer along the Rhine. The Altbier flows freely here — order an Alt at Uerige or Füchschen and the waiters (Köbesse) will keep slamming fresh glasses on your table until you put a coaster on top.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Altstadt%20%28Old%20Town%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Altstadt+%28Old+Town%29"
+      }
+    },
+    {
+      "name": "Königsallee (Kö)",
+      "image": "koenigsallee.jpg",
+      "caption": "Germany's most glamorous shopping boulevard",
+      "description": "This tree-lined canal boulevard is where Düsseldorf flaunts its fashion credentials — Louis Vuitton, Chanel, and Prada reflected in the water. Even if luxury shopping's not your thing, the Art Nouveau Kö-Bogen architecture and canal-side ice cream are worth a stroll.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=K%C3%B6nigsallee%20%28K%C3%B6%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=K%C3%B6nigsallee+%28K%C3%B6%29"
+      }
+    },
+    {
+      "name": "MedienHafen",
+      "image": "medienhafen.jpg",
+      "caption": "Frank Gehry's dancing buildings on the waterfront",
+      "description": "The old harbor reinvented as a striking architectural showcase. Frank Gehry's three twisting, metallic buildings steal the show, but the whole strip is a masterclass in modern design. Come at night when the buildings light up and the rooftop bars fill up.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=MedienHafen",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=MedienHafen"
+      }
+    },
+    {
+      "name": "Rheinuferpromenade",
+      "image": "rheinuferpromenade.jpg",
+      "caption": "The Rhine waterfront where everyone hangs out",
+      "description": "A beautifully designed riverside promenade stretching from the Altstadt to the MedienHafen. In summer, locals claim spots on the wide stone steps (the Kasematten) with beer and takeaway, watching barges drift past. The sunset views toward the Oberkassel bridge are gorgeous.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Rheinuferpromenade",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Rheinuferpromenade"
+      }
+    },
+    {
+      "name": "Kunstsammlung Nordrhein-Westfalen (K20)",
+      "image": "k20.jpg",
+      "caption": "World-class modern art in a curved black shell",
+      "description": "One of Germany's finest collections of 20th-century art, from Klee and Kandinsky to Beuys and Richter. The building itself is a polished black-granite stunner on Grabbeplatz. Düsseldorf was the birthplace of electronic music group Kraftwerk — fitting for a city this avant-garde.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Kunstsammlung%20Nordrhein-Westfalen%20%28K20%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Kunstsammlung+Nordrhein-Westfalen+%28K20%29"
+      }
+    },
+    {
+      "name": "Little Tokyo (Immermannstraße)",
+      "image": "little-tokyo.jpg",
+      "caption": "The most authentic Japanese quarter outside Japan",
+      "description": "Around 8,000 Japanese residents have built a genuine Little Tokyo around Immermannstraße, complete with ramen bars, izakayas, Japanese supermarkets, and even a Japanese bookshop. Naniwa for udon, Takumi for ramen, and Kikaku for yakitori are all the real deal.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Little%20Tokyo%20%28Immermannstra%C3%9Fe%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Little+Tokyo+%28Immermannstra%C3%9Fe%29"
+      }
+    },
+    {
+      "name": "Kaiserswerth",
+      "image": "kaiserswerth.jpg",
+      "caption": "A medieval village inside the city",
+      "description": "This quiet northern borough feels like a time warp — cobblestone lanes, half-timbered houses, and the imposing ruins of Emperor Barbarossa's 12th-century imperial palace overlooking the Rhine. Perfect for a lazy afternoon away from the city buzz.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Kaiserswerth",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Kaiserswerth"
+      }
+    },
+    {
+      "name": "Nordpark & Japanese Garden",
+      "image": "nordpark.jpg",
+      "caption": "A tranquil escape with a Japanese soul",
+      "description": "A sprawling park with beautiful themed gardens, including an exquisite Japanese garden gifted by the Japanese community. The aquazoo-terrarium inside the park is quirky fun. In summer, the park fills with families and the rose gardens are in full bloom.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Nordpark%20%26%20Japanese%20Garden",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Nordpark+%26+Japanese+Garden"
+      }
+    },
+    {
+      "name": "Rheinturm",
+      "image": "rheinturm.jpg",
+      "caption": "Düsseldorf's needle in the sky",
+      "description": "The 240-meter Rhine Tower is the tallest building in the city, with an observation deck and a revolving restaurant at the top. Its LED light installation forms the world's largest digital clock — a quirky detail most visitors miss from the ground.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Rheinturm",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Rheinturm"
+      }
+    },
+    {
+      "name": "Benrath Palace",
+      "image": "benrath-palace.jpg",
+      "caption": "Pink rococo perfection on a lake",
+      "description": "A stunning 18th-century pink Baroque-Rococo palace set in formal French gardens, about 20 minutes south of the center. The interior is surprisingly intimate for a palace, and the surrounding park — stretching to a lake — is ideal for a long summer walk.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Benrath%20Palace",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Benrath+Palace"
+      }
+    },
+    {
+      "name": "Rheinturm (Rhine Tower)",
+      "image": "rheinturm.jpg",
+      "caption": "City landmark",
+      "description": "240m telecommunications tower with observation deck and revolving restaurant. The world's largest decimal clock on the shaft.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Rheinturm%20%28Rhine%20Tower%29"
+      }
+    },
+    {
+      "name": "Kunstsammlung NRW (K20)",
+      "image": "k20.jpg",
+      "caption": "Modern art museum",
+      "description": "Major collection of 20th-century art — Klee, Picasso, Pollock, Richter. The building itself is striking black granite.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Kunstsammlung%20NRW%20%28K20%29"
+      }
+    },
+    {
+      "name": "Schloss Benrath",
+      "image": "benrath.jpg",
+      "caption": "Rococo palace",
+      "description": "Pink-and-white 18th-century pleasure palace with extensive gardens. 20 min south by tram. Museums of natural history and gardens.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Schloss%20Benrath"
+      }
+    },
+    {
+      "name": "Japanese Quarter",
+      "image": "japanese-quarter.jpg",
+      "caption": "Little Tokyo",
+      "description": "Europe's largest Japanese community outside Japan. Authentic ramen, sake bars, Japanese bookshops on Immermannstraße.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Japanese%20Quarter",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=dusseldorf%20japanese%20quarter"
+      }
+    },
+    {
+      "name": "Hofgarten",
+      "image": "hofgarten.jpg",
+      "caption": "Central park",
+      "description": "Germany's oldest public park (1769). Connects the old town to the Kunstpalast museum. Joggers, picnickers and ice-cream strollers.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Hofgarten"
+      }
+    },
+    {
+      "name": "Carlsplatz Market",
+      "image": "carlsplatz.jpg",
+      "caption": "Daily food market",
+      "description": "Covered market with fresh produce, flowers, deli counters and prepared food stalls. The locals' lunch spot.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Carlsplatz%20Market"
+      }
+    },
+    {
+      "name": "Kaiserswerth Ruins",
+      "image": "kaiserswerth.jpg",
+      "caption": "Imperial palace ruins",
+      "description": "Ruins of Emperor Friedrich Barbarossa's 12th-century Rhine palace in Düsseldorf's northern district. Picturesque riverside spot.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Kaiserswerth%20Ruins"
+      }
+    }
+  ],
+  "foodScene": "Düsseldorf's food identity starts with Altbier — a dark, copper-colored top-fermented beer unique to the city. The big four breweries — Uerige, Füchschen, Schumacher, and Schlüssel — all have traditional beer halls in the Altstadt where you can pair your Alt with Rheinischer Sauerbraten (marinated pot roast with raisin gravy and potato dumplings). Senfrostbraten (pork steak with local mustard from Löwensenf) is another local staple. But Düsseldorf's secret weapon is its Japanese food scene — the ramen at Takumi on Immermannstraße regularly has queues around the block, and the Japanese bakery Taka does perfect melon pan and matcha croissants. For casual eats, the Carlsplatz market has everything from artisan cheese to Vietnamese pho.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=D%C3%BCsseldorf%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=d%C3%BCsseldorf+travel"
+  }
+}

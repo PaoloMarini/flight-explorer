@@ -1,0 +1,190 @@
+{
+  "city": "Dublin",
+  "country": "Ireland",
+  "flag": "🇮🇪",
+  "currency": "EUR (€)",
+  "language": "English / Irish",
+  "weather": {
+    "tempHighC": 20,
+    "tempLowC": 12,
+    "description": "Mild summer with frequent drizzle and long evenings",
+    "icon": "🌦️"
+  },
+  "quickFacts": [
+    "Half of Ireland's population is under 35 — it's one of Europe's youngest capitals",
+    "Temple Bar isn't one bar, it's an entire neighborhood of cobblestoned pubs",
+    "The Book of Kells at Trinity College is over 1,200 years old"
+  ],
+  "places": [
+    {
+      "name": "Trinity College & the Book of Kells",
+      "image": "trinity-college.jpg",
+      "caption": "Ireland's most beautiful campus",
+      "description": "Founded in 1592, Trinity's cobblestoned campus is a peaceful escape in the city center. The real star is the Long Room library — a 65-meter barrel-vaulted hall housing 200,000 ancient books that inspired the Jedi Archives in Star Wars. The illuminated Book of Kells is breathtaking.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Trinity%20College%20%26%20the%20Book%20of%20Kells",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Trinity+College+%26+the+Book+of+Kells"
+      }
+    },
+    {
+      "name": "Temple Bar",
+      "image": "temple-bar.jpg",
+      "caption": "Cobblestoned chaos and live trad music",
+      "description": "Yes, it's touristy. Yes, the pints are overpriced. But the live traditional music pouring out of pubs on a summer evening is genuinely magical. For a more authentic trad session, duck into The Cobblestone in Smithfield instead — the music is world-class and the pints are cheaper.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Temple%20Bar",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Temple+Bar"
+      }
+    },
+    {
+      "name": "St. Stephen's Green",
+      "image": "st-stephens-green.jpg",
+      "caption": "A Victorian park in the heart of the city",
+      "description": "This beautifully manicured nine-acre park is Dublin's favorite lunch spot, with ornamental lakes, bandstands, and feeding ducks since 1880. On sunny days (they do happen!), every bench and patch of grass fills with office workers and students.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=St.%20Stephen%27s%20Green",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=St.+Stephen%27s+Green"
+      }
+    },
+    {
+      "name": "Kilmainham Gaol",
+      "image": "kilmainham-gaol.jpg",
+      "caption": "Where Irish independence was forged",
+      "description": "This former prison held the leaders of every major Irish rebellion, and the execution yard where the 1916 Rising leaders were shot is deeply moving. The Victorian east wing with its skylit atrium is hauntingly beautiful. Book the guided tour online — it sells out fast.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Kilmainham%20Gaol",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Kilmainham+Gaol"
+      }
+    },
+    {
+      "name": "Howth Cliff Walk",
+      "image": "howth-cliff-walk.jpg",
+      "caption": "Dramatic coastal cliffs 30 minutes from the city",
+      "description": "Take the DART train to the fishing village of Howth for a spectacular cliff loop walk with views of Ireland's Eye island and the Dublin Mountains. Reward yourself at the Howth Market with fresh-off-the-boat seafood chowder.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Howth%20Cliff%20Walk",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Howth+Cliff+Walk"
+      }
+    },
+    {
+      "name": "Guinness Storehouse",
+      "image": "guinness-storehouse.jpg",
+      "caption": "Seven floors dedicated to the black stuff",
+      "description": "Love or hate Guinness, this is Dublin's most-visited attraction for a reason. The self-guided tour through a giant pint-glass-shaped building ends at the Gravity Bar, where you sip a perfectly poured pint with 360-degree views over the city. The tasting is worth lingering over.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Guinness%20Storehouse",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Guinness+Storehouse"
+      }
+    },
+    {
+      "name": "Stoneybatter",
+      "image": "stoneybatter.jpg",
+      "caption": "Dublin's village-within-a-city",
+      "description": "This former working-class neighborhood is now Dublin's hippest 'hood, with craft coffee at Proper Order, natural wines at L. Mulligan Grocer, and some of the city's best brunch spots. The Saturday Stoneybatter Farmers' Market is a weekend ritual.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Stoneybatter",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Stoneybatter"
+      }
+    },
+    {
+      "name": "Dublin Castle",
+      "image": "dublin-castle.jpg",
+      "caption": "800 years of power on one plot",
+      "description": "Built in 1204, this castle complex has served as Viking fortress, medieval stronghold, British seat of power, and now presidential inauguration venue. The State Apartments are lavish, and the underground excavations reveal the original Viking-era city walls.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Dublin%20Castle",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Dublin+Castle"
+      }
+    },
+    {
+      "name": "The Grand Canal",
+      "image": "grand-canal.jpg",
+      "caption": "Tech campus meets golden-hour walks",
+      "description": "The stretch around Grand Canal Dock — now Dublin's Silicon Docks tech quarter — is lined with modern architecture, waterside bars, and the strikingly angular Bord Gáis Energy Theatre. Walk the towpath east toward Ringsend for a more local, quieter vibe.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=The%20Grand%20Canal",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=The+Grand+Canal"
+      }
+    },
+    {
+      "name": "Glasnevin Cemetery & Botanic Gardens",
+      "image": "glasnevin.jpg",
+      "caption": "Where Irish history rests amid Victorian glasshouses",
+      "description": "Ireland's largest cemetery holds over 1.5 million burials, including Michael Collins and Daniel O'Connell. The adjacent National Botanic Gardens are free, serene, and home to stunning Victorian glasshouses restored to their 19th-century glory.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Glasnevin%20Cemetery%20%26%20Botanic%20Gardens",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Glasnevin+Cemetery+%26+Botanic+Gardens"
+      }
+    },
+    {
+      "name": "Trinity College & Book of Kells",
+      "image": "trinity-college.jpg",
+      "caption": "Ancient learning",
+      "description": "Ireland's oldest university (1592). The Long Room library is jaw-dropping — 200,000 oldest books. Book of Kells exhibition.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Trinity%20College%20%26%20Book%20of%20Kells",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=trinity%20college%20dublin%20long%20room"
+      }
+    },
+    {
+      "name": "St Stephen's Green",
+      "image": "st-stephens-green.jpg",
+      "caption": "Georgian park",
+      "description": "9-hectare Victorian park in the city centre. Duck ponds, bandstand, fragrant gardens. Perfect for a lunchtime break.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=St%20Stephen%27s%20Green"
+      }
+    },
+    {
+      "name": "Howth",
+      "image": "howth.jpg",
+      "caption": "Coastal village",
+      "description": "Fishing village on a peninsula 30 min by DART train. Cliff walks, harbour seals, fish & chips and sea views. Easy day trip.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Howth",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=howth%20dublin"
+      }
+    },
+    {
+      "name": "Phoenix Park",
+      "image": "phoenix-park.jpg",
+      "caption": "Europe's largest enclosed city park",
+      "description": "707 hectares — twice the size of Central Park. Wild deer herd, Dublin Zoo, the President's residence and wide open spaces.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Phoenix%20Park"
+      }
+    },
+    {
+      "name": "Grafton Street",
+      "image": "grafton-street.jpg",
+      "caption": "Shopping & buskers",
+      "description": "Pedestrianised shopping street famous for its buskers. From Trinity to St Stephen's Green. Home to Dublin's best street performers.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Grafton%20Street"
+      }
+    },
+    {
+      "name": "EPIC The Irish Emigration Museum",
+      "image": "epic-museum.jpg",
+      "caption": "Interactive heritage",
+      "description": "Award-winning museum in the CHQ building about the Irish diaspora. 20 interactive galleries telling stories of emigration.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=EPIC%20The%20Irish%20Emigration%20Museum"
+      }
+    },
+    {
+      "name": "Merrion Square",
+      "image": "merrion-square.jpg",
+      "caption": "Georgian Dublin",
+      "description": "Elegant Georgian square with colourful doors, Oscar Wilde statue and weekend art market on the railings. Quintessential Dublin.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Merrion%20Square"
+      }
+    }
+  ],
+  "foodScene": "Dublin's food scene has exploded beyond coddle and colcannon. The city's brunch culture is immense — try Two Boys Brew for sourdough everything or Brother Hubbard for Middle Eastern–Irish fusion. Proper pubs still do excellent carvery lunches — The Woollen Mills overlooking the Ha'penny Bridge does a great roast. For fine dining, Chapter One (Michelin-starred) serves modern Irish tasting menus in a Georgian basement. The food scene's real hero is the chipper — Leo Burdock's has been serving battered cod and chips since 1913. Don't miss fresh oysters at The Exchequer or a famous coddle (a Dublin-specific sausage and potato stew) at a traditional pub. For market grazing, hit Eatyard in the Liberties on weekends.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Dublin%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=dublin+travel"
+  }
+}

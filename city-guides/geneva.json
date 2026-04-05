@@ -1,0 +1,162 @@
+{
+  "city": "Geneva",
+  "country": "Switzerland",
+  "flag": "🇨🇭",
+  "currency": "CHF (Fr.)",
+  "language": "French",
+  "weather": {
+    "tempHighC": 27,
+    "tempLowC": 15,
+    "description": "Warm and sunny with Alpine clarity",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "The Jet d'Eau fountain shoots water 140 meters into the air — visible from an airplane",
+    "More than 40% of Geneva's residents are foreign nationals — it's wildly international",
+    "Hosts over 200 international organizations including the UN, Red Cross, and CERN"
+  ],
+  "places": [
+    {
+      "name": "Jet d'Eau",
+      "image": "jet-deau.jpg",
+      "caption": "The world's tallest fountain",
+      "description": "Geneva's signature landmark launches 500 liters of water per second 140 meters into the air. Walk out on the stone jetty to feel the mist on your face and get the classic photo with the Alps behind. It runs daily from March to October and is mesmerizing at sunset.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Jet%20d%27Eau",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Jet+d%27Eau"
+      }
+    },
+    {
+      "name": "Old Town (Vieille Ville)",
+      "image": "old-town-geneva.jpg",
+      "caption": "Cobblestoned lanes above the lake",
+      "description": "Geneva's hilltop old town is a maze of elegant 16th-century buildings, antique shops, and hidden courtyards. St. Pierre Cathedral dominates the skyline — climb the 157 steps of the north tower for unbeatable views of the lake, the Jet d'Eau, and Mont Blanc on a clear day.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Old%20Town%20%28Vieille%20Ville%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Old+Town+%28Vieille+Ville%29"
+      }
+    },
+    {
+      "name": "Bains des Pâquis",
+      "image": "bains-des-paquis.jpg",
+      "caption": "Geneva's beloved public baths on the lake",
+      "description": "This no-frills concrete bathing platform jutting into Lake Geneva is the city's great social equalizer — bankers, students, and families all share the water and the cheap-but-amazing fondue served in the on-site restaurant. Come at sunset for the most magical atmosphere.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bains%20des%20P%C3%A2quis",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Bains+des+P%C3%A2quis"
+      }
+    },
+    {
+      "name": "Carouge",
+      "image": "carouge.jpg",
+      "caption": "Geneva's Bohemian left-bank quarter",
+      "description": "Often called 'Geneva's Greenwich Village,' this was designed by the King of Sardinia to rival Geneva's old town. Today its Italianate streets are packed with artisan workshops, vintage shops, jazz bars, and the phenomenal Wednesday and Saturday markets.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Carouge",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Carouge"
+      }
+    },
+    {
+      "name": "Parc des Bastions",
+      "image": "parc-des-bastions.jpg",
+      "caption": "Giant chess and Reformation history",
+      "description": "A tranquil park below the old town walls famous for its oversized chess boards and the massive Reformation Wall — ten-meter-tall statues of Calvin and other Protestant reformers. Locals play chess with knee-high pieces, and in summer it's a prime picnic spot.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Parc%20des%20Bastions",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Parc+des+Bastions"
+      }
+    },
+    {
+      "name": "CERN",
+      "image": "cern.jpg",
+      "caption": "Where the Higgs boson was discovered",
+      "description": "The European Organization for Nuclear Research straddles the Swiss-French border. The free Science Gateway exhibition, designed by Renzo Piano, is an incredible interactive experience exploring the Big Bang and particle physics — no physics degree required. Book guided tours of the facilities in advance.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=CERN",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=CERN"
+      }
+    },
+    {
+      "name": "Plainpalais Flea Market",
+      "image": "plainpalais.jpg",
+      "caption": "Geneva's treasure-hunting ground",
+      "description": "Every Wednesday and Saturday, the huge triangular Plaine de Plainpalais fills with stalls selling antiques, vintage clothes, vinyl, and curiosities. It's where you'll find mid-century Swiss furniture, old watches, and rare books. The surrounding streets have excellent lunch spots.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Plainpalais%20Flea%20Market",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Plainpalais+Flea+Market"
+      }
+    },
+    {
+      "name": "Jardin Anglais & the Flower Clock",
+      "image": "jardin-anglais.jpg",
+      "caption": "Where Swiss precision meets landscaping",
+      "description": "This elegant lakeside park is home to the famous L'Horloge Fleurie (Flower Clock), made of 6,500 living plants and functioning with Swiss precision since 1955. The views across the lake to the mountains are postcard-perfect, and the park is a lovely spot for a gelato stroll.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Jardin%20Anglais%20%26%20the%20Flower%20Clock",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Jardin+Anglais+%26+the+Flower+Clock"
+      }
+    },
+    {
+      "name": "Eaux-Vives & La Plage",
+      "image": "eaux-vives.jpg",
+      "caption": "Local Geneva life along the lake",
+      "description": "This lively neighborhood east of the jet d'Eau has great independent restaurants and Genève-Plage, the city's main beach with pools, slides, and lake swimming. The Parc La Grange above it has free rose gardens with 200 varieties — peak bloom in June and July.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Eaux-Vives%20%26%20La%20Plage",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Eaux-Vives+%26+La+Plage"
+      }
+    },
+    {
+      "name": "Mont Salève",
+      "image": "mont-saleve.jpg",
+      "caption": "A mountain day trip in 15 minutes",
+      "description": "Technically in France but just across the border, the Salève is Geneva's backyard mountain. A cable car whisks you to 1,100 meters for paragliding, hiking, and jaw-dropping views of Geneva, the lake, and the full Mont Blanc massif. It's 15 minutes from the city center by bus.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mont%20Sal%C3%A8ve",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Mont+Sal%C3%A8ve"
+      }
+    },
+    {
+      "name": "Lake Geneva Cruise",
+      "image": "lake-cruise.jpg",
+      "caption": "Alpine lake views",
+      "description": "CGN steamers cruise to Lausanne, Montreux and Évian. Mont Blanc backdrop on clear days. Yellow Mouettes ferries are free.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Lake%20Geneva%20Cruise",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=lake%20geneva%20cruise"
+      }
+    },
+    {
+      "name": "Patek Philippe Museum",
+      "image": "patek.jpg",
+      "caption": "Watchmaking history",
+      "description": "Five centuries of Geneva watchmaking in one stunning museum. Antique automata, enamel miniatures and the world's finest timepieces.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Patek%20Philippe%20Museum"
+      }
+    },
+    {
+      "name": "Jardin Anglais & Flower Clock",
+      "image": "jardin-anglais.jpg",
+      "caption": "Lakeside garden",
+      "description": "Waterfront park with the Horloge Fleurie — a clock made of 6,500 plants. Geneva's most photographed landmark after Jet d'Eau.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Jardin%20Anglais%20%26%20Flower%20Clock"
+      }
+    },
+    {
+      "name": "International Red Cross Museum",
+      "image": "red-cross.jpg",
+      "caption": "Humanitarian heritage",
+      "description": "Powerful museum telling the story of humanitarian action. Interactive exhibits on natural disasters, war and migration.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=International%20Red%20Cross%20Museum"
+      }
+    }
+  ],
+  "foodScene": "Geneva's food scene is French-Swiss at its core, with global influences from its international population. Fondue is mandatory — Café du Soleil in Petit-Saconnex is legendary for its moitié-moitié (half Gruyère, half Vacherin). Raclette from a street stall in the old town is perfect for a quick gut-warming hit. For something lighter, the perch (perches du lac) from Lake Geneva is a local delicacy — try it pan-fried with lemon at Café de la Plage in Eaux-Vives. The Bains des Pâquis serves remarkably good cheap fondue on a concrete pier over the lake. Carouge has Geneva's most interesting restaurant scene — try Chez Ma Cousine for rotisserie chicken or the Lebanese spots on Rue Saint-Joseph. For pastries, Auer Chocolatier has been making Swiss chocolates since 1939. Expect Geneva prices — budget roughly CHF 25–40 for a main course.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Geneva%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=geneva+travel"
+  }
+}
