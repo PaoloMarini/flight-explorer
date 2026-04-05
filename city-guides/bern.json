@@ -1,0 +1,201 @@
+{
+  "city": "Bern",
+  "country": "Switzerland",
+  "flag": "🇨🇭",
+  "currency": "CHF (Fr.)",
+  "language": "German",
+  "weather": {
+    "tempHighC": 26,
+    "tempLowC": 14,
+    "description": "Warm with occasional thunderstorms",
+    "icon": "⛅"
+  },
+  "quickFacts": [
+    "The entire old town is a UNESCO World Heritage Site",
+    "Einstein developed his theory of relativity while living here in 1905",
+    "The Aare river loop makes the old town a natural peninsula"
+  ],
+  "places": [
+    {
+      "name": "Zytglogge (Clock Tower)",
+      "image": "zytglogge.jpg",
+      "caption": "Bern's iconic medieval clock tower",
+      "description": "This 13th-century astronomical clock tower puts on an animated show every hour as jesters, bears, and roosters spring to life. The tower's east face features a stunning astronomical dial. Take a guided tour inside to see the medieval clockwork mechanism up close.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Zytglogge%20%28Clock%20Tower%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Zytglogge+%28Clock+Tower%29"
+      }
+    },
+    {
+      "name": "Aare River Swimming",
+      "image": "aare-swimming.jpg",
+      "caption": "Float through the capital city",
+      "description": "Bern's turquoise-green Aare river is clean enough for swimming, and locals jump in all summer long. The classic route: walk upstream along the Dalmaziquai, jump in, and let the current carry you back downstream. The Marzili pool area is the popular entry point.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Aare%20River%20Swimming",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Aare+River+Swimming"
+      }
+    },
+    {
+      "name": "Bern Minster (Münster)",
+      "image": "bern-minster.jpg",
+      "caption": "Switzerland's tallest cathedral",
+      "description": "Climb the 344 steps of Switzerland's tallest church tower for breathtaking views of the Bernese Alps, the Aare loop, and the red-roofed old town. The elaborate Last Judgment sculpture above the main portal has 234 individually carved figures.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bern%20Minster%20%28M%C3%BCnster%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Bern+Minster+%28M%C3%BCnster%29"
+      }
+    },
+    {
+      "name": "Einstein House",
+      "image": "einstein-house.jpg",
+      "caption": "Where relativity was born",
+      "description": "The modest apartment at Kramgasse 49 where Albert Einstein lived from 1903-1905 and developed his theory of special relativity. The preserved rooms and small exhibition give an intimate look at the genius's daily life in Bern.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Einstein%20House",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Einstein+House"
+      }
+    },
+    {
+      "name": "Rosengarten (Rose Garden)",
+      "image": "rosengarten.jpg",
+      "caption": "The best panoramic view in Bern",
+      "description": "This hillside park above the Bear Park offers the postcard-perfect view of Bern's old town — the Aare loop, the cathedral spire, and the Alps behind. With 200+ rose varieties blooming in summer and a restaurant with a terrace view, it's magical at sunset.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Rosengarten%20%28Rose%20Garden%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Rosengarten+%28Rose+Garden%29"
+      }
+    },
+    {
+      "name": "BärenPark (Bear Park)",
+      "image": "barenpark.jpg",
+      "caption": "Meet Bern's mascot bears",
+      "description": "Bern is literally named after bears (Bären), and the city has kept bears since 1513. The modern BärenPark along the Aare gives the bears a spacious, naturalistic hillside habitat. Watch them fish, swim, and explore — it's free and open all day.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=B%C3%A4renPark%20%28Bear%20Park%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=B%C3%A4renPark+%28Bear+Park%29"
+      }
+    },
+    {
+      "name": "Bundeshaus (Federal Palace)",
+      "image": "bundeshaus.jpg",
+      "caption": "Switzerland's seat of government",
+      "description": "The domed Federal Palace houses Switzerland's parliament and offers free guided tours (book ahead). The Bundesplatz in front transforms into a fountain playground in summer (26 jets representing the cantons) and an ice rink in winter.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bundeshaus%20%28Federal%20Palace%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Bundeshaus+%28Federal+Palace%29"
+      }
+    },
+    {
+      "name": "Kramgasse",
+      "image": "kramgasse.jpg",
+      "caption": "Bern's grand medieval main street",
+      "description": "The main artery of the old town, lined with 6 km of arcaded walkways (Lauben) that form one of Europe's longest covered shopping promenades. Ornate fountains from the 16th century dot the street — each tells a different story. The cellars below house bars and boutiques.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Kramgasse",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Kramgasse"
+      }
+    },
+    {
+      "name": "Gurten",
+      "image": "gurten.jpg",
+      "caption": "Bern's local mountain playground",
+      "description": "Take the funicular up Bern's 858m Hausberg for sweeping alpine panoramas, hiking and biking trails, playgrounds, and a revolving restaurant. In July, the Gurten Festival brings big-name music acts to the summit. It's where locals go to escape the city.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Gurten",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Gurten"
+      }
+    },
+    {
+      "name": "Matte Quarter",
+      "image": "matte.jpg",
+      "caption": "A hidden riverside neighborhood",
+      "description": "Tucked at the bottom of a cliff below the old town, the Matte quarter sits right on the Aare and feels like a separate village. Once home to artisans and tanners, it now has a bohemian vibe with small cafés, a community garden, and direct river access.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Matte%20Quarter",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Matte+Quarter"
+      }
+    },
+    {
+      "name": "Zytglogge Clock Tower",
+      "image": "zytglogge.jpg",
+      "caption": "Medieval astronomical clock",
+      "description": "Bern's iconic 13th-century clock tower with animated figures performing 4 minutes before every hour. A UNESCO landmark.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Zytglogge%20Clock%20Tower",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=zytglogge%20bern"
+      }
+    },
+    {
+      "name": "Bern Old Town (Altstadt)",
+      "image": "altstadt-bern.jpg",
+      "caption": "UNESCO World Heritage",
+      "description": "6 km of covered arcades (Lauben) with boutiques, cafés and fountains. Medieval cobblestones, sandstone buildings and cellars.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bern%20Old%20Town%20%28Altstadt%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=bern%20old%20town"
+      }
+    },
+    {
+      "name": "Rosengarten",
+      "image": "rosengarten.jpg",
+      "caption": "Rose garden with views",
+      "description": "220 rose varieties and stunning views over the Aare loop and old town rooftops. Free entry. Lovely restaurant terrace.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Rosengarten"
+      }
+    },
+    {
+      "name": "Bundeshaus (Parliament)",
+      "image": "bundeshaus.jpg",
+      "caption": "Swiss Federal Parliament",
+      "description": "Free guided tours of the impressive domed parliament building. The Bundesplatz fountain in front has 26 jets for each canton.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bundeshaus%20%28Parliament%29"
+      }
+    },
+    {
+      "name": "Bear Park (Bärengraben)",
+      "image": "bear-park.jpg",
+      "caption": "Bern's namesake animals",
+      "description": "Open riverside enclosure hosting Bern's famous bears. The bear is the city's heraldic symbol since the 12th century.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bear%20Park%20%28B%C3%A4rengraben%29"
+      }
+    },
+    {
+      "name": "Zentrum Paul Klee",
+      "image": "paul-klee.jpg",
+      "caption": "Art in a wave",
+      "description": "Renzo Piano's undulating museum holding 4,000 works by Paul Klee. Interactive children's museum too. On the city outskirts.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Zentrum%20Paul%20Klee",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=zentrum%20paul%20klee"
+      }
+    },
+    {
+      "name": "Münster Cathedral",
+      "image": "munster-bern.jpg",
+      "caption": "Switzerland's tallest church",
+      "description": "Gothic cathedral with a 100m tower (344 steps to the top). Incredible panoramic views of the Alps on clear days.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=M%C3%BCnster%20Cathedral",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=bern%20minster"
+      }
+    },
+    {
+      "name": "Einstein Museum",
+      "image": "einstein.jpg",
+      "caption": "Where relativity was born",
+      "description": "Einstein lived in Bern 1903-1905 and developed the theory of relativity here. His apartment at Kramgasse 49 is now a museum.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Einstein%20Museum"
+      }
+    }
+  ],
+  "foodScene": "Bern's food scene is cozy, Alpine-influenced, and full of surprises. The signature dish is Berner Platte — a massive platter of various meats (smoked pork, tongue, beef, sausages) served on sauerkraut and beans. Try it at Della Casa, a wood-paneled institution near the Zytglogge. For fondue and raclette, Kornhauskeller serves them in a jaw-dropping Baroque former granary with soaring painted ceilings. The arcaded streets of the old town hide excellent cellar restaurants — Klötzlikeller, dating to 1635, is one of the oldest wine cellars in the country. For modern dining, Restaurant Luce does creative Mediterranean-Swiss fusion. Grab Bernese Mandelbärli (almond bear cookies) from Glatz confectionery. The rooftop bar at Hotel Schweizerhof is the spot for sunset drinks with Alpine views.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bern%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=bern+travel"
+  }
+}

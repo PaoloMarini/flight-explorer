@@ -1,0 +1,163 @@
+{
+  "city": "Barcelona",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "currency": "EUR (€)",
+  "language": "Spanish / Catalan",
+  "weather": {
+    "tempHighC": 30,
+    "tempLowC": 22,
+    "description": "Hot and sunny",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Gaudí's Sagrada Família has been under construction since 1882",
+    "La Rambla stretches 1.2 km from Plaça de Catalunya to the sea",
+    "Barcelona has 4.5 km of urban beaches"
+  ],
+  "places": [
+    {
+      "name": "Sagrada Família",
+      "image": "sagrada-familia.jpg",
+      "caption": "Gaudí's unfinished masterpiece",
+      "description": "Antoni Gaudí's jaw-dropping basilica has been rising since 1882 and still isn't finished. The interior is a forest of branching columns bathed in kaleidoscopic light from the stained glass. Book timed entry tickets online — the Nativity facade tower is worth the extra fee.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Sagrada%20Fam%C3%ADlia",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Sagrada+Fam%C3%ADlia"
+      }
+    },
+    {
+      "name": "El Born",
+      "image": "el-born.jpg",
+      "caption": "Medieval lanes meet cocktail bars",
+      "description": "This medieval neighborhood is Barcelona's coolest quarter — narrow Gothic streets open onto tiny plazas filled with tapas bars, indie galleries, and the stunning Santa Maria del Mar basilica. The Passeig del Born promenade buzzes until late.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=El%20Born",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=El+Born"
+      }
+    },
+    {
+      "name": "Park Güell",
+      "image": "park-guell.jpg",
+      "caption": "Gaudí's whimsical hilltop park",
+      "description": "A UNESCO-listed park where Gaudí's mosaic-covered benches and gingerbread-style gatehouses feel like stepping into a fairytale. The monumental zone requires tickets, but the free areas offer stunning panoramic views over the city to the sea.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Park%20G%C3%BCell",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Park+G%C3%BCell"
+      }
+    },
+    {
+      "name": "La Boqueria Market",
+      "image": "la-boqueria.jpg",
+      "caption": "A sensory overload of Catalan flavors",
+      "description": "Barcelona's legendary food market off La Rambla is a riot of color — towers of tropical fruit, Ibérico ham legs, and glistening seafood. Skip the tourist traps near the entrance and head deeper in for better prices and authentic stalls like El Quim for fried eggs with baby squid.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=La%20Boqueria%20Market",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=La+Boqueria+Market"
+      }
+    },
+    {
+      "name": "Barceloneta Beach",
+      "image": "barceloneta-beach.jpg",
+      "caption": "Sun, sea, and chiringuitos",
+      "description": "The city's most iconic beach stretches along the old fishermen's quarter. Grab a pitcher of tinto de verano at a chiringuito (beach bar), take a dip in the Med, and watch the sunset. Walk the boardwalk south toward W Hotel for fewer crowds.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Barceloneta%20Beach",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Barceloneta+Beach"
+      }
+    },
+    {
+      "name": "Gothic Quarter (Barri Gòtic)",
+      "image": "gothic-quarter.jpg",
+      "caption": "2,000 years of history in every stone",
+      "description": "A labyrinth of Roman ruins, medieval churches, and hidden plazas that make up Barcelona's oldest neighborhood. Find the ancient Temple of Augustus columns hidden inside a courtyard, and stumble upon Plaça Reial with its Gaudí-designed lampposts.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Gothic%20Quarter%20%28Barri%20G%C3%B2tic%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Gothic+Quarter+%28Barri+G%C3%B2tic%29"
+      }
+    },
+    {
+      "name": "Bunkers del Carmel",
+      "image": "bunkers-del-carmel.jpg",
+      "caption": "The best free viewpoint in Barcelona",
+      "description": "Former anti-aircraft bunkers from the Spanish Civil War turned into Barcelona's best-kept-secret viewpoint. The 360-degree panorama from this hilltop is better than any paid attraction. Bring snacks and a bottle of cava for sunset — locals do.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bunkers%20del%20Carmel",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Bunkers+del+Carmel"
+      }
+    },
+    {
+      "name": "Palau de la Música Catalana",
+      "image": "palau-de-la-musica.jpg",
+      "caption": "Modernisme's most dazzling concert hall",
+      "description": "Domènech i Montaner's Art Nouveau concert hall is a riot of stained glass, sculptural facades, and a jaw-dropping inverted dome of colored glass. Catch a flamenco or classical performance to experience the acoustics, or take a daytime guided tour.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Palau%20de%20la%20M%C3%BAsica%20Catalana",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Palau+de+la+M%C3%BAsica+Catalana"
+      }
+    },
+    {
+      "name": "Montjuïc",
+      "image": "montjuic.jpg",
+      "caption": "Gardens, art, and panoramic views",
+      "description": "This hilltop overlooking the port hosts the Fundació Joan Miró, the Magic Fountain light show, and beautiful botanical gardens. Take the cable car up for sweeping views, then walk down through terraced gardens. The castle at the summit is free on Sundays after 3pm.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Montju%C3%AFc",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Montju%C3%AFc"
+      }
+    },
+    {
+      "name": "Gràcia Neighborhood",
+      "image": "gracia.jpg",
+      "caption": "Village vibes inside the city",
+      "description": "Gràcia still feels like the independent village it once was — tiny plazas (Plaça del Sol, Plaça de la Vila de Gràcia) fill with locals sipping vermouth. In August, the Festa Major de Gràcia transforms streets into wildly decorated competition zones. Great for vintage shopping and vegan eats.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Gr%C3%A0cia%20Neighborhood",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Gr%C3%A0cia+Neighborhood"
+      }
+    },
+    {
+      "name": "La Sagrada Família",
+      "image": "sagrada-familia.jpg",
+      "caption": "Gaudí's unfinished masterpiece",
+      "description": "Antoni Gaudí's basilica, under construction since 1882. The interior light through stained glass is otherworldly. Book tickets online.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=La%20Sagrada%20Fam%C3%ADlia",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=sagrada%20familia%20barcelona"
+      }
+    },
+    {
+      "name": "Casa Batlló",
+      "image": "casa-batllo.jpg",
+      "caption": "Gaudí's dragon house",
+      "description": "The façade resembles dragon scales, the roof its spine. Augmented reality night experience is spectacular. Passeig de Gràcia.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Casa%20Batll%C3%B3",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=casa%20batllo"
+      }
+    },
+    {
+      "name": "El Born District",
+      "image": "el-born.jpg",
+      "caption": "Trendy neighbourhood",
+      "description": "Cocktail bars, independent boutiques, the Picasso Museum and the stunning Santa Maria del Mar basilica. Best nightlife area.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=El%20Born%20District"
+      }
+    },
+    {
+      "name": "Camp Nou",
+      "image": "camp-nou.jpg",
+      "caption": "Football cathedral",
+      "description": "FC Barcelona's legendary stadium (capacity 99,354). Museum and immersive tour available. Currently being renovated — Spotify Camp Nou.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Camp%20Nou"
+      }
+    }
+  ],
+  "foodScene": "Barcelona's food scene is a love letter to Catalan culture. Start with pa amb tomàquet (bread rubbed with ripe tomato and olive oil) — it's on every table. For tapas, skip the tourist traps on La Rambla and head to El Xampanyet in El Born for cava and anchovies, or Bar Cañete near the Raval for impeccable seafood. Try bomba (a potato croquette with spicy sauce) at La Cova Fumada in Barceloneta — the tiny bar that invented it. Fideuà (paella's noodle cousin) is a must at Can Paixano. For modern Catalan cuisine, Disfrutar is a 3-Michelin-star experience by former El Bulli chefs. On the casual end, the vermouth bars of Gràcia and the pintxos joints along Carrer Blai in Poble-sec are unbeatable for a cheap, delicious crawl.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Barcelona%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=barcelona+travel"
+  }
+}

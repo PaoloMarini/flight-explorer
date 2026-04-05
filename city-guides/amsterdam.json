@@ -1,0 +1,171 @@
+{
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "flag": "🇳🇱",
+  "currency": "EUR (€)",
+  "language": "Dutch",
+  "weather": {
+    "tempHighC": 23,
+    "tempLowC": 14,
+    "description": "Warm and pleasant with occasional showers",
+    "icon": "⛅"
+  },
+  "quickFacts": [
+    "More bicycles than people — over 880,000 bikes in the city",
+    "Built on 11 million wooden poles driven into marshy ground",
+    "Home to more than 165 canals totalling over 100 km"
+  ],
+  "places": [
+    {
+      "name": "Jordaan",
+      "image": "jordaan.jpg",
+      "caption": "Amsterdam's most charming neighborhood",
+      "description": "Once a working-class area, the Jordaan is now one of Amsterdam's most desirable neighborhoods. Wander its narrow streets lined with indie boutiques, cozy brown cafés, and hidden courtyard gardens called hofjes.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Jordaan",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Jordaan"
+      }
+    },
+    {
+      "name": "Anne Frank House",
+      "image": "anne-frank-house.jpg",
+      "caption": "A powerful and moving piece of history",
+      "description": "The actual hiding place where Anne Frank wrote her famous diary during WWII. The museum preserves the secret annex behind a bookcase and offers an emotional, deeply human experience. Book tickets well in advance.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Anne%20Frank%20House",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Anne+Frank+House"
+      }
+    },
+    {
+      "name": "Vondelpark",
+      "image": "vondelpark.jpg",
+      "caption": "Amsterdam's beloved green lung",
+      "description": "This sprawling 47-hectare park is where locals come to picnic, rollerblade, and catch free open-air concerts in summer. Grab a terrace seat at 't Blauwe Theehuis, the flying-saucer-shaped café in the center.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vondelpark",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Vondelpark"
+      }
+    },
+    {
+      "name": "Rijksmuseum",
+      "image": "rijksmuseum.jpg",
+      "caption": "Dutch Golden Age masterpieces",
+      "description": "Home to Rembrandt's Night Watch and Vermeer's Milkmaid, this grand museum houses 8,000 objects spanning 800 years of Dutch art. The building itself — a neo-Gothic masterpiece — is worth the visit alone.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Rijksmuseum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Rijksmuseum"
+      }
+    },
+    {
+      "name": "De Pijp",
+      "image": "de-pijp.jpg",
+      "caption": "Multicultural vibes and the best street food",
+      "description": "Amsterdam's most diverse neighborhood revolves around the Albert Cuyp Market, where you can grab fresh stroopwafels, Surinamese roti, and Dutch herring. The surrounding streets buzz with international restaurants and quirky bars.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=De%20Pijp",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=De+Pijp"
+      }
+    },
+    {
+      "name": "NDSM Wharf",
+      "image": "ndsm-wharf.jpg",
+      "caption": "Post-industrial creative playground",
+      "description": "A former shipyard across the IJ river transformed into Amsterdam's edgiest cultural hub. Giant street art, underground festivals, and the monthly IJ-Hallen flea market draw creative crowds. Take the free ferry from Centraal.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=NDSM%20Wharf",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=NDSM+Wharf"
+      }
+    },
+    {
+      "name": "Nine Streets (De Negen Straatjes)",
+      "image": "nine-streets.jpg",
+      "caption": "Boutique shopping in canal-side charm",
+      "description": "Nine tiny streets connecting the main canals, packed with independent shops, vintage stores, and specialty cheese and chocolate shops. It's the perfect antidote to generic high-street shopping.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Nine%20Streets%20%28De%20Negen%20Straatjes%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Nine+Streets+%28De+Negen+Straatjes%29"
+      }
+    },
+    {
+      "name": "A'DAM Lookout",
+      "image": "adam-lookout.jpg",
+      "caption": "Swing over the edge of Amsterdam",
+      "description": "A rooftop observation deck on top of the A'DAM Tower in Amsterdam-Noord with panoramic city views. The real draw is the Over the Edge swing — Europe's highest swing — dangling you 100 meters above the ground.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=A%27DAM%20Lookout",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=A%27DAM+Lookout"
+      }
+    },
+    {
+      "name": "Begijnhof",
+      "image": "begijnhof.jpg",
+      "caption": "A secret medieval courtyard",
+      "description": "Tucked behind an unmarked door off the Spui square, this tranquil 14th-century courtyard was once home to a community of religious women. It includes one of Amsterdam's two remaining wooden houses and a hidden chapel.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Begijnhof",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Begijnhof"
+      }
+    },
+    {
+      "name": "Brouwersgracht",
+      "image": "brouwersgracht.jpg",
+      "caption": "Amsterdam's most beautiful canal",
+      "description": "Often called the most picturesque canal in the city, Brouwersgracht is lined with converted warehouse houseboats and golden-age merchant houses. Walk it at sunset when the gabled facades glow amber.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Brouwersgracht",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Brouwersgracht"
+      }
+    },
+    {
+      "name": "Jordaan District",
+      "image": "jordaan.jpg",
+      "caption": "Charming canal neighbourhood",
+      "description": "Narrow streets lined with indie boutiques, brown cafés and galleries. The Nine Streets (De Negen Straatjes) are perfect for wandering.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Jordaan%20District",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=jordaan%20amsterdam"
+      }
+    },
+    {
+      "name": "Albert Cuyp Market",
+      "image": "albert-cuyp.jpg",
+      "caption": "Street market since 1905",
+      "description": "Amsterdam's largest and most popular street market. Fresh stroopwafels, Dutch cheese, herring, and vintage finds.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Albert%20Cuyp%20Market"
+      }
+    },
+    {
+      "name": "Heineken Experience",
+      "image": "heineken.jpg",
+      "caption": "Beer history & tastings",
+      "description": "Interactive brewery tour in the original 1867 Heineken brewery. Ends with a tasting on the rooftop terrace.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Heineken%20Experience"
+      }
+    },
+    {
+      "name": "Museumplein",
+      "image": "museumplein.jpg",
+      "caption": "Culture square",
+      "description": "Open square flanked by the Rijksmuseum, Van Gogh Museum and Stedelijk. The I Amsterdam sign photo spot (when it's there).",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Museumplein"
+      }
+    },
+    {
+      "name": "Canal Ring Cruise",
+      "image": "canal-cruise.jpg",
+      "caption": "See the city from water",
+      "description": "UNESCO-listed 17th-century canal ring. Evening cruises with wine are magical — 165 canals, 1,500 bridges.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Canal%20Ring%20Cruise"
+      }
+    }
+  ],
+  "foodScene": "Amsterdam's food scene is way more than just cheese and pancakes. Hit up Foodhallen in Oud-West for gourmet street food under one roof — try the bitterballen at De Ballenbar and Vietnamese bánh mì at Viet View. For classic Dutch, order stamppot (mashed potato with kale and smoked sausage) at Moeders, a restaurant whose walls are covered in photos of guests' mothers. The Surinamese-Javanese roti at Warung Spang Makandra in De Pijp is legendary. Don't skip fresh herring from a haringhandel (herring cart) topped with onions and pickles — Frens Haringhandel near the Koningsplein bridge is a local favorite. For brunch, The Breakfast Club and Pluk serve Instagram-worthy stacks. Wash it all down with local craft beer from Brouwerij 't IJ, brewed in a windmill.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Amsterdam%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=amsterdam+travel"
+  }
+}

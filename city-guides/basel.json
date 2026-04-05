@@ -1,0 +1,172 @@
+{
+  "city": "Basel",
+  "country": "Switzerland",
+  "flag": "🇨🇭",
+  "currency": "CHF (Fr.)",
+  "language": "German",
+  "weather": {
+    "tempHighC": 27,
+    "tempLowC": 16,
+    "description": "Warm and sunny",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Basel sits at the meeting point of Switzerland, France, and Germany",
+    "Home to nearly 40 museums — the highest density in Switzerland",
+    "Locals swim down the Rhine in summer using waterproof 'Wickelfisch' bags"
+  ],
+  "places": [
+    {
+      "name": "Basel Minster (Münster)",
+      "image": "basel-minster.jpg",
+      "caption": "Red sandstone landmark above the Rhine",
+      "description": "This stunning Romanesque-Gothic cathedral in red sandstone dominates Basel's skyline. Climb the tower for panoramic views over three countries. The peaceful cloister gardens behind the church overlook the Rhine and are a perfect hidden retreat.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Basel%20Minster%20%28M%C3%BCnster%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Basel+Minster+%28M%C3%BCnster%29"
+      }
+    },
+    {
+      "name": "Kleinbasel Rhine Swimming",
+      "image": "rhine-swimming.jpg",
+      "caption": "Float down the river with the locals",
+      "description": "In summer, Basel's most beloved activity is swimming in the Rhine. Buy a Wickelfisch (waterproof bag shaped like a fish), stash your clothes inside, and float downstream for a couple of kilometers. Everyone does it — office workers on lunch breaks, families, tourists. Pure joy.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Kleinbasel%20Rhine%20Swimming",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Kleinbasel+Rhine+Swimming"
+      }
+    },
+    {
+      "name": "Fondation Beyeler",
+      "image": "fondation-beyeler.jpg",
+      "caption": "World-class modern art in Renzo Piano glass",
+      "description": "Renzo Piano designed this stunning museum in Riehen, surrounded by water lily ponds and parkland. The permanent collection spans Monet, Picasso, Warhol, and Giacometti, and the blockbuster temporary exhibitions are consistently among Europe's best.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Fondation%20Beyeler",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Fondation+Beyeler"
+      }
+    },
+    {
+      "name": "Marktplatz & Rathaus",
+      "image": "marktplatz-rathaus.jpg",
+      "caption": "Basel's vivid red town hall and daily market",
+      "description": "The main square is dominated by the brilliantly red-painted 16th-century Town Hall (Rathaus) with its ornate frescoes. Every weekday morning, a fresh produce market sets up here — grab local cherries, bread, and Basel Läckerli (spiced honey biscuits).",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Marktplatz%20%26%20Rathaus",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Marktplatz+%26+Rathaus"
+      }
+    },
+    {
+      "name": "Tinguely Museum",
+      "image": "tinguely-museum.jpg",
+      "caption": "Kinetic sculptures that delight and bewilder",
+      "description": "Dedicated to Jean Tinguely's wild, clattering kinetic machines, this museum on the Rhine is interactive, playful, and unlike any art museum you've visited. Push buttons to watch absurd mechanical contraptions spring to life. A hidden gem even for non-art fans.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Tinguely%20Museum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Tinguely+Museum"
+      }
+    },
+    {
+      "name": "St. Alban Quarter (Dalbeloch)",
+      "image": "st-alban.jpg",
+      "caption": "Medieval charm and waterways",
+      "description": "The prettiest quarter in Basel, centered around an old paper mill and criss-crossed by medieval canals. The Museum of Contemporary Art and the Basel Paper Mill museum are here, plus some of the city's best cafés and the romantic St. Alban Gate.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=St.%20Alban%20Quarter%20%28Dalbeloch%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=St.+Alban+Quarter+%28Dalbeloch%29"
+      }
+    },
+    {
+      "name": "Spalentor",
+      "image": "spalentor.jpg",
+      "caption": "Basel's most impressive city gate",
+      "description": "This 14th-century fortified gate with its distinctive pointed towers is one of the best-preserved medieval gates in Switzerland. The surrounding Spalenvorstadt street is lined with charming shops and leads into the old university quarter.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Spalentor",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Spalentor"
+      }
+    },
+    {
+      "name": "Dreiländereck (Three Countries Corner)",
+      "image": "dreilandereck.jpg",
+      "caption": "Stand in three countries at once",
+      "description": "The point where Switzerland, Germany, and France meet on the Rhine. A modern monument marks the spot in the industrial port area. It's more about the novelty than the scenery, but the riverside walk there through Kleinbasel is lovely.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Dreil%C3%A4ndereck%20%28Three%20Countries%20Corner%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Dreil%C3%A4ndereck+%28Three+Countries+Corner%29"
+      }
+    },
+    {
+      "name": "Kunstmuseum Basel",
+      "image": "kunstmuseum-basel.jpg",
+      "caption": "The oldest public art collection in the world",
+      "description": "Established in 1661, this is one of Europe's premier art museums. The collection spans Holbein, Böcklin, and Van Gogh in the main building, with a striking new extension by Christ & Gantenbein housing contemporary works. A must for art lovers.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Kunstmuseum%20Basel",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Kunstmuseum+Basel"
+      }
+    },
+    {
+      "name": "Mittlere Brücke",
+      "image": "mittlere-brucke.jpg",
+      "caption": "Basel's oldest Rhine crossing",
+      "description": "One of the oldest Rhine crossings in Switzerland, connecting Grossbasel and Kleinbasel since 1226. Stand mid-bridge for perfect views upstream to the Münster and downstream to the modern skyline. At sunset, it's pure magic.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mittlere%20Br%C3%BCcke",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Mittlere+Br%C3%BCcke"
+      }
+    },
+    {
+      "name": "Basel Münster",
+      "image": "munster.jpg",
+      "caption": "Red sandstone cathedral",
+      "description": "12th-century Gothic cathedral with panoramic Rhine terrace. Climb the tower for views across three countries.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Basel%20M%C3%BCnster"
+      }
+    },
+    {
+      "name": "Rhine Swimming",
+      "image": "rhine-swimming.jpg",
+      "caption": "Float with the locals",
+      "description": "Baslers pack belongings into a waterproof Wickelfisch bag and float downstream in the Rhine. A unique summer tradition.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Rhine%20Swimming",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=rhine%20swimming%20basel"
+      }
+    },
+    {
+      "name": "Vitra Design Museum",
+      "image": "vitra.jpg",
+      "caption": "Architecture + design",
+      "description": "Just across the German border in Weil am Rhein. Buildings by Gehry, Hadid, Ando and Herzog & de Meuron. Furniture exhibitions.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vitra%20Design%20Museum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=vitra%20design%20museum"
+      }
+    },
+    {
+      "name": "Dreiländereck",
+      "image": "dreilandereck.jpg",
+      "caption": "Three-country corner",
+      "description": "Monument where Switzerland, France and Germany meet at the Rhine. Take a boat to see the border marker up close.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Dreil%C3%A4ndereck"
+      }
+    },
+    {
+      "name": "Pfalz Terrace",
+      "image": "pfalz.jpg",
+      "caption": "Best sunset spot",
+      "description": "Terrace behind the Münster overlooking the Rhine bend. Bring a drink and watch the light change — Basel's most romantic viewpoint.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Pfalz%20Terrace"
+      }
+    }
+  ],
+  "foodScene": "Basel's food scene reflects its tri-border location — Swiss precision meets French finesse and German heartiness. The city's signature dish is Basler Mehlsuppe (flour soup), traditionally served during Fasnacht. Try it at Zum Goldenen Sternen, one of Switzerland's oldest restaurants. Läckerli, Basel's spiced honey biscuit, is a must-buy from Jakob's Basler Leckerly on the Marktplatz. For contemporary Swiss dining, Brasserie Les Trois Rois overlooks the Rhine and serves outstanding seasonal menus. Kleinbasel's Rheingasse is the hip food street — check out Volta Bräu for craft beer and burgers, or Namamen for excellent ramen. In summer, grab a bratwurst from a stand by the Rhine and eat it on the river steps like a local. Basel's proximity to Alsace also means excellent tarte flambée and Riesling are never far away.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Basel%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=basel+travel"
+  }
+}

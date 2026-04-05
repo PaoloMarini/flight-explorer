@@ -1,0 +1,190 @@
+{
+  "city": "Bologna",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "language": "Italian",
+  "weather": {
+    "tempHighC": 32,
+    "tempLowC": 21,
+    "description": "Hot and humid",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Known as La Grassa (The Fat One) for its legendary food scene",
+    "Home to the oldest university in the Western world (founded 1088)",
+    "40 km of medieval porticoes line the streets — now UNESCO-listed"
+  ],
+  "places": [
+    {
+      "name": "Due Torri (Two Towers)",
+      "image": "due-torri.jpg",
+      "caption": "Bologna's leaning medieval skyscrapers",
+      "description": "The Asinelli and Garisenda towers are Bologna's most iconic landmarks. Climb the 498 steps of the taller Asinelli Tower (97m) for panoramic views of the city's red rooftops stretching to the Apennines. The shorter Garisenda leans even more dramatically than Pisa's tower.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Due%20Torri%20%28Two%20Towers%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Due+Torri+%28Two+Towers%29"
+      }
+    },
+    {
+      "name": "Piazza Maggiore",
+      "image": "piazza-maggiore.jpg",
+      "caption": "The beating heart of Bologna",
+      "description": "Bologna's magnificent main square is surrounded by medieval and Renaissance palazzi including the unfinished façade of the Basilica di San Petronio, one of the world's largest churches. The square fills with life every evening as locals gather for aperitivo and street musicians play.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Piazza%20Maggiore",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Piazza+Maggiore"
+      }
+    },
+    {
+      "name": "Quadrilatero",
+      "image": "quadrilatero.jpg",
+      "caption": "Medieval market streets of food heaven",
+      "description": "This ancient grid of narrow market streets near Piazza Maggiore has been Bologna's food district since the Middle Ages. Stalls overflow with fresh tortellini, wheels of Parmigiano-Reggiano, cured meats, and glossy balsamic vinegar. It's the epicenter of La Grassa.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Quadrilatero",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Quadrilatero"
+      }
+    },
+    {
+      "name": "Portico di San Luca",
+      "image": "portico-san-luca.jpg",
+      "caption": "The world's longest portico",
+      "description": "A 3.8 km covered walkway of 666 arches climbing from the city gates to the hilltop Sanctuary of San Luca. The walk takes about an hour uphill, rewarding you with sweeping views over Bologna and the Emilian plain. Locals jog it; you can take the tourist train if you prefer.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Portico%20di%20San%20Luca",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Portico+di+San+Luca"
+      }
+    },
+    {
+      "name": "Santo Stefano Complex",
+      "image": "santo-stefano.jpg",
+      "caption": "Seven churches in one",
+      "description": "A complex of interconnected medieval churches known as the 'Seven Churches' or Bologna's Jerusalem. Each small church leads into the next — ancient columns, quiet cloisters, and atmospheric crypts. The Romanesque cloister with its weathered columns is hauntingly beautiful.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Santo%20Stefano%20Complex",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Santo+Stefano+Complex"
+      }
+    },
+    {
+      "name": "Mercato delle Erbe",
+      "image": "mercato-delle-erbe.jpg",
+      "caption": "A century-old covered market turned food hall",
+      "description": "A covered market since 1910, now mixing traditional produce stalls with food counters serving everything from hand-cut mortadella panini to sushi. It's where Bolognese university students and professionals come for cheap, excellent lunches. The aperitivo scene here is superb.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mercato%20delle%20Erbe",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Mercato+delle+Erbe"
+      }
+    },
+    {
+      "name": "Finestrella di Via Piella",
+      "image": "finestrella.jpg",
+      "caption": "Bologna's secret little Venice window",
+      "description": "A small window in a wall on Via Piella reveals a hidden canal below — a remnant of the waterways that once criss-crossed the city. It's a delightful hidden surprise that shows Bologna was once a city of canals, much like Venice.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Finestrella%20di%20Via%20Piella",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Finestrella+di+Via+Piella"
+      }
+    },
+    {
+      "name": "MAMbo (Museum of Modern Art)",
+      "image": "mambo.jpg",
+      "caption": "Contemporary art in a former bakery",
+      "description": "Bologna's modern art museum occupies a converted municipal bakery in the university district. The permanent collection traces Italian art from WWII to today, and the temporary exhibitions are consistently excellent. The bookshop and café are worth a stop on their own.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=MAMbo%20%28Museum%20of%20Modern%20Art%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=MAMbo+%28Museum+of+Modern+Art%29"
+      }
+    },
+    {
+      "name": "Giardini Margherita",
+      "image": "giardini-margherita.jpg",
+      "caption": "Bologna's favorite park",
+      "description": "The city's largest and most popular park, where students lounge on the grass, families picnic, and joggers circle the pond. In summer, outdoor bars and live music events pop up. The perfect spot to decompress after a heavy Bolognese lunch.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Giardini%20Margherita",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Giardini+Margherita"
+      }
+    },
+    {
+      "name": "Via dell'Indipendenza & University Quarter",
+      "image": "university-quarter.jpg",
+      "caption": "Student energy and bohemian nightlife",
+      "description": "The university area around Via Zamboni pulses with youthful energy — cheap enotecas, bookshops, vintage stores, and the stunning Archiginnasio building with its anatomical theatre. The street art scene here is some of Italy's best. Come evening, the bars fill with Spritz-sipping students.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Via%20dell%27Indipendenza%20%26%20University%20Quarter",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Via+dell%27Indipendenza+%26+University+Quarter"
+      }
+    },
+    {
+      "name": "Two Towers (Due Torri)",
+      "image": "due-torri.jpg",
+      "caption": "Bologna's leaning icons",
+      "description": "Asinelli (97m, climbable — 498 steps) and Garisenda (48m, leaning). The city's most recognisable landmark since the 12th century.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Two%20Towers%20%28Due%20Torri%29"
+      }
+    },
+    {
+      "name": "Porticoes of Bologna",
+      "image": "porticoes.jpg",
+      "caption": "UNESCO covered walkways",
+      "description": "40 km of arcaded walkways — unique in the world. The longest runs 3.8 km uphill to Sanctuary of San Luca. Walk-worthy.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Porticoes%20of%20Bologna",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=bologna%20porticoes"
+      }
+    },
+    {
+      "name": "Mercato di Mezzo",
+      "image": "mercato-mezzo.jpg",
+      "caption": "Food market",
+      "description": "Indoor food hall in the Quadrilatero area. Fresh pasta, mortadella, local wines and street food. Bologna is Italy's food capital.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mercato%20di%20Mezzo"
+      }
+    },
+    {
+      "name": "San Luca Sanctuary",
+      "image": "san-luca.jpg",
+      "caption": "Hilltop basilica",
+      "description": "Follow the 666-arched portico uphill for panoramic views of Bologna and the Apennines. The church houses a Byzantine Madonna.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=San%20Luca%20Sanctuary",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=san%20luca%20bologna"
+      }
+    },
+    {
+      "name": "Archiginnasio Library",
+      "image": "archiginnasio.jpg",
+      "caption": "Historic university",
+      "description": "The former seat of Europe's oldest university (1088). The anatomical theatre with carved wooden figures is extraordinary.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Archiginnasio%20Library"
+      }
+    },
+    {
+      "name": "Bologna Food Tour",
+      "image": "food-tour.jpg",
+      "caption": "Eat like a local",
+      "description": "Tortellini, tagliatelle al ragù, mortadella and tigelle in the Quadrilatero. Bologna didn't earn 'La Grassa' (The Fat One) for nothing.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bologna%20Food%20Tour"
+      }
+    },
+    {
+      "name": "FICO Eataly World",
+      "image": "fico.jpg",
+      "caption": "Italian food theme park",
+      "description": "Massive food park on the outskirts with 40+ restaurants, cooking classes and artisan producers. Like Eataly but supersized.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=FICO%20Eataly%20World"
+      }
+    }
+  ],
+  "foodScene": "Bologna is Italy's undisputed food capital — they don't call it La Grassa (The Fat One) for nothing. Fresh egg pasta is religion here: tagliatelle al ragù (never call it 'bolognese'), tortellini in brodo (tiny meat-filled pasta in capon broth), and lasagna verde are the holy trinity. Try the definitive versions at Trattoria Anna Maria, where the walls are covered in photos of celebrity visitors, or Sfoglia Rina for fresh pasta to go. Mortadella is from here — eat it in a warm panino from Simoni in the Quadrilatero. For aperitivo, Bolognese style means a Spritz and free snacks at places like Le Stanze (set in a frescoed former chapel) or Mercato delle Erbe. Don't leave without gelato from Cremeria Cavour or a taste of local Lambrusco — the sparkling red wine that pairs perfectly with everything here.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bologna%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=bologna+travel"
+  }
+}

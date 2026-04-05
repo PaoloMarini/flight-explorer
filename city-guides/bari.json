@@ -1,0 +1,165 @@
+{
+  "city": "Bari",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "language": "Italian",
+  "weather": {
+    "tempHighC": 31,
+    "tempLowC": 22,
+    "description": "Hot and sunny",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Bari Vecchia's nonnas hand-roll orecchiette pasta on their doorsteps daily",
+    "The Basilica of San Nicola holds the relics of Santa Claus (Saint Nicholas)",
+    "Gateway to Puglia — two hours from trulli houses, white towns, and turquoise coast"
+  ],
+  "places": [
+    {
+      "name": "Bari Vecchia (Old Town)",
+      "image": "bari-vecchia.jpg",
+      "caption": "A living, breathing medieval quarter",
+      "description": "The old walled city is a labyrinth of narrow alleys where nonnas sit outside making fresh orecchiette pasta by hand. It's chaotic, authentic, and utterly charming — just follow the scent of fresh bread and drying laundry.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bari%20Vecchia%20%28Old%20Town%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Bari+Vecchia+%28Old+Town%29"
+      }
+    },
+    {
+      "name": "Basilica di San Nicola",
+      "image": "basilica-san-nicola.jpg",
+      "caption": "Where Santa Claus rests",
+      "description": "This 11th-century Romanesque basilica holds the relics of Saint Nicholas (yes, the real Santa Claus), making it a major pilgrimage site. The crypt is atmospheric and the architecture is stunning — carved capitals, a 12th-century ciborium, and a bishop's throne.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Basilica%20di%20San%20Nicola",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Basilica+di+San+Nicola"
+      }
+    },
+    {
+      "name": "Lungomare Nazario Sauro",
+      "image": "lungomare.jpg",
+      "caption": "Italy's most beautiful waterfront promenade",
+      "description": "This sweeping seafront promenade stretches for kilometers along the Adriatic, connecting the old town to the modern city. At sunset, the entire population seems to come out for the evening passeggiata. Grab a gelato and join in.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Lungomare%20Nazario%20Sauro",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Lungomare+Nazario+Sauro"
+      }
+    },
+    {
+      "name": "Cattedrale di San Sabino",
+      "image": "cattedrale-san-sabino.jpg",
+      "caption": "Romanesque grandeur with a hidden window trick",
+      "description": "Bari's 12th-century cathedral hides a cool secret: on the summer solstice, sunlight streams through a rose window and perfectly aligns with a mosaic on the floor. The crypt and the attached Museo Diocesano are worth exploring.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cattedrale%20di%20San%20Sabino",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Cattedrale+di+San+Sabino"
+      }
+    },
+    {
+      "name": "Teatro Petruzzelli",
+      "image": "teatro-petruzzelli.jpg",
+      "caption": "The fourth largest theatre in Italy",
+      "description": "This grand opera house in the Murattiano district was rebuilt after a devastating 1991 fire and reopened in 2009. Catch an opera, ballet, or concert in its lavish red-and-gold interior, or take a daytime guided tour.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Teatro%20Petruzzelli",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Teatro+Petruzzelli"
+      }
+    },
+    {
+      "name": "Pane e Pomodoro Beach",
+      "image": "pane-e-pomodoro.jpg",
+      "caption": "The city's own sandy beach",
+      "description": "A crescent of sandy beach just a 15-minute walk from the old town, named 'Bread and Tomato' because that's what workers used to eat there. It's free, family-friendly, and the water is surprisingly clear for a city beach. Perfect for a quick swim.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Pane%20e%20Pomodoro%20Beach",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Pane+e+Pomodoro+Beach"
+      }
+    },
+    {
+      "name": "Castello Normanno-Svevo",
+      "image": "castello-normanno-svevo.jpg",
+      "caption": "Norman fortress turned art gallery",
+      "description": "An imposing 12th-century castle built by Roger II of Sicily and later expanded by Frederick II. Today it hosts art exhibitions and cultural events, with the massive stone walls and moat providing an impressive backdrop. The rooftop terrace has great old town views.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Castello%20Normanno-Svevo",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Castello+Normanno-Svevo"
+      }
+    },
+    {
+      "name": "Mercato Coperto",
+      "image": "mercato-coperto.jpg",
+      "caption": "Bari's bustling covered market",
+      "description": "The covered market near Piazza del Ferrarese is a sensory feast of fresh fish, local cheeses (burrata, stracciatella), cured meats, and enormous piles of seasonal produce. Come early for the best selection and to see the fishmongers in action.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mercato%20Coperto",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Mercato+Coperto"
+      }
+    },
+    {
+      "name": "Piazza Mercantile",
+      "image": "piazza-mercantile.jpg",
+      "caption": "The social heart of old Bari",
+      "description": "This lively medieval square was once the center of commerce and still buzzes with energy. The Column of Justice (where debtors were publicly shamed) stands as a reminder of its mercantile past. The surrounding cafés are ideal for people-watching over an espresso.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Piazza%20Mercantile",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Piazza+Mercantile"
+      }
+    },
+    {
+      "name": "Polignano a Mare (day trip)",
+      "image": "polignano-a-mare.jpg",
+      "caption": "Dramatic clifftop town 30 minutes south",
+      "description": "This jaw-dropping coastal town perched on limestone cliffs is a short train ride from Bari. The Lama Monachile cove beach, the Grotta Palazzese (a restaurant inside a cave), and the old town gelaterias make it an unmissable day trip.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Polignano%20a%20Mare%20%28day%20trip%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Polignano+a+Mare+%28day+trip%29"
+      }
+    },
+    {
+      "name": "Polignano a Mare",
+      "image": "polignano.jpg",
+      "caption": "Clifftop beach town",
+      "description": "30 minutes south — dramatic cliffs, turquoise coves, and the famous Lama Monachile beach. Red Bull cliff diving venue.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Polignano%20a%20Mare",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=polignano%20a%20mare"
+      }
+    },
+    {
+      "name": "Alberobello",
+      "image": "alberobello.jpg",
+      "caption": "Trulli cone houses",
+      "description": "UNESCO village of 1,500 whitewashed conical-roofed trulli houses. 60 km from Bari — an easy day trip.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Alberobello",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=alberobello%20trulli"
+      }
+    },
+    {
+      "name": "Matera",
+      "image": "matera.jpg",
+      "caption": "Ancient cave city",
+      "description": "Sassi cave dwellings carved into ravine walls, inhabited for 9,000 years. Now a boutique hotel destination. 1-hour drive from Bari.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Matera",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=matera%20italy"
+      }
+    },
+    {
+      "name": "Monopoli",
+      "image": "monopoli.jpg",
+      "caption": "Harbour town charm",
+      "description": "Quieter alternative to Polignano with beautiful beaches, a Baroque old town and excellent seafood restaurants. 40 min by train.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Monopoli",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=monopoli%20puglia"
+      }
+    }
+  ],
+  "foodScene": "Bari's food is Pugliese perfection — simple, intensely flavorful, and dirt cheap. You absolutely must try orecchiette con le cime di rapa (ear-shaped pasta with broccoli rabe, anchovies, and chili) — watch it being hand-rolled in Bari Vecchia then eat it at a trattoria nearby like La Tana del Polpo. Focaccia barese — thick, crispy, loaded with tomatoes and olives — is the city's street food king; grab a slice from Panificio Fiore. Raw seafood (crudo) is a Bari obsession: sea urchins, raw prawns, and octopus carpaccio at the old town's tiny seafood stalls. Burrata was invented just up the road in Andria, so it's outrageously fresh here. For a proper sit-down, try Terranima for elevated Pugliese classics. Finish with a pasticciotto (custard-filled pastry) from any local bar.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bari%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=bari+travel"
+  }
+}
