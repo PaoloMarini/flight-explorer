@@ -1,0 +1,163 @@
+{
+  "city": "Seville",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "currency": "EUR (€)",
+  "language": "Spanish",
+  "weather": {
+    "tempHighC": 37,
+    "tempLowC": 21,
+    "description": "Very hot — plan siestas, explore mornings & evenings",
+    "icon": "🔥"
+  },
+  "quickFacts": [
+    "Temperatures can hit 40°C+ — carry water and seek shade midday",
+    "Tapas originated here — many bars still give a free tapa with every drink",
+    "The Alcázar is a Game of Thrones filming location (Dorne)",
+    "Don't eat dinner before 9pm — you'll be dining alone"
+  ],
+  "foodScene": "Free tapas with every drink at many bars — just keep ordering. Salmorejo (chilled tomato soup) beats gazpacho. Espinacas con garbanzos (spinach & chickpeas) is the local classic. Triana neighbourhood has the most authentic tapas bars. Fried fish at Bar Las Golondrinas.",
+  "places": [
+    {
+      "name": "Real Alcázar",
+      "image": "real-alcazar.jpg",
+      "caption": "Moorish palace complex",
+      "description": "Stunning Mudéjar architecture with tilework, gardens, and peacocks. You'll recognise it from Game of Thrones. Book online to skip the queue.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Real%20Alc%C3%A1zar",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Real+Alcázar"
+      }
+    },
+    {
+      "name": "Seville Cathedral & Giralda",
+      "image": "seville-cathedral.jpg",
+      "caption": "World's largest Gothic cathedral",
+      "description": "Christopher Columbus's tomb is here. Climb the Giralda tower's 35 ramps (no steps!) for panoramic views. The interior is staggering.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Seville%20Cathedral%20%26%20Giralda",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Seville+Cathedral+&+Giralda"
+      }
+    },
+    {
+      "name": "Plaza de España",
+      "image": "plaza-de-espana.jpg",
+      "caption": "Semi-circular masterpiece",
+      "description": "Built for the 1929 Expo, this tile-covered plaza is jaw-dropping. Rent a rowboat on the canal. Each alcove represents a Spanish province.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Plaza%20de%20Espa%C3%B1a",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Plaza+de+España"
+      }
+    },
+    {
+      "name": "Triana",
+      "image": "triana.jpg",
+      "caption": "Flamenco & ceramic quarter",
+      "description": "Cross the bridge to the birthplace of flamenco. Ceramic workshops, tapas bars, and the Mercado de Triana food market. Best at sunset.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Triana",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Triana"
+      }
+    },
+    {
+      "name": "Metropol Parasol (Las Setas)",
+      "image": "metropol-parasol.jpg",
+      "caption": "Mushroom-shaped landmark",
+      "description": "The world's largest wooden structure. Walk on top at sunset for 360° views with a drink included in the ticket. Roman ruins underneath.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Metropol%20Parasol%20%28Las%20Setas%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Metropol+Parasol+(Las+Setas)"
+      }
+    },
+    {
+      "name": "Barrio Santa Cruz",
+      "image": "barrio-santa-cruz.jpg",
+      "caption": "Former Jewish quarter",
+      "description": "Labyrinthine white-washed alleys with orange trees, hidden plazas, and azulejo-covered walls. Get deliberately lost — it's tiny and charming.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Barrio%20Santa%20Cruz",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Barrio+Santa+Cruz"
+      }
+    },
+    {
+      "name": "Parque de María Luisa",
+      "image": "parque-maria-luisa.jpg",
+      "caption": "Shaded park oasis",
+      "description": "Duck under the canopy of hundreds of trees during the midday heat. Beautiful tiled benches, duck ponds, and horse carriages.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Parque%20de%20Mar%C3%ADa%20Luisa",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Parque+de+María+Luisa"
+      }
+    },
+    {
+      "name": "Casa de Pilatos",
+      "image": "casa-de-pilatos.jpg",
+      "caption": "Hidden Renaissance palace",
+      "description": "Mudéjar tilework rivalling the Alcázar but with a fraction of the crowds. The courtyard is one of the most beautiful in Seville.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Casa%20de%20Pilatos",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Casa+de+Pilatos"
+      }
+    },
+    {
+      "name": "Flamenco Show",
+      "image": "flamenco-show.jpg",
+      "caption": "Raw art form",
+      "description": "See authentic flamenco in a small tablao, not a tourist dinner show. Casa de la Memoria or La Casa del Flamenco for intimate performances.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Flamenco%20Show",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Flamenco+Show"
+      }
+    },
+    {
+      "name": "Day Trip: Córdoba",
+      "image": "cordoba.jpg",
+      "caption": "Mezquita mosque-cathedral",
+      "description": "45 minutes by high-speed train. The Mezquita's 856 striped arches are hypnotic. The Jewish quarter and flower-filled patios are unforgettable.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Day%20Trip%3A%20C%C3%B3rdoba",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Day+Trip:+Córdoba"
+      }
+    },
+    {
+      "name": "Triana District",
+      "image": "triana.jpg",
+      "caption": "Ceramic quarter",
+      "description": "Across the river — traditional ceramic workshops, Mercado de Triana food market, flamenco bars and calle Betis nightlife.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Triana%20District",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=triana%20seville"
+      }
+    },
+    {
+      "name": "María Luisa Park",
+      "image": "maria-luisa.jpg",
+      "caption": "City park",
+      "description": "Former palace gardens with Plaza de América, doves, duck ponds and shady paths. Attached to Plaza de España.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mar%C3%ADa%20Luisa%20Park"
+      }
+    },
+    {
+      "name": "Torre del Oro",
+      "image": "torre-del-oro.jpg",
+      "caption": "Golden Tower",
+      "description": "13th-century watchtower on the Guadalquivir. Small maritime museum inside. The golden tiles on top gleam in the sun.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Torre%20del%20Oro"
+      }
+    },
+    {
+      "name": "Guadalquivir River Cruise",
+      "image": "guadalquivir.jpg",
+      "caption": "River views",
+      "description": "1-hour boat cruise past Torre del Oro, Triana and the Expo 92 island. Evening cruises are atmospheric.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Guadalquivir%20River%20Cruise"
+      }
+    }
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Seville%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=seville+travel"
+  }
+}

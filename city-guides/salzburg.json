@@ -1,0 +1,173 @@
+{
+  "city": "Salzburg",
+  "country": "Austria",
+  "flag": "🇦🇹",
+  "currency": "EUR (€)",
+  "language": "German",
+  "weather": {
+    "tempHighC": 25,
+    "tempLowC": 14,
+    "description": "Warm with occasional alpine showers",
+    "icon": "⛅"
+  },
+  "quickFacts": [
+    "Mozart was born here — you'll see his face on literally everything",
+    "The Salzburg Card covers all major sights and public transport",
+    "Sound of Music tours are cheesy but genuinely fun",
+    "Austrian water quality is incredible — drink from any tap"
+  ],
+  "foodScene": "Salzburger Nockerl (sweet soufflé) is the signature dessert. Bosna (spicy sausage in a roll) from the stand at Balkan Grill. Augustiner Bräustübl for the most authentic beer hall experience — you bring food, they pour the beer. Kaffeehäuser for Apfelstrudel.",
+  "places": [
+    {
+      "name": "Hohensalzburg Fortress",
+      "image": "hohensalzburg.jpg",
+      "caption": "Medieval hilltop fortress",
+      "description": "Take the funicular up to one of Europe's largest preserved castles. The views over the city and Alps are stunning. Evening concerts in the state rooms.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Hohensalzburg%20Fortress",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Hohensalzburg+Fortress"
+      }
+    },
+    {
+      "name": "Altstadt (Old Town)",
+      "image": "altstadt.jpg",
+      "caption": "Baroque UNESCO centre",
+      "description": "Getreidegasse's wrought-iron shop signs, Mozart's birthplace, and the Residenzplatz fountain. Compact enough to explore in half a day.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Altstadt%20%28Old%20Town%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Altstadt+(Old+Town)"
+      }
+    },
+    {
+      "name": "Mirabell Palace & Gardens",
+      "image": "mirabell-gardens.jpg",
+      "caption": "Do-Re-Mi filming location",
+      "description": "The gardens are free and gorgeous. The Pegasus fountain and hedge garden are Sound of Music filming spots. Marble Hall has free concerts.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mirabell%20Palace%20%26%20Gardens",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Mirabell+Palace+&+Gardens"
+      }
+    },
+    {
+      "name": "Kapuzinerberg",
+      "image": "kapuzinerberg.jpg",
+      "caption": "Secret viewpoint hike",
+      "description": "A short steep hike through forest to the best viewpoint in Salzburg. Way fewer tourists than the fortress. Stefan Zweig lived at the top.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Kapuzinerberg",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Kapuzinerberg"
+      }
+    },
+    {
+      "name": "Augustiner Bräustübl",
+      "image": "augustiner-braustuebl.jpg",
+      "caption": "Monk-brewed beer hall",
+      "description": "A 600-year-old monastic brewery. Grab a ceramic mug, fill it from the barrel, buy snacks from the food stalls. 1,400 seats and pure atmosphere.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Augustiner%20Br%C3%A4ust%C3%BCbl",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Augustiner+Bräustübl"
+      }
+    },
+    {
+      "name": "Salzburg Cathedral",
+      "image": "salzburg-cathedral.jpg",
+      "caption": "Baroque dome & organ",
+      "description": "Mozart was baptised here. The dome is enormous and the organ has 4,000 pipes. The crypt and museum are worth the small fee.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Salzburg%20Cathedral",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Salzburg+Cathedral"
+      }
+    },
+    {
+      "name": "Museum der Moderne",
+      "image": "museum-der-moderne.jpg",
+      "caption": "Modern art on the cliff",
+      "description": "Contemporary art museum perched on the Mönchsberg cliff. The art rotates, but the rooftop terrace café views are permanently excellent.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Museum%20der%20Moderne",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Museum+der+Moderne"
+      }
+    },
+    {
+      "name": "Untersberg Cable Car",
+      "image": "untersberg.jpg",
+      "caption": "Alpine summit in minutes",
+      "description": "Ride to 1,853m for jaw-dropping panoramas of the Alps and the Bavarian plain. Easy hiking trails at the top. Covered by the Salzburg Card.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Untersberg%20Cable%20Car",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Untersberg+Cable+Car"
+      }
+    },
+    {
+      "name": "Hellbrunn Palace & Trick Fountains",
+      "image": "hellbrunn.jpg",
+      "caption": "Whimsical water gardens",
+      "description": "A 17th-century archbishop built elaborate trick fountains to soak his dinner guests. You will get wet. Genuinely hilarious.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Hellbrunn%20Palace%20%26%20Trick%20Fountains",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Hellbrunn+Palace+&+Trick+Fountains"
+      }
+    },
+    {
+      "name": "Day Trip: Hallstatt",
+      "image": "hallstatt.jpg",
+      "caption": "Fairy-tale lakeside village",
+      "description": "Arguably the most photographed village in Austria. Salt mines, a skywalk, and mirror-calm lake reflections. Go early to beat day-trippers.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Day%20Trip%3A%20Hallstatt",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Day+Trip:+Hallstatt"
+      }
+    },
+    {
+      "name": "Getreidegasse",
+      "image": "getreidegasse.jpg",
+      "caption": "Medieval shopping street",
+      "description": "Narrow old-town street with wrought-iron guild signs. Mozart's birthplace at No. 9. International brands in medieval buildings.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Getreidegasse"
+      }
+    },
+    {
+      "name": "Mozart's Birthplace",
+      "image": "mozart-birthplace.jpg",
+      "caption": "Born here in 1756",
+      "description": "The apartment where Mozart was born and spent his first 17 years. Original instruments, letters and portraits.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mozart%27s%20Birthplace",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=mozart%20birthplace%20salzburg"
+      }
+    },
+    {
+      "name": "Sound of Music Tour",
+      "image": "sound-of-music.jpg",
+      "caption": "Do-Re-Mi!",
+      "description": "Bus tours to Leopoldskron Palace lake scene, Mondsee wedding church and the Alps. Sing along encouraged.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Sound%20of%20Music%20Tour",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=sound%20of%20music%20tour%20salzburg"
+      }
+    },
+    {
+      "name": "Eisriesenwelt Ice Caves",
+      "image": "eisriesenwelt.jpg",
+      "caption": "World's largest ice caves",
+      "description": "42 km of ice formations inside a mountain near Werfen. Cable car + hike to enter. Open May-October. Bring warm clothes.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Eisriesenwelt%20Ice%20Caves"
+      }
+    },
+    {
+      "name": "Stiegl Brewery Tour",
+      "image": "stiegl.jpg",
+      "caption": "Austria's largest private brewery",
+      "description": "Interactive brewery experience since 1492. Beer tastings, brewing process and a museum. On the city outskirts.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Stiegl%20Brewery%20Tour"
+      }
+    }
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Salzburg%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=salzburg+travel"
+  }
+}

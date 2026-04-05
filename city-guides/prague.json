@@ -1,0 +1,191 @@
+{
+  "city": "Prague",
+  "country": "Czech Republic",
+  "flag": "🇨🇿",
+  "currency": "CZK (Kč)",
+  "language": "Czech",
+  "weather": {
+    "tempHighC": 26,
+    "tempLowC": 15,
+    "description": "Warm & pleasant, long evenings",
+    "icon": "⛅"
+  },
+  "quickFacts": [
+    "Cheapest excellent beer in Europe — €1-2 per pint",
+    "Charles Bridge at sunrise ≫ Charles Bridge at mid-day",
+    "Czech crown, not Euro — ATMs give the best exchange rate",
+    "Avoid Wenceslas Square restaurants — tourist trap central"
+  ],
+  "foodScene": "Svíčková (beef sirloin in cream sauce with dumplings) is the national treasure. Trdelník (chimney cake) is a tourist invention — but tasty. Pilsner Urquell at the source. Lokál Dlouhá for authentic Czech pub food. Craft beer at BeerGeek Bar.",
+  "places": [
+    {
+      "name": "Prague Castle & St. Vitus",
+      "image": "prague-castle.jpg",
+      "caption": "World's largest castle complex",
+      "description": "The castle grounds are free to enter. St. Vitus Cathedral's stained glass (including Mucha's window) is breathtaking. Go at opening to avoid crowds.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Prague%20Castle%20%26%20St.%20Vitus",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Prague+Castle+&+St.+Vitus"
+      }
+    },
+    {
+      "name": "Charles Bridge",
+      "image": "charles-bridge.jpg",
+      "caption": "Gothic bridge at dawn",
+      "description": "30 Baroque statues, buskers, and the best views of the castle. Visit at 6am for magical emptiness, or at night when it's floodlit.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Charles%20Bridge",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Charles+Bridge"
+      }
+    },
+    {
+      "name": "Vinohrady & Žižkov",
+      "image": "vinohrady.jpg",
+      "caption": "Local neighbourhood life",
+      "description": "Skip Old Town Square restaurants. Vinohrady has the best cafés, beer gardens, and the Žižkov TV Tower with David Černý's crawling babies.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vinohrady%20%26%20%C5%BDi%C5%BEkov",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Vinohrady+&+Žižkov"
+      }
+    },
+    {
+      "name": "Old Town Square",
+      "image": "old-town-square.jpg",
+      "caption": "Astronomical Clock central",
+      "description": "The Astronomical Clock show is underwhelming but the square itself is gorgeous. Climb the Old Town Hall tower for aerial views.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Old%20Town%20Square",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Old+Town+Square"
+      }
+    },
+    {
+      "name": "Letná Park",
+      "image": "letna-park.jpg",
+      "caption": "Panoramic beer garden",
+      "description": "The best sunset viewpoint in Prague, with a beer garden serving Pilsner with city panoramas. The giant metronome is a local icon.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Letn%C3%A1%20Park",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Letná+Park"
+      }
+    },
+    {
+      "name": "Vyšehrad Fortress",
+      "image": "vysehrad.jpg",
+      "caption": "Ancient hilltop fortress",
+      "description": "Quiet, uncrowded, with river views. The cemetery holds Dvořák and Mucha. The casemates are atmospheric. Most tourists never make it here.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vy%C5%A1ehrad%20Fortress",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Vyšehrad+Fortress"
+      }
+    },
+    {
+      "name": "John Lennon Wall",
+      "image": "lennon-wall.jpg",
+      "caption": "Ever-changing street art",
+      "description": "This graffiti wall has been repainted countless times since the 1980s. It's a symbol of free speech and a colourful photo spot.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=John%20Lennon%20Wall",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=John+Lennon+Wall"
+      }
+    },
+    {
+      "name": "Petřín Hill",
+      "image": "petrin-hill.jpg",
+      "caption": "Mini Eiffel Tower & gardens",
+      "description": "Take the funicular up, wander rose gardens, climb the lookout tower, and get lost in the mirror maze. A peaceful escape from Old Town.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Pet%C5%99%C3%ADn%20Hill",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Petřín+Hill"
+      }
+    },
+    {
+      "name": "Náplavka Riverbank",
+      "image": "naplavka.jpg",
+      "caption": "Farmers market & river bars",
+      "description": "Saturday farmers market with local food and crafts. On warm evenings, the floating bars on the Vltava are the place to be.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=N%C3%A1plavka%20Riverbank",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Náplavka+Riverbank"
+      }
+    },
+    {
+      "name": "Day Trip: Kutná Hora",
+      "image": "kutna-hora.jpg",
+      "caption": "Bone church & silver mines",
+      "description": "The Sedlec Ossuary is decorated with 40,000 human bones. Morbidly fascinating and only an hour by train from Prague.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Day%20Trip%3A%20Kutn%C3%A1%20Hora",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Day+Trip:+Kutná+Hora"
+      }
+    },
+    {
+      "name": "Prague Castle (Pražský hrad)",
+      "image": "prague-castle.jpg",
+      "caption": "World's largest castle complex",
+      "description": "70,000 sqm complex with St Vitus Cathedral, Old Royal Palace and Golden Lane. Views over the city from the ramparts.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Prague%20Castle%20%28Pra%C5%BEsk%C3%BD%20hrad%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=prague%20castle"
+      }
+    },
+    {
+      "name": "Old Town Square & Astronomical Clock",
+      "image": "old-town-square.jpg",
+      "caption": "Medieval clockwork",
+      "description": "600-year-old astronomical clock performs on the hour. Týn Church spires, Jan Hus memorial and pastel Baroque houses.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Old%20Town%20Square%20%26%20Astronomical%20Clock"
+      }
+    },
+    {
+      "name": "Malá Strana",
+      "image": "mala-strana.jpg",
+      "caption": "Lesser Town",
+      "description": "Baroque quarter below the castle with hidden gardens, the John Lennon Wall, St Nicholas Church and cosy wine bars.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mal%C3%A1%20Strana"
+      }
+    },
+    {
+      "name": "Jewish Quarter (Josefov)",
+      "image": "josefov.jpg",
+      "caption": "Historic ghetto",
+      "description": "Six synagogues, the Old Jewish Cemetery with 12,000 tombstones layered over centuries, and the powerful Pinkas Memorial.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Jewish%20Quarter%20%28Josefov%29"
+      }
+    },
+    {
+      "name": "Prague Beer Culture",
+      "image": "beer-culture.jpg",
+      "caption": "World's best beer country",
+      "description": "Czechs drink more beer per capita than anywhere. Pilsner Urquell invented lager. Try U Fleků (brewing since 1499) and craft bars.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Prague%20Beer%20Culture"
+      }
+    },
+    {
+      "name": "Lennon Wall",
+      "image": "lennon-wall.jpg",
+      "caption": "Peace graffiti",
+      "description": "Wall near the French Embassy covered in Beatles lyrics and peace messages since the 1980s. A living artwork that changes daily.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Lennon%20Wall"
+      }
+    },
+    {
+      "name": "Dancing House",
+      "image": "dancing-house.jpg",
+      "caption": "Deconstructivist landmark",
+      "description": "Gehry & Milunić's 1996 'Fred and Ginger' building. Rooftop bar and restaurant with Vltava views. Architecture photo favourite.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Dancing%20House",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=dancing%20house%20prague"
+      }
+    }
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Prague%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=prague+travel"
+  }
+}

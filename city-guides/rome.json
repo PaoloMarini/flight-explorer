@@ -1,0 +1,144 @@
+{
+  "city": "Rome",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "language": "Italian",
+  "weather": {
+    "tempHighC": 32,
+    "tempLowC": 20,
+    "description": "Hot & sunny, stay hydrated",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Free water from nasoni (public fountains) all over the city",
+    "The Colosseum + Forum + Palatine combo ticket lasts 2 days",
+    "Coffee standing at the bar costs half the price of sitting down",
+    "Never eat at restaurants with picture menus near major sights"
+  ],
+  "foodScene": "Cacio e pepe (pecorino & black pepper pasta) is simple perfection. Supplì (fried rice balls) from street vendors. Trapizzino for pizza-pocket hybrids. Trastevere has great trattorias but go a block off the main drag. Gelato from Fatamorgana — no artificial colours.",
+  "places": [
+    {
+      "name": "Colosseum",
+      "image": "colosseum.jpg",
+      "caption": "Gladiator arena",
+      "description": "Book the underground and upper tier tour for areas most visitors never see. Best photos at golden hour from the viewpoint on Via Nicola Salvi.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Colosseum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Colosseum"
+      }
+    },
+    {
+      "name": "Roman Forum & Palatine Hill",
+      "image": "roman-forum.jpg",
+      "caption": "Ancient city centre",
+      "description": "Where Julius Caesar walked. The Forum is included with your Colosseum ticket. Palatine Hill has gardens and the best Forum views.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Roman%20Forum%20%26%20Palatine%20Hill",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Roman+Forum+&+Palatine+Hill"
+      }
+    },
+    {
+      "name": "Trastevere",
+      "image": "trastevere.jpg",
+      "caption": "Bohemian neighbourhood",
+      "description": "Ivy-covered buildings, cobblestone alleys, and the heart of Roman nightlife. Cross the river and get happily lost. Best at sunset.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Trastevere",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Trastevere"
+      }
+    },
+    {
+      "name": "Vatican Museums & Sistine Chapel",
+      "image": "vatican-museums.jpg",
+      "caption": "Michelangelo's ceiling",
+      "description": "Book skip-the-line tickets or go on the last Sunday of the month (free but queued). The Raphael Rooms are just as impressive.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vatican%20Museums%20%26%20Sistine%20Chapel",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Vatican+Museums+&+Sistine+Chapel"
+      }
+    },
+    {
+      "name": "Pantheon",
+      "image": "pantheon.jpg",
+      "caption": "2,000-year-old dome",
+      "description": "The oculus lets rain fall inside and the geometry is perfect. Free entry (reservation required). Visit when it rains for a magical effect.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Pantheon",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Pantheon"
+      }
+    },
+    {
+      "name": "Trevi Fountain",
+      "image": "trevi-fountain.jpg",
+      "caption": "Baroque masterpiece",
+      "description": "Throw a coin with your right hand over your left shoulder. Come at 7am or 11pm to actually see it without being crushed by crowds.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Trevi%20Fountain",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Trevi+Fountain"
+      }
+    },
+    {
+      "name": "Aventine Hill & Keyhole",
+      "image": "aventine-hill.jpg",
+      "caption": "Secret viewpoint",
+      "description": "Peek through the Knights of Malta keyhole for a perfectly framed St. Peter's dome. The Orange Garden next door has panoramic sunset views.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Aventine%20Hill%20%26%20Keyhole",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Aventine+Hill+&+Keyhole"
+      }
+    },
+    {
+      "name": "Testaccio",
+      "image": "testaccio.jpg",
+      "caption": "Working-class foodie district",
+      "description": "The real Roman food neighbourhood. Testaccio Market for street food, and the surrounding trattorias serve the best offal-based Roman classics.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Testaccio",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Testaccio"
+      }
+    },
+    {
+      "name": "Villa Borghese",
+      "image": "villa-borghese.jpg",
+      "caption": "Park & world-class gallery",
+      "description": "Rent a rowboat on the lake, then see Bernini's sculptures in the Galleria Borghese (book ahead — limited entries). A green oasis above Piazza del Popolo.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Villa%20Borghese",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Villa+Borghese"
+      }
+    },
+    {
+      "name": "Appian Way",
+      "image": "appian-way.jpg",
+      "caption": "Ancient Roman road",
+      "description": "Rent a bike on Sundays (car-free) and ride past catacombs, aqueducts, and 2,300-year-old paving stones. The most atmospheric experience in Rome.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Appian%20Way",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Appian+Way"
+      }
+    },
+    {
+      "name": "Borghese Gallery",
+      "image": "borghese.jpg",
+      "caption": "Bernini & Caravaggio",
+      "description": "Exquisite collection in a villa surrounded by Rome's most beautiful park. Only 360 visitors every 2 hours — book ahead.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Borghese%20Gallery"
+      }
+    },
+    {
+      "name": "Piazza Navona",
+      "image": "piazza-navona.jpg",
+      "caption": "Baroque square",
+      "description": "Three fountains (Bernini's Four Rivers), street artists and gelateries on the site of a Roman stadium. Most beautiful square in Rome.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Piazza%20Navona"
+      }
+    }
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Rome%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=rome+travel"
+  }
+}

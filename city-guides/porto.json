@@ -1,0 +1,164 @@
+{
+  "city": "Porto",
+  "country": "Portugal",
+  "flag": "🇵🇹",
+  "currency": "EUR (€)",
+  "language": "Portuguese",
+  "weather": {
+    "tempHighC": 25,
+    "tempLowC": 15,
+    "description": "Warm & sunny, Atlantic breeze",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Port wine tastings in Vila Nova de Gaia start from €5",
+    "The São Bento station azulejo tiles are free to admire",
+    "Francesinha is Porto's meat-lover sandwich — try before judging",
+    "Book Livraria Lello tickets online (€5, redeemable on books)"
+  ],
+  "foodScene": "Francesinha is a gut-busting tower of meats, cheese, and spicy sauce — and it's glorious. Pastéis de nata (custard tarts) everywhere. Bacalhau (salt cod) done 1,000 ways. Wash it all down with a €1 espresso or a glass of Vinho Verde.",
+  "places": [
+    {
+      "name": "Ribeira District",
+      "image": "ribeira.jpg",
+      "caption": "UNESCO waterfront",
+      "description": "Narrow colourful houses tumbling down to the Douro River. Grab a Super Bock at a riverside café and watch the rabelo boats float by.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Ribeira%20District",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Ribeira+District"
+      }
+    },
+    {
+      "name": "Livraria Lello",
+      "image": "livraria-lello.jpg",
+      "caption": "World's most beautiful bookshop",
+      "description": "Neo-Gothic staircase that allegedly inspired Hogwarts. Go at opening to beat the crowds. Your €5 entry becomes a book voucher.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Livraria%20Lello",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Livraria+Lello"
+      }
+    },
+    {
+      "name": "Dom Luís I Bridge",
+      "image": "dom-luis-bridge.jpg",
+      "caption": "Double-deck iron icon",
+      "description": "Walk the upper deck for breathtaking views of both Porto and Gaia. Designed by a student of Gustave Eiffel.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Dom%20Lu%C3%ADs%20I%20Bridge",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Dom+Luís+I+Bridge"
+      }
+    },
+    {
+      "name": "São Bento Station",
+      "image": "sao-bento.jpg",
+      "caption": "Azulejo masterpiece",
+      "description": "A working train station covered in 20,000 hand-painted blue tiles depicting Portuguese history. It's free — just walk in and look up.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=S%C3%A3o%20Bento%20Station",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=São+Bento+Station"
+      }
+    },
+    {
+      "name": "Clérigos Tower",
+      "image": "clerigos-tower.jpg",
+      "caption": "Baroque bell tower",
+      "description": "Climb 240 steps for the best 360° panorama of Porto. The church below is free and features stunning gilded woodwork.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cl%C3%A9rigos%20Tower",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Clérigos+Tower"
+      }
+    },
+    {
+      "name": "Vila Nova de Gaia",
+      "image": "vila-nova-de-gaia.jpg",
+      "caption": "Port wine cellars",
+      "description": "Cross the bridge to the south bank for port tastings at historic lodges like Taylor's, Graham's, or Sandeman. Cable car back up for river views.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vila%20Nova%20de%20Gaia",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Vila+Nova+de+Gaia"
+      }
+    },
+    {
+      "name": "Jardins do Palácio de Cristal",
+      "image": "crystal-palace-gardens.jpg",
+      "caption": "Hilltop gardens",
+      "description": "Peacocks roam freely in these manicured gardens with sweeping views over the Douro and Atlantic. Perfect for a lazy afternoon.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Jardins%20do%20Pal%C3%A1cio%20de%20Cristal",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Jardins+do+Palácio+de+Cristal"
+      }
+    },
+    {
+      "name": "Foz do Douro",
+      "image": "foz-do-douro.jpg",
+      "caption": "Beachside neighbourhood",
+      "description": "Where the Douro meets the Atlantic. Walk the coastal promenade, watch surfers, and grab fresh seafood at Praia da Luz.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Foz%20do%20Douro",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Foz+do+Douro"
+      }
+    },
+    {
+      "name": "Bolhão Market",
+      "image": "bolhao-market.jpg",
+      "caption": "Freshly renovated food hall",
+      "description": "Two floors of fresh produce, cured meats, cheese, and flowers. The vendors are characters. Don't miss the bifana (pork sandwich) stalls.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bolh%C3%A3o%20Market",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Bolhão+Market"
+      }
+    },
+    {
+      "name": "Day Trip: Douro Valley",
+      "image": "douro-valley.jpg",
+      "caption": "Vineyard-lined river",
+      "description": "UNESCO-listed wine region just 2 hours by train. Terraced vineyards, wine estates, and boat cruises through dramatic gorges.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Day%20Trip%3A%20Douro%20Valley",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Day+Trip:+Douro+Valley"
+      }
+    },
+    {
+      "name": "Port Wine Cellars (Vila Nova de Gaia)",
+      "image": "port-cellars.jpg",
+      "caption": "Wine tasting",
+      "description": "Cross the bridge to Gaia for tastings at Taylor's, Graham's, Sandeman and dozens more. Cellar tours explain the ageing process.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Port%20Wine%20Cellars%20%28Vila%20Nova%20de%20Gaia%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=port%20wine%20cellars%20gaia"
+      }
+    },
+    {
+      "name": "Mercado do Bolhão",
+      "image": "bolhao.jpg",
+      "caption": "Historic market",
+      "description": "Recently restored Art Nouveau market. Fresh produce, bacalhau, cheese, flowers and a food court. Porto's food soul.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mercado%20do%20Bolh%C3%A3o"
+      }
+    },
+    {
+      "name": "Douro Valley Day Trip",
+      "image": "douro-valley.jpg",
+      "caption": "Wine country cruise",
+      "description": "UNESCO-listed terraced vineyards. River cruise, wine tastings and lunch at a quinta. Train or boat — both scenic.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Douro%20Valley%20Day%20Trip",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=douro%20valley%20portugal"
+      }
+    },
+    {
+      "name": "Church of São Francisco",
+      "image": "sao-francisco.jpg",
+      "caption": "Golden interior",
+      "description": "Gothic church with an interior covered in 300 kg of gold leaf. The catacombs underneath house an ossuary.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Church%20of%20S%C3%A3o%20Francisco"
+      }
+    }
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Porto%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=porto+travel"
+  }
+}

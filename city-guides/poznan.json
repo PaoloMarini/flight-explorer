@@ -1,0 +1,163 @@
+{
+  "city": "Poznań",
+  "country": "Poland",
+  "flag": "🇵🇱",
+  "currency": "PLN (zł)",
+  "language": "Polish",
+  "weather": {
+    "tempHighC": 25,
+    "tempLowC": 14,
+    "description": "Warm & mostly sunny, pleasant evenings",
+    "icon": "⛅"
+  },
+  "quickFacts": [
+    "At noon, two mechanical goats butt heads on the Town Hall clock tower",
+    "St. Martin's croissants (rogale świętomarcińskie) are a protected regional treat",
+    "Craft beer scene is excellent — look for Pinta and Trzech Kumpli",
+    "One of Poland's oldest cities and its first capital"
+  ],
+  "foodScene": "Rogale świętomarcińskie (St. Martin's croissants) are a must — flaky pastry with white poppy seed filling. Pyzy (potato dumplings) are the local comfort food. Hit Stary Browar for upscale dining or the milk bars for budget Polish classics under €3.",
+  "places": [
+    {
+      "name": "Old Market Square",
+      "image": "old-market-square.jpg",
+      "caption": "Colourful Renaissance gem",
+      "description": "One of Europe's most beautiful squares. Pastel merchant houses, buzzing café terraces, and the iconic Town Hall with its goat clock.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Old%20Market%20Square",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Old+Market+Square"
+      }
+    },
+    {
+      "name": "Cathedral Island (Ostrów Tumski)",
+      "image": "cathedral-island.jpg",
+      "caption": "Birthplace of Poland",
+      "description": "The oldest part of the city on a tiny island. The cathedral crypt holds tombs of Poland's first rulers. Eerily atmospheric at twilight.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cathedral%20Island%20%28Ostr%C3%B3w%20Tumski%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Cathedral+Island+(Ostrów+Tumski)"
+      }
+    },
+    {
+      "name": "Stary Browar",
+      "image": "stary-browar.jpg",
+      "caption": "Brewery turned art mall",
+      "description": "A 19th-century brewery converted into an award-winning shopping and arts centre. Art installations sit between shops — genuinely worth visiting.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Stary%20Browar",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Stary+Browar"
+      }
+    },
+    {
+      "name": "Citadel Park",
+      "image": "citadel-park.jpg",
+      "caption": "Green escape with history",
+      "description": "A huge park built on a former Prussian fortress. War memorials, a military museum, and locals jogging and picnicking everywhere.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Citadel%20Park",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Citadel+Park"
+      }
+    },
+    {
+      "name": "Śródka District",
+      "image": "srodka.jpg",
+      "caption": "Street art neighbourhood",
+      "description": "A once-forgotten district reborn through massive murals and quirky cafés. The trompe-l'oeil mural on Śródka is stunning.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=%C5%9Ar%C3%B3dka%20District",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Śródka+District"
+      }
+    },
+    {
+      "name": "Croissant Museum",
+      "image": "croissant-museum.jpg",
+      "caption": "Bake your own rogal",
+      "description": "Interactive museum where you learn the history of St. Martin's croissants and bake your own. Genuinely fun and delicious.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Croissant%20Museum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Croissant+Museum"
+      }
+    },
+    {
+      "name": "Lake Malta",
+      "image": "lake-malta.jpg",
+      "caption": "Urban recreation lake",
+      "description": "Rowing, a summer ski slope, a mini zoo, and waterside cafés. Locals flock here on warm days. Rent a kayak or just chill.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Lake%20Malta",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Lake+Malta"
+      }
+    },
+    {
+      "name": "Palm House (Palmiarnia)",
+      "image": "palm-house.jpg",
+      "caption": "Tropical escape in Poland",
+      "description": "One of the largest palm houses in Europe with 17,000 plants. The fish ponds and jungle atmosphere are surprisingly impressive.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Palm%20House%20%28Palmiarnia%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Palm+House+(Palmiarnia)"
+      }
+    },
+    {
+      "name": "Imperial Castle",
+      "image": "imperial-castle.jpg",
+      "caption": "Controversial landmark",
+      "description": "Built for Kaiser Wilhelm II, now a cultural centre with exhibitions and events. The history is complex and worth reading about.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Imperial%20Castle",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Imperial+Castle"
+      }
+    },
+    {
+      "name": "Day Trip: Kórnik Castle",
+      "image": "kornik-castle.jpg",
+      "caption": "Fairy-tale castle & arboretum",
+      "description": "A neo-Gothic island castle surrounded by Poland's largest arboretum. Just 20km south of Poznań — perfect half-day trip.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Day%20Trip%3A%20K%C3%B3rnik%20Castle",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Day+Trip:+Kórnik+Castle"
+      }
+    },
+    {
+      "name": "Palmiarnia (Palm House)",
+      "image": "palmiarnia.jpg",
+      "caption": "Tropical greenhouse",
+      "description": "One of Europe's largest palm houses with 17,000 plants, tropical fish aquarium and a viewing platform. In Wilson Park.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Palmiarnia%20%28Palm%20House%29"
+      }
+    },
+    {
+      "name": "Rogalin Palace",
+      "image": "rogalin.jpg",
+      "caption": "Baroque palace & ancient oaks",
+      "description": "18th-century palace 20 km south with 1,000-year-old oak trees — Lech, Czech and Rus. Painting gallery and French gardens.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Rogalin%20Palace"
+      }
+    },
+    {
+      "name": "National Museum in Poznań",
+      "image": "national-museum.jpg",
+      "caption": "Art & history",
+      "description": "Paintings by Malczewski, Matejko and European masters. The Gallery of Polish Medieval Art has stunning Gothic altarpieces.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=National%20Museum%20in%20Pozna%C5%84"
+      }
+    },
+    {
+      "name": "Street Art in Śródka",
+      "image": "srodka.jpg",
+      "caption": "Mural neighbourhood",
+      "description": "Neighbourhood across the Cybina river with large-scale murals, including the famous 3D trompe-l'oeil mural of old Śródka.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Street%20Art%20in%20%C5%9Ar%C3%B3dka",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=srodka%20poznan%20murals"
+      }
+    }
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Pozna%C5%84%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=poznań+travel"
+  }
+}
