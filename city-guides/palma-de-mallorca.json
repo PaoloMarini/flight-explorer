@@ -1,0 +1,204 @@
+{
+  "city": "Palma de Mallorca",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "currency": "EUR (€)",
+  "language": "Spanish / Catalan",
+  "weather": {
+    "tempHighC": 32,
+    "tempLowC": 21,
+    "description": "Hot Mediterranean summer with cooling sea breezes",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Palma's Gothic cathedral has the largest rose window in the world — 13.8 meters in diameter",
+    "Gaudí and Miró both left their marks on the city — Gaudí redesigned the cathedral interior, Miró lived here for 30 years",
+    "The Old Town has more courtyard palaces per square kilometer than almost anywhere in Europe"
+  ],
+  "places": [
+    {
+      "name": "La Seu (Palma Cathedral)",
+      "image": "la-seu.jpg",
+      "caption": "A Gothic cathedral rising directly from the sea wall",
+      "description": "Palma's 14th-century cathedral sits on the old city walls with the bay at its feet — the silhouette is one of the most dramatic in all of Spain. Inside, the 44-stained-glass windows flood the nave with color, and Gaudí's radical early-20th-century modifications add unexpected modernity.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=La%20Seu%20%28Palma%20Cathedral%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=La+Seu+%28Palma+Cathedral%29"
+      }
+    },
+    {
+      "name": "Old Town Patios (Courtyards)",
+      "image": "old-town-patios.jpg",
+      "caption": "Hidden palace courtyards behind heavy wooden doors",
+      "description": "Palma's Old Town is famous for its patis — Renaissance and Baroque courtyards hidden behind the massive doorways of aristocratic palaces. Many are open to the public — peek through any open door on Carrer de Can Savellà or Carrer de la Portella for elegant stone arches, fountains, and citrus trees.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Old%20Town%20Patios%20%28Courtyards%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Old+Town+Patios+%28Courtyards%29"
+      }
+    },
+    {
+      "name": "Mercat de l'Olivar",
+      "image": "mercat-de-lolivar.jpg",
+      "caption": "Palma's best food market, and a local secret",
+      "description": "While tourists crowd the seafront, locals shop and eat at this covered market bursting with Mallorcan sobrassada sausage, tumbet vegetables, ensaimada pastries, and the freshest seafood on the island. The small bars inside serve razor clams, oysters, and vermouth at market prices.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mercat%20de%20l%27Olivar",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Mercat+de+l%27Olivar"
+      }
+    },
+    {
+      "name": "Es Baluard Museum of Modern Art",
+      "image": "es-baluard.jpg",
+      "caption": "Contemporary art in a Renaissance fortress",
+      "description": "Built into the 16th-century bastion walls overlooking the harbor, this museum has works by Miró, Picasso, and contemporary Mallorcan artists. The rooftop terrace and the walk along the restored ramparts are worth the visit alone. The permanent collection is free on certain days.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Es%20Baluard%20Museum%20of%20Modern%20Art",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Es+Baluard+Museum+of+Modern+Art"
+      }
+    },
+    {
+      "name": "Santa Catalina",
+      "image": "santa-catalina.jpg",
+      "caption": "Palma's old fishing quarter turned foodie paradise",
+      "description": "This former fishermen's neighborhood is now Palma's most buzzing eating-and-drinking area, with tapas bars, Thai street food, natural-wine bars, and brunch spots packed into colorful low-rise streets. Mercat de Santa Catalina inside the old market hall has excellent pintxos and draft vermouth.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Santa%20Catalina",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Santa+Catalina"
+      }
+    },
+    {
+      "name": "Bellver Castle",
+      "image": "bellver-castle.jpg",
+      "caption": "A uniquely circular Gothic castle overlooking the bay",
+      "description": "One of the only circular castles in Europe, this 14th-century fortress sits in a pine forest above the city with panoramic views over Palma Bay. The inner courtyard's round arches are architecturally unique. On summer Monday nights, they host classical concerts in the rooftop terrace.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bellver%20Castle",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Bellver+Castle"
+      }
+    },
+    {
+      "name": "Fundació Miró Mallorca",
+      "image": "fundacio-miro.jpg",
+      "caption": "Miró's Mallorcan studio, frozen in creative chaos",
+      "description": "Joan Miró lived and worked in Palma for his last 30 years, and his studio — designed by Josep Lluís Sert — has been preserved exactly as he left it, with paint splatters on the floor and unfinished canvases on easels. The surrounding sculpture garden is peaceful and inspiring.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Fundaci%C3%B3%20Mir%C3%B3%20Mallorca",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Fundaci%C3%B3+Mir%C3%B3+Mallorca"
+      }
+    },
+    {
+      "name": "Portixol",
+      "image": "portixol.jpg",
+      "caption": "A former fishing port turned boutique cycling stop",
+      "description": "This tiny harbor neighborhood east of the center has been transformed from a working port to Palma's most laid-back seaside hangout. The promenade cycle path connects it to the city, and the terrace restaurants serve excellent paella with harbor views. Perfect for a sunset beer.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Portixol",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Portixol"
+      }
+    },
+    {
+      "name": "Banys Àrabs (Arab Baths)",
+      "image": "banys-arabs.jpg",
+      "caption": "The last remnant of Palma's Moorish past",
+      "description": "These small 10th-century Arab baths are the only significant surviving structure from the Moorish period in Palma. The horseshoe arches and the serene garden courtyard with palm trees and citrus offer a quiet escape from the Old Town crowds. Entry takes five minutes but it's atmospheric.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Banys%20%C3%80rabs%20%28Arab%20Baths%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Banys+%C3%80rabs+%28Arab+Baths%29"
+      }
+    },
+    {
+      "name": "Platja de Palma & Can Pastilla",
+      "image": "platja-de-palma.jpg",
+      "caption": "Long sandy beach with mountain views",
+      "description": "The main beach stretching 4.6km from Can Pastilla to S'Arenal has fine white sand, shallow turquoise water, and the Tramuntana mountains as a backdrop. Take bus 25 from the center and skip the party end near Ballermann — the middle stretch around Ciutat Jardí is calmer and prettier.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Platja%20de%20Palma%20%26%20Can%20Pastilla",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Platja+de+Palma+%26+Can+Pastilla"
+      }
+    },
+    {
+      "name": "Cathedral (La Seu)",
+      "image": "la-seu.jpg",
+      "caption": "Gothic seaside cathedral",
+      "description": "Massive Gothic cathedral on the harbour. Gaudí and Miquel Barceló both contributed interior elements. Stunning rose window.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cathedral%20%28La%20Seu%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=la%20seu%20palma"
+      }
+    },
+    {
+      "name": "Old Town (Casco Antiguo)",
+      "image": "casco-antiguo.jpg",
+      "caption": "Palma's historic heart",
+      "description": "Arab baths, Baroque courtyard mansions (look through the doorways), tapas bars and boutique shopping on Passeig del Born.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Old%20Town%20%28Casco%20Antiguo%29"
+      }
+    },
+    {
+      "name": "Es Trenc Beach",
+      "image": "es-trenc.jpg",
+      "caption": "Caribbean vibes",
+      "description": "Undeveloped white-sand beach on the south coast. Turquoise water, dune backing, nudist section. 45 min from Palma.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Es%20Trenc%20Beach",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=es%20trenc%20beach%20mallorca"
+      }
+    },
+    {
+      "name": "Sóller & Port de Sóller",
+      "image": "soller.jpg",
+      "caption": "Mountain town",
+      "description": "Take the vintage wooden train through the Serra de Tramuntana mountains. Port de Sóller has a horseshoe bay and tram.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=S%C3%B3ller%20%26%20Port%20de%20S%C3%B3ller",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=soller%20mallorca"
+      }
+    },
+    {
+      "name": "Serra de Tramuntana",
+      "image": "tramuntana.jpg",
+      "caption": "UNESCO mountain range",
+      "description": "Dramatic limestone mountains along the northwest coast. Hiking, cycling (pros train here) and stone villages like Valldemossa.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Serra%20de%20Tramuntana",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=serra%20de%20tramuntana"
+      }
+    },
+    {
+      "name": "Sa Calobra",
+      "image": "sa-calobra.jpg",
+      "caption": "Dramatic gorge",
+      "description": "Hairpin road down to the Torrent de Pareis gorge and beach. Spectacular scenery. Arrive by boat from Port de Sóller to skip traffic.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Sa%20Calobra",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=sa%20calobra%20mallorca"
+      }
+    },
+    {
+      "name": "Deià",
+      "image": "deia.jpg",
+      "caption": "Artists' village",
+      "description": "Stone village in the mountains where Robert Graves lived. Cala Deià is a beautiful rocky cove. Sunset from the church terrace.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Dei%C3%A0",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=deia%20mallorca"
+      }
+    },
+    {
+      "name": "Cap de Formentor",
+      "image": "formentor.jpg",
+      "caption": "Mallorca's northern tip",
+      "description": "Dramatic lighthouse on the island's northernmost point. Winding road with vertiginous views. Quieter if you go early.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cap%20de%20Formentor",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=cap%20de%20formentor"
+      }
+    }
+  ],
+  "foodScene": "Mallorca's food scene goes far beyond tourist buffets. Ensaimada — a coiled, lard-based pastry dusted with powdered sugar — is the island's beloved breakfast, best from Fornet de la Soca (a bakery in a stunning Modernist building). Pa amb oli (bread rubbed with tomato and olive oil, topped with jamón and cheese) is the Mallorcan staple you'll eat daily. Tumbet — a layered vegetable dish of potatoes, eggplant, peppers, and tomato sauce — is the island's ratatouille. Sobrassada, a spreadable cured paprika sausage, goes on everything. For seafood, arroz brut (a 'dirty rice' with rabbit, fish, and whatever the chef throws in) is the local alternative to paella. Santa Catalina's market and surrounding streets are the food epicenter — try El Perrito for vermouth and conservas. Local wines from the Binissalem DO region, especially from producers like Macià Batle, are excellent and criminally underrated.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Palma%20de%20Mallorca%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=palma+de+mallorca+travel"
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "city": "Pisa",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "language": "Italian",
+  "weather": {
+    "tempHighC": 32,
+    "tempLowC": 19,
+    "description": "Hot & sunny, classic Tuscan summer",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "The tower leans about 4 degrees — and it's stabilised now",
+    "Pisa is a university town — the student area has the best cheap eats",
+    "It's a great base for day trips to Florence, Lucca, and Cinque Terre",
+    "Aperitivo hour means free snacks with your drink"
+  ],
+  "foodScene": "Cecina (chickpea flatbread) is the local street food king. Try torta co' bischeri (a sweet rice tart). Student-friendly trattorias around Piazza delle Vettovaglie serve huge pasta portions for under €8. Gelato from Bottega del Gelato near the river.",
+  "places": [
+    {
+      "name": "Leaning Tower",
+      "image": "leaning-tower.jpg",
+      "caption": "The ultimate tilt",
+      "description": "Yes, do the cliché photo. But also climb the 294 steps — the lean makes the spiral staircase a surreal experience. Book timed tickets online.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Leaning%20Tower",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Leaning+Tower"
+      }
+    },
+    {
+      "name": "Piazza dei Miracoli",
+      "image": "piazza-dei-miracoli.jpg",
+      "caption": "Square of Miracles",
+      "description": "The Duomo, Baptistery, and Camposanto together on emerald-green grass. The Baptistery's acoustics are mind-blowing — wait for the guard's demo.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Piazza%20dei%20Miracoli",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Piazza+dei+Miracoli"
+      }
+    },
+    {
+      "name": "Borgo Stretto",
+      "image": "borgo-stretto.jpg",
+      "caption": "Arcaded shopping street",
+      "description": "Covered medieval walkways with local shops, cafés, and gelaterias. The real Pisa lives here, not at the tower. Great for an evening stroll.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Borgo%20Stretto",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Borgo+Stretto"
+      }
+    },
+    {
+      "name": "Lungarno (River Arno Banks)",
+      "image": "lungarno.jpg",
+      "caption": "Sunset river walk",
+      "description": "Colourful palazzi reflected in the Arno at golden hour. The Luminara festival in June lines the banks with 70,000 candles.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Lungarno%20%28River%20Arno%20Banks%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Lungarno+(River+Arno+Banks)"
+      }
+    },
+    {
+      "name": "Piazza delle Vettovaglie",
+      "image": "piazza-vettovaglie.jpg",
+      "caption": "Market square by day, bars by night",
+      "description": "Morning fresh market, afternoon aperitivo, late-night student hangout. The most authentic piazza in Pisa.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Piazza%20delle%20Vettovaglie",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Piazza+delle+Vettovaglie"
+      }
+    },
+    {
+      "name": "Keith Haring Mural",
+      "image": "keith-haring-mural.jpg",
+      "caption": "Tuttomondo street art",
+      "description": "Keith Haring painted this massive mural on a church wall in 1989. It was his last public work and it's completely free to see.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Keith%20Haring%20Mural",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Keith+Haring+Mural"
+      }
+    },
+    {
+      "name": "Orto Botanico",
+      "image": "orto-botanico.jpg",
+      "caption": "Europe's oldest botanical garden",
+      "description": "Founded in 1544, this peaceful garden is a hidden gem. Centuries-old trees, a tiny museum, and almost no tourists.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Orto%20Botanico",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Orto+Botanico"
+      }
+    },
+    {
+      "name": "Camposanto Monumentale",
+      "image": "camposanto.jpg",
+      "caption": "Medieval frescoed cloister",
+      "description": "A stunning marble cloister said to contain soil from the Holy Land. The Triumph of Death frescoes are hauntingly beautiful.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Camposanto%20Monumentale",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Camposanto+Monumentale"
+      }
+    },
+    {
+      "name": "Day Trip: Lucca",
+      "image": "lucca-day-trip.jpg",
+      "caption": "Walled town by bike",
+      "description": "Only 30 minutes by train. Rent a bike and ride atop the Renaissance walls, explore the oval piazza built inside a Roman amphitheatre.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Day%20Trip%3A%20Lucca",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Day+Trip:+Lucca"
+      }
+    },
+    {
+      "name": "Day Trip: Cinque Terre",
+      "image": "cinque-terre.jpg",
+      "caption": "Colourful coastal villages",
+      "description": "Five pastel-painted villages clinging to cliffs. Take the train from Pisa (1h 15min) and hike between towns along the coast.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Day%20Trip%3A%20Cinque%20Terre",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Day+Trip:+Cinque+Terre"
+      }
+    },
+    {
+      "name": "Leaning Tower & Piazza dei Miracoli",
+      "image": "leaning-tower.jpg",
+      "caption": "The famous tilt",
+      "description": "Climb 294 steps up the 56m tower (leaning 4° since the 12th century). The Campo is stunning — Cathedral, Baptistery and Camposanto.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Leaning%20Tower%20%26%20Piazza%20dei%20Miracoli",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=leaning%20tower%20pisa"
+      }
+    },
+    {
+      "name": "Piazza dei Cavalieri",
+      "image": "cavalieri.jpg",
+      "caption": "Knights' square",
+      "description": "Pisa's second-most-important square with lavish Palazzo della Carovana (now the prestigious Scuola Normale Superiore).",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Piazza%20dei%20Cavalieri"
+      }
+    },
+    {
+      "name": "Battistero di San Giovanni",
+      "image": "battistero.jpg",
+      "caption": "Baptistery",
+      "description": "Largest baptistery in Italy. The acoustics are legendary — guards demonstrate the echo every 30 minutes. Combine with Tower ticket.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Battistero%20di%20San%20Giovanni"
+      }
+    },
+    {
+      "name": "Lungarno Walks",
+      "image": "lungarno.jpg",
+      "caption": "Arno riverside",
+      "description": "Walk along the Arno riverbanks past colourful buildings, the Gothic church of Santa Maria della Spina and sunset reflections.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Lungarno%20Walks"
+      }
+    },
+    {
+      "name": "San Rossore Natural Park",
+      "image": "san-rossore.jpg",
+      "caption": "Coastal nature",
+      "description": "Pine forest, sand dunes and beaches on the coast. Horse riding, cycling and birdwatching. A green escape from the tourist crowds.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=San%20Rossore%20Natural%20Park"
+      }
+    },
+    {
+      "name": "Cinque Terre Day Trip",
+      "image": "cinque-terre.jpg",
+      "caption": "Five colourful villages",
+      "description": "1-hour train to five cliff-hanging villages connected by hiking trails. Swim, eat pesto and drink Sciacchetrà wine.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cinque%20Terre%20Day%20Trip",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=cinque%20terre"
+      }
+    },
+    {
+      "name": "Lucca Day Trip",
+      "image": "lucca.jpg",
+      "caption": "Walled city by bike",
+      "description": "30 min by train. Cycle the 4 km city walls, climb Torre Guinigi (trees on top), and eat buccellato cake. Charming and quiet.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Lucca%20Day%20Trip",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=lucca%20tuscany"
+      }
+    }
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Pisa%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=pisa+travel"
+  }
+}

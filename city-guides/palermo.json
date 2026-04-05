@@ -1,0 +1,172 @@
+{
+  "city": "Palermo",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "language": "Italian / Sicilian",
+  "weather": {
+    "tempHighC": 32,
+    "tempLowC": 23,
+    "description": "Hot Sicilian summer with intense dry heat",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Palermo has been conquered by the Phoenicians, Greeks, Romans, Arabs, Normans, Spanish, and French — and the food reflects every single one",
+    "The city's street markets are direct descendants of Arab souks from the 9th century",
+    "UNESCO called Palermo's Arab-Norman architecture one of the greatest cultural crossroads in history"
+  ],
+  "places": [
+    {
+      "name": "Palazzo dei Normanni & Cappella Palatina",
+      "image": "palazzo-dei-normanni.jpg",
+      "caption": "A Norman palace with the most dazzling mosaics on Earth",
+      "description": "The royal palace dates back to the 9th-century Arab emirs, but the star is the Palatine Chapel — every surface covered in gold-ground Byzantine mosaics so luminous they seem to glow. It's one of the most beautiful interiors in the world, and photographs don't come close to doing it justice.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Palazzo%20dei%20Normanni%20%26%20Cappella%20Palatina",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Palazzo+dei+Normanni+%26+Cappella+Palatina"
+      }
+    },
+    {
+      "name": "Ballarò Market",
+      "image": "ballaro-market.jpg",
+      "caption": "Palermo's wildest, loudest, most authentic market",
+      "description": "This ancient market has been trading since the 10th century and feels like a Sicilian souk — vendors shout prices (the 'abbanniata'), carts overflow with swordfish, artichokes, and blood oranges. Eat panelle (chickpea fritters) and stigghiola (grilled lamb intestines) from the street stalls.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Ballar%C3%B2%20Market",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Ballar%C3%B2+Market"
+      }
+    },
+    {
+      "name": "Catacombe dei Cappuccini",
+      "image": "catacombe-cappuccini.jpg",
+      "caption": "8,000 mummified Palermitans staring back at you",
+      "description": "This macabre underground cemetery houses thousands of dressed and preserved corpses arranged along corridors by profession and social class. It's eerie, unsettling, and completely unique. The 2-year-old Rosalia Lombardo, preserved so perfectly she looks asleep, is particularly haunting.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Catacombe%20dei%20Cappuccini",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Catacombe+dei+Cappuccini"
+      }
+    },
+    {
+      "name": "Teatro Massimo",
+      "image": "teatro-massimo.jpg",
+      "caption": "Italy's largest opera house (and Godfather III's climax)",
+      "description": "This colossal neoclassical opera house is the third-largest in Europe, and the final scene of The Godfather Part III was filmed on its grand staircase. Take a backstage tour or, better yet, catch a summer performance — tickets can be surprisingly affordable.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Teatro%20Massimo",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Teatro+Massimo"
+      }
+    },
+    {
+      "name": "Quattro Canti",
+      "image": "quattro-canti.jpg",
+      "caption": "The Baroque crossroads of Palermo",
+      "description": "This theatrical octagonal intersection at the crossing of Palermo's two main streets features four curved Baroque facades representing the four seasons, four Spanish kings, and four patron saints. Stand in the center and the symmetry is dizzying. Best photographed in morning light.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Quattro%20Canti",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Quattro+Canti"
+      }
+    },
+    {
+      "name": "La Kalsa",
+      "image": "la-kalsa.jpg",
+      "caption": "An Arab-era quarter reborn as Palermo's creative hub",
+      "description": "Once the fortified seat of the Arab emirs, then a bombed-out wasteland after WWII, La Kalsa has been slowly reviving into Palermo's most atmospheric neighborhood. The Galleria Regionale with Antonello da Messina's Annunciation, shady Piazza Magione, and tiny bars hidden in medieval lanes.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=La%20Kalsa",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=La+Kalsa"
+      }
+    },
+    {
+      "name": "Mondello Beach",
+      "image": "mondello-beach.jpg",
+      "caption": "Palermo's turquoise swimming hole",
+      "description": "This crescent of white sand set between two limestone headlands 11km from the center is where Palermitans escape the summer heat. The Art Nouveau bathhouse is iconic, the water is impossibly blue, and the beachside restaurants do excellent freshly fried calamari.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mondello%20Beach",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Mondello+Beach"
+      }
+    },
+    {
+      "name": "Vucciria Market",
+      "image": "vucciria.jpg",
+      "caption": "Street food and chaos in Palermo's ancient market",
+      "description": "Once Palermo's primary market (immortalized by Renato Guttuso's famous painting), the Vucciria has shrunk but evolved into a street-food-and-nightlife spot. The stalls around Piazza Caracciolo serve pane con la milza (spleen sandwich) and sfincionello (Sicilian pizza). After dark, it becomes a huge open-air bar.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vucciria%20Market",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Vucciria+Market"
+      }
+    },
+    {
+      "name": "Monreale Cathedral",
+      "image": "monreale-cathedral.jpg",
+      "caption": "6,340 square meters of golden mosaics on a hilltop",
+      "description": "A 20-minute bus ride from Palermo, this Norman cathedral has the most extensive Byzantine mosaic cycle in the world — the gold-ground Christ Pantocrator in the apse is 13 meters tall and stares down with terrifying majesty. The cloisters with 228 paired columns are equally extraordinary.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Monreale%20Cathedral",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Monreale+Cathedral"
+      }
+    },
+    {
+      "name": "Piazza Pretoria (Piazza della Vergogna)",
+      "image": "piazza-pretoria.jpg",
+      "caption": "The 'Square of Shame' and its nude fountain",
+      "description": "This stunning Renaissance fountain featuring dozens of naked mythological figures scandalized 16th-century nuns in the adjacent convent so much they nicknamed it the 'Fountain of Shame.' The fountain is absurdly photogenic, and the surrounding palazzi and churches make a perfect Baroque stage.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Piazza%20Pretoria%20%28Piazza%20della%20Vergogna%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Piazza+Pretoria+%28Piazza+della+Vergogna%29"
+      }
+    },
+    {
+      "name": "Palermo Cathedral",
+      "image": "cathedral-palermo.jpg",
+      "caption": "Norman-Arab masterpiece",
+      "description": "Striking mix of Norman, Gothic and Baroque architecture. Climb the rooftop for city panoramas. Royal tombs inside.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Palermo%20Cathedral",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=palermo%20cathedral"
+      }
+    },
+    {
+      "name": "Capuchin Catacombs",
+      "image": "catacombs.jpg",
+      "caption": "Mummified monks",
+      "description": "8,000 mummified bodies in underground corridors — monks, professionals, children. Macabre but fascinating. Not for the squeamish.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Capuchin%20Catacombs"
+      }
+    },
+    {
+      "name": "Cefalù Day Trip",
+      "image": "cefalu.jpg",
+      "caption": "Coastal gem",
+      "description": "Stunning Norman cathedral town 70 km east. Sandy beach, medieval streets, clifftop La Rocca hike and golden mosaics.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cefal%C3%B9%20Day%20Trip",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=cefalu%20sicily"
+      }
+    },
+    {
+      "name": "Street Food Tour",
+      "image": "street-food-palermo.jpg",
+      "caption": "Eat everything",
+      "description": "Arancine, panelle, crocchè, sfincione, pane con la milza (spleen sandwich) — Palermo's street food is legendary and dirt cheap.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Street%20Food%20Tour"
+      }
+    },
+    {
+      "name": "Palazzo Abatellis",
+      "image": "abatellis.jpg",
+      "caption": "Art gallery",
+      "description": "Regional gallery in a Gothic-Catalan palace. Antonello da Messina's Annunciation and the haunting Triumph of Death fresco.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Palazzo%20Abatellis"
+      }
+    }
+  ],
+  "foodScene": "Palermo is arguably Italy's greatest street-food city, shaped by 3,000 years of Arab, Norman, Spanish, and Greek culinary influence. Arancine (fried rice balls stuffed with ragù or butter and ham) are religion — try them at Ke Palle near Quattro Canti. Pane con la milza (a roll stuffed with fried veal spleen and ricotta) sounds terrifying and tastes incredible — Nino u' Ballerino at Vucciria is the master. Panelle e crocchè (chickpea fritters and potato croquettes in a sesame bun) from any friggitoria are the perfect cheap lunch. For pasta alla Norma (eggplant, tomato, ricotta salata) and pasta con le sarde (sardines, fennel, raisins, pine nuts), hit any old-school trattoria in the Kalsa. The granita here — especially brioche con granita al pistacchio for breakfast — is life-changing. Cannoli must be filled to order (never pre-filled), and the ricotta should be from sheep's milk.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Palermo%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=palermo+travel"
+  }
+}

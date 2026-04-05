@@ -1,0 +1,174 @@
+{
+  "city": "Paris",
+  "country": "France",
+  "flag": "🇫🇷",
+  "currency": "EUR (€)",
+  "language": "French",
+  "weather": {
+    "tempHighC": 26,
+    "tempLowC": 16,
+    "description": "Warm & sunny, perfect café terraces",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "The Louvre is free on the first Sunday of each month",
+    "Métro tickets are cheaper in a carnet of 10",
+    "Skip the Eiffel Tower queue — book online weeks ahead",
+    "Tap water is free at restaurants — ask for 'une carafe d'eau'"
+  ],
+  "foodScene": "Croissants from a real boulangerie are life-changing. Hit Marché des Enfants Rouges for global street food. Crêpes in Montparnasse, not at tourist stands. Duck confit at a classic bistro. End the night with natural wine at a cave à manger.",
+  "places": [
+    {
+      "name": "Eiffel Tower",
+      "image": "eiffel-tower.jpg",
+      "caption": "The icon of icons",
+      "description": "Go at sunset for golden hour magic. The second floor has the best views-to-queue ratio. Picnic on the Champ de Mars with wine and cheese.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Eiffel%20Tower",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Eiffel+Tower"
+      }
+    },
+    {
+      "name": "Montmartre & Sacré-Cœur",
+      "image": "montmartre.jpg",
+      "caption": "Bohemian hilltop village",
+      "description": "Wander cobblestone streets, discover hidden vineyards, and catch panoramic views from the basilica steps. Skip the portrait artists, explore the backstreets.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Montmartre%20%26%20Sacr%C3%A9-C%C5%93ur",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Montmartre+&+Sacré-Cœur"
+      }
+    },
+    {
+      "name": "Le Marais",
+      "image": "le-marais.jpg",
+      "caption": "Trendy historic quarter",
+      "description": "The best falafel at L'As du Fallafel, vintage shopping, and gorgeous Place des Vosges. Equal parts medieval charm and modern cool.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Le%20Marais",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Le+Marais"
+      }
+    },
+    {
+      "name": "Musée d'Orsay",
+      "image": "musee-dorsay.jpg",
+      "caption": "Impressionist paradise",
+      "description": "Monet, Renoir, and Van Gogh in a stunning Beaux-Arts train station. Less crowded than the Louvre and arguably better art for most visitors.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mus%C3%A9e%20d%27Orsay",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Musée+d'Orsay"
+      }
+    },
+    {
+      "name": "Canal Saint-Martin",
+      "image": "canal-saint-martin.jpg",
+      "caption": "Local hangout vibes",
+      "description": "Iron footbridges, tree-lined banks, and the best people-watching in Paris. Grab a baguette sandwich and sit by the locks.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Canal%20Saint-Martin",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Canal+Saint-Martin"
+      }
+    },
+    {
+      "name": "Père Lachaise Cemetery",
+      "image": "pere-lachaise.jpg",
+      "caption": "Hauntingly beautiful",
+      "description": "Jim Morrison, Oscar Wilde, Chopin — this gothic garden cemetery is equal parts history walk and peaceful green escape.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=P%C3%A8re%20Lachaise%20Cemetery",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Père+Lachaise+Cemetery"
+      }
+    },
+    {
+      "name": "Shakespeare & Company",
+      "image": "shakespeare-and-company.jpg",
+      "caption": "Legendary bookshop",
+      "description": "A living literary landmark since the 1950s. Browse rare editions, sit in the reading nook, then grab coffee at the café next door with Notre-Dame views.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Shakespeare%20%26%20Company",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Shakespeare+&+Company"
+      }
+    },
+    {
+      "name": "Sainte-Chapelle",
+      "image": "sainte-chapelle.jpg",
+      "caption": "Stained glass masterpiece",
+      "description": "The upper chapel's floor-to-ceiling 13th-century windows are jaw-dropping. Shorter lines and cheaper than most attractions.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Sainte-Chapelle",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Sainte-Chapelle"
+      }
+    },
+    {
+      "name": "Rue Crémieux",
+      "image": "rue-cremieux.jpg",
+      "caption": "Pastel-coloured street",
+      "description": "The most Instagrammed street in Paris with candy-coloured facades. Quick photo stop, but please respect the residents.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Rue%20Cr%C3%A9mieux",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Rue+Crémieux"
+      }
+    },
+    {
+      "name": "Day Trip: Versailles",
+      "image": "versailles.jpg",
+      "caption": "Palace & gardens",
+      "description": "The Hall of Mirrors and Marie Antoinette's hamlet are worth the 40-minute train ride. Go early, start with the gardens to dodge the palace crowds.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Day%20Trip%3A%20Versailles",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Day+Trip:+Versailles"
+      }
+    },
+    {
+      "name": "Louvre Museum",
+      "image": "louvre.jpg",
+      "caption": "World's largest museum",
+      "description": "380,000 objects including the Mona Lisa and Venus de Milo. Don't try to see everything — pick a wing and go deep.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Louvre%20Museum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=louvre%20museum"
+      }
+    },
+    {
+      "name": "Sacré-Cœur & Montmartre",
+      "image": "sacre-coeur.jpg",
+      "caption": "Hilltop basilica",
+      "description": "White-domed basilica overlooking Paris from Montmartre hill. Artists at Place du Tertre, vineyard, Moulin Rouge nearby.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Sacr%C3%A9-C%C5%93ur%20%26%20Montmartre",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=sacre%20coeur%20montmartre"
+      }
+    },
+    {
+      "name": "Jardin du Luxembourg",
+      "image": "luxembourg.jpg",
+      "caption": "Royal gardens",
+      "description": "Formal French gardens with an octagonal pond, orchards, free chairs, puppet theatre and pétanque courts. Quintessentially Parisian.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Jardin%20du%20Luxembourg"
+      }
+    },
+    {
+      "name": "Notre-Dame Cathedral",
+      "image": "notre-dame.jpg",
+      "caption": "Reopened after the fire",
+      "description": "Gothic masterpiece rebuilt after the 2019 fire. The new golden spire, cleaned interior and medieval rose windows are breathtaking.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Notre-Dame%20Cathedral",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=notre%20dame%20paris"
+      }
+    },
+    {
+      "name": "Seine River Cruise",
+      "image": "seine-cruise.jpg",
+      "caption": "Floating tour",
+      "description": "Pass every major monument from the water. Evening dinner cruises or budget Batobus hop-on boats. Pont Alexandre III is stunning.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Seine%20River%20Cruise"
+      }
+    }
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Paris%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=paris+travel"
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "city": "Nuremberg",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "currency": "EUR (€)",
+  "language": "German",
+  "weather": {
+    "tempHighC": 25,
+    "tempLowC": 14,
+    "description": "Warm Franconian summer with pleasant evenings",
+    "icon": "⛅"
+  },
+  "quickFacts": [
+    "The city was 90% destroyed in WWII and meticulously rebuilt — the medieval Old Town is largely a reconstruction",
+    "Nuremberg is the gingerbread (Lebkuchen) capital of the world — over 100 million are produced here annually",
+    "Albrecht Dürer, the most famous artist of the Northern Renaissance, was born and lived here"
+  ],
+  "places": [
+    {
+      "name": "Kaiserburg (Imperial Castle)",
+      "image": "kaiserburg.jpg",
+      "caption": "A medieval fortress towering over the Old Town",
+      "description": "This sprawling hilltop castle was a residence for Holy Roman Emperors for over 500 years. The Sinwell Tower and Deep Well (48 meters down — a guide drops a candle to prove it) are highlights. The views from the castle gardens over Nuremberg's red rooftops are quintessential Franconia.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Kaiserburg%20%28Imperial%20Castle%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Kaiserburg+%28Imperial+Castle%29"
+      }
+    },
+    {
+      "name": "Albrecht Dürer's House",
+      "image": "albrecht-durers-house.jpg",
+      "caption": "Where the Northern Renaissance master lived and worked",
+      "description": "This beautifully preserved half-timbered house below the castle is where Dürer created his most famous engravings and woodcuts from 1509 until his death. The recreated studio shows how he worked, and an actress in period costume plays Dürer's wife Agnes in guided tours.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Albrecht%20D%C3%BCrer%27s%20House",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Albrecht+D%C3%BCrer%27s+House"
+      }
+    },
+    {
+      "name": "Hauptmarkt & Schöner Brunnen",
+      "image": "hauptmarkt.jpg",
+      "caption": "Nuremberg's main square with a golden fountain",
+      "description": "The central marketplace is dominated by the Schöner Brunnen — a 19-meter Gothic fountain with 40 figures from the Holy Roman Empire. Find the brass ring in the fence and spin it for good luck. The square hosts Germany's most famous Christmas market, but in summer it's a lively daily market.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Hauptmarkt%20%26%20Sch%C3%B6ner%20Brunnen",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Hauptmarkt+%26+Sch%C3%B6ner+Brunnen"
+      }
+    },
+    {
+      "name": "Documentation Center (Nazi Rally Grounds)",
+      "image": "documentation-center.jpg",
+      "caption": "Confronting history on the grounds of Nazi rallies",
+      "description": "Built inside the unfinished Congress Hall — a massive structure modeled on the Colosseum — this museum documents the rise of the Nazi party and Nuremberg's role in propaganda and the Nuremberg Trials. It's sobering, thorough, and essential. Allow 2-3 hours.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Documentation%20Center%20%28Nazi%20Rally%20Grounds%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Documentation+Center+%28Nazi+Rally+Grounds%29"
+      }
+    },
+    {
+      "name": "Weißgerbergasse",
+      "image": "weissgerbergasse.jpg",
+      "caption": "The most picturesque lane in Nuremberg",
+      "description": "This narrow cobblestoned street in the Old Town has the best-preserved row of half-timbered houses in the city — once the tanners' quarter. Now it's lined with cozy wine bars, cafés, and artisan shops. The buildings lean at charmingly improbable angles.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Wei%C3%9Fgerbergasse",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Wei%C3%9Fgerbergasse"
+      }
+    },
+    {
+      "name": "Johannisfriedhof (St. John's Cemetery)",
+      "image": "johannisfriedhof.jpg",
+      "caption": "A medieval cemetery where Dürer rests",
+      "description": "One of Europe's most beautiful cemeteries, with rows of bronze-covered rose-adorned graves in a unique flat style dating to the Reformation. Albrecht Dürer and other famous Nurembergers are buried here. The adjacent garden plots between the graves bloom with roses in summer.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Johannisfriedhof%20%28St.%20John%27s%20Cemetery%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Johannisfriedhof+%28St.+John%27s+Cemetery%29"
+      }
+    },
+    {
+      "name": "Fürth & the Nuremberg-Fürth Railway",
+      "image": "furth.jpg",
+      "caption": "Where Germany's first railway began in 1835",
+      "description": "The neighboring city of Fürth is connected by Germany's first-ever railway line. The DB Museum in Nuremberg tells the story with original locomotives, and Fürth itself has a beautifully preserved Gründerzeit-era city center that survived the war largely intact. Just 7 minutes by U-Bahn.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=F%C3%BCrth%20%26%20the%20Nuremberg-F%C3%BCrth%20Railway",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=F%C3%BCrth+%26+the+Nuremberg-F%C3%BCrth+Railway"
+      }
+    },
+    {
+      "name": "Nuremberg Trials Courtroom 600",
+      "image": "courtroom-600.jpg",
+      "caption": "The room where war criminals faced justice",
+      "description": "The actual courtroom where the Nuremberg Trials took place from 1945 to 1949 is now a museum and still a functioning courthouse. Standing in the dock where history was made is a genuinely powerful experience. The audio guide is excellent and included in the modest entry fee.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Nuremberg%20Trials%20Courtroom%20600",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Nuremberg+Trials+Courtroom+600"
+      }
+    },
+    {
+      "name": "Craftsmen's Courtyard (Handwerkerhof)",
+      "image": "handwerkerhof.jpg",
+      "caption": "Medieval workshops in the city wall",
+      "description": "This cute cluster of half-timbered workshops built into the old city walls near the main train station showcases traditional Nuremberg crafts — gingerbread baking, tin figure painting, and leatherwork. Slightly touristy but genuinely charming, especially the fresh Lebkuchen.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Craftsmen%27s%20Courtyard%20%28Handwerkerhof%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Craftsmen%27s+Courtyard+%28Handwerkerhof%29"
+      }
+    },
+    {
+      "name": "Tiergärtnertor Platz",
+      "image": "tiergartnertorplatz.jpg",
+      "caption": "Nuremberg's cosiest square for a beer in the sun",
+      "description": "This small cobblestoned square at the foot of the castle and next to Dürer's house is arguably Nuremberg's most atmospheric spot. Half-timbered houses, a medieval tower, and locals spilling out of the beer gardens with a Rauchbier (smoked beer) in hand. Come at sunset.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Tierg%C3%A4rtnertor%20Platz",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Tierg%C3%A4rtnertor+Platz"
+      }
+    },
+    {
+      "name": "Hauptmarkt",
+      "image": "hauptmarkt.jpg",
+      "caption": "Market square",
+      "description": "Central square with the ornate Gothic Schöner Brunnen fountain. Daily market stalls. Site of the famous Christmas market.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Hauptmarkt",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=hauptmarkt%20nuremberg"
+      }
+    },
+    {
+      "name": "Documentation Center Nazi Party Rally Grounds",
+      "image": "doku-zentrum.jpg",
+      "caption": "Confronting history",
+      "description": "Museum inside the unfinished Nazi Congress Hall. Essential for understanding Nuremberg's complex 20th-century history.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Documentation%20Center%20Nazi%20Party%20Rally%20Grounds"
+      }
+    },
+    {
+      "name": "Nuremberg Old Town Walls",
+      "image": "old-town-walls.jpg",
+      "caption": "Medieval fortifications",
+      "description": "5 km of preserved medieval walls with towers and gates encircling the old town. Walk the ramparts for a city overview.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Nuremberg%20Old%20Town%20Walls"
+      }
+    },
+    {
+      "name": "Germanisches Nationalmuseum",
+      "image": "gnm.jpg",
+      "caption": "German cultural history",
+      "description": "Largest museum of Germanic culture and art. Dürer paintings, medieval armour, musical instruments and the Way of Human Rights.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Germanisches%20Nationalmuseum"
+      }
+    },
+    {
+      "name": "Handwerkerhof",
+      "image": "handwerkerhof.jpg",
+      "caption": "Craftsmen's courtyard",
+      "description": "Small medieval-style quarter near the main station with artisan workshops — gingerbread makers, glassblowers, leather workers.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Handwerkerhof"
+      }
+    },
+    {
+      "name": "Nuremberg Bratwurst",
+      "image": "bratwurst.jpg",
+      "caption": "Tiny sausage tradition",
+      "description": "Nuremberg's finger-sized bratwurst served in sets of 6 or 12 with sauerkraut. Try Bratwursthäusle at the market square.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Nuremberg%20Bratwurst"
+      }
+    },
+    {
+      "name": "Nuremberg toy Museum",
+      "image": "toy-museum.jpg",
+      "caption": "Toys through centuries",
+      "description": "Nuremberg has been Toy City since the Middle Ages. Wooden toys, tin soldiers, model trains and dolls' houses across 1,400 sqm.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Nuremberg%20toy%20Museum"
+      }
+    }
+  ],
+  "foodScene": "Nuremberg's food scene is deeply Franconian and proudly specific. The Nürnberger Bratwurst — tiny finger-sized sausages made to a 600-year-old recipe, always served in groups of 6, 8, or 12 with sauerkraut and horseradish — is the city's edible icon. Try them at Bratwursthäusle by the Sebalduskirche, grilled over beechwood since 1313. Schäufele (roasted pork shoulder with dumplings) is the other staple. Lebkuchen (gingerbread) from Schmidt or Wicklein is famous worldwide — buy them fresh from the source. Franconian wine (Silvaner and Müller-Thurgau) from local Bocksbeutel bottles is underrated. For smoked beer (Rauchbier), head to the Altstadthof brewery or try it at Schlenkerla-adjacent bars. The Hauptmarkt daily market has excellent local produce, and Café am Trödelmarkt on the river serves the city's best cake.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Nuremberg%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=nuremberg+travel"
+  }
+}
