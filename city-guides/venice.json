@@ -1,0 +1,193 @@
+{
+  "city": "Venice",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "language": "Italian",
+  "weather": {
+    "tempHighC": 28,
+    "tempLowC": 19,
+    "description": "Warm & humid, occasional thunderstorms",
+    "icon": "⛅"
+  },
+  "quickFacts": [
+    "Get a Vaporetto day pass (€25) — water buses are the cheapest way around",
+    "Venice charges a €5 day-tripper entrance fee — book online to skip queues",
+    "Get lost on purpose — the best finds are down random alleyways",
+    "Avoid restaurant menus with photos near San Marco"
+  ],
+  "places": [
+    {
+      "name": "Rialto Bridge & Market",
+      "image": "rialto-bridge.jpg",
+      "caption": "Iconic bridge & morning fish market",
+      "description": "Cross the Grand Canal on this 16th-century stone bridge. Visit the Rialto fish market early morning to see the real Venice — it closes by noon.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Rialto%20Bridge%20%26%20Market",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=rialto+bridge+venice"
+      }
+    },
+    {
+      "name": "St. Mark's Basilica",
+      "image": "st-marks-basilica.jpg",
+      "caption": "Golden Byzantine masterpiece",
+      "description": "The glittering gold mosaics inside are jaw-dropping. Book a skip-the-line ticket and pay extra for the museum terrace — the piazza view is worth it.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=St.%20Mark%27s%20Basilica",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=st+marks+basilica+venice"
+      }
+    },
+    {
+      "name": "Dorsoduro & Zattere",
+      "image": "dorsoduro.jpg",
+      "caption": "Arty neighbourhood with waterfront views",
+      "description": "Home to the Peggy Guggenheim Collection and Accademia Gallery. The Zattere promenade along the Giudecca Canal is perfect for a gelato stroll.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Dorsoduro%20%26%20Zattere",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=dorsoduro+venice"
+      }
+    },
+    {
+      "name": "Burano",
+      "image": "burano.jpg",
+      "caption": "Rainbow-coloured fishing island",
+      "description": "A 40-minute vaporetto ride to the most Instagrammable island in the lagoon. Brightly painted houses, lace shops, and the freshest seafood risotto.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Burano",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=burano+venice"
+      }
+    },
+    {
+      "name": "Cannaregio",
+      "image": "cannaregio.jpg",
+      "caption": "Local life away from the crowds",
+      "description": "Venice's most residential sestiere with the historic Jewish Ghetto, quiet canals, and authentic cicchetti bars. Fondamenta della Misericordia is aperitivo central.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cannaregio",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=cannaregio+venice"
+      }
+    },
+    {
+      "name": "Doge's Palace",
+      "image": "doges-palace.jpg",
+      "caption": "Gothic palace & Bridge of Sighs",
+      "description": "The seat of Venetian power for 700 years. The Secret Itineraries tour takes you through hidden rooms, prisons, and across the Bridge of Sighs.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Doge%27s%20Palace",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=doges+palace+venice"
+      }
+    },
+    {
+      "name": "San Giorgio Maggiore",
+      "image": "san-giorgio-maggiore.jpg",
+      "caption": "Best panoramic view in Venice",
+      "description": "Take the vaporetto to this island church and ride the elevator to the bell tower. The view back across to San Marco is better than the Campanile — and no queue.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=San%20Giorgio%20Maggiore",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=san+giorgio+maggiore+venice"
+      }
+    },
+    {
+      "name": "Murano",
+      "image": "murano.jpg",
+      "caption": "Glass-blowing island",
+      "description": "Watch master glassblowers create intricate works in live demonstrations. The Glass Museum traces 700 years of the craft. Combine with a Burano day trip.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Murano",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=murano+glass+venice"
+      }
+    },
+    {
+      "name": "Libreria Acqua Alta",
+      "image": "libreria-acqua-alta.jpg",
+      "caption": "The world's most unique bookshop",
+      "description": "Books stacked in gondolas and bathtubs to protect from flooding. Climb the staircase made of encyclopaedias for a canal view. Totally charming chaos.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Libreria%20Acqua%20Alta",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=libreria+acqua+alta+venice"
+      }
+    },
+    {
+      "name": "Lido di Venezia",
+      "image": "lido-di-venezia.jpg",
+      "caption": "Venice's beach island",
+      "description": "A 15-minute vaporetto ride to proper sandy beaches, art deco architecture, and the Venice Film Festival venue. Rent a bike to explore the island.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Lido%20di%20Venezia",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=lido+di+venezia"
+      }
+    },
+    {
+      "name": "St Mark's Basilica",
+      "image": "st-marks.jpg",
+      "caption": "Golden Byzantine church",
+      "description": "11th-century cathedral with gold mosaic ceilings covering 8,000 sqm. Free entry to the basilica. Terrace for Piazza views.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=St%20Mark%27s%20Basilica",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=st%20marks%20basilica%20venice"
+      }
+    },
+    {
+      "name": "Grand Canal (Vaporetto Ride)",
+      "image": "grand-canal.jpg",
+      "caption": "World's most beautiful street",
+      "description": "Take vaporetto Line 1 from Piazzale Roma to San Marco. 45 min past palazzos, Rialto Bridge and 400 years of architecture.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Grand%20Canal%20%28Vaporetto%20Ride%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=grand%20canal%20venice"
+      }
+    },
+    {
+      "name": "Murano & Burano",
+      "image": "murano-burano.jpg",
+      "caption": "Glass & lace islands",
+      "description": "Murano for glass-blowing demonstrations, Burano for rainbow-coloured houses and lace-making. Vaporetto from Fondamente Nove.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Murano%20%26%20Burano",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=burano%20venice"
+      }
+    },
+    {
+      "name": "Dorsoduro & Ca' Rezzonico",
+      "image": "dorsoduro.jpg",
+      "caption": "Art & aperitivo",
+      "description": "Peggy Guggenheim Collection, Accademia Gallery and Campo Santa Margherita (student nightlife). Venice's most liveable sestiere.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Dorsoduro%20%26%20Ca%27%20Rezzonico"
+      }
+    },
+    {
+      "name": "Cicchetti Tour",
+      "image": "cicchetti.jpg",
+      "caption": "Venetian tapas",
+      "description": "Small plates (cicchetti) with a glass of wine (ombra) at bacari bars. Start at Rialto — All'Arco, Do Mori, Cantina Do Spade.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cicchetti%20Tour"
+      }
+    },
+    {
+      "name": "Lido Beach",
+      "image": "lido.jpg",
+      "caption": "Venice Beach",
+      "description": "15-min vaporetto to the Lido barrier island. Sandy beaches, Art Deco hotels and the Venice Film Festival in September.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Lido%20Beach"
+      }
+    },
+    {
+      "name": "Jewish Ghetto",
+      "image": "jewish-ghetto.jpg",
+      "caption": "World's first ghetto",
+      "description": "Founded in 1516 — the word 'ghetto' originates here. Five synagogues, a museum and guided tours of this tiny, layered community.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Jewish%20Ghetto",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=venice%20jewish%20ghetto"
+      }
+    }
+  ],
+  "foodScene": "Cicchetti (Venetian tapas) at bacari (wine bars) is the way to eat here — try baccalà mantecato, sarde in saor, and polpette. Spritz Aperol was born in the Veneto. Squid ink pasta and risotto are the local specialties. For cheap eats, stand at the bar — sitting down doubles the price.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Venice%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=venice+travel"
+  }
+}

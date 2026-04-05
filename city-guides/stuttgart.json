@@ -1,0 +1,181 @@
+{
+  "city": "Stuttgart",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "currency": "EUR (€)",
+  "language": "German",
+  "weather": {
+    "tempHighC": 26,
+    "tempLowC": 15,
+    "description": "Warm & pleasant with green hills",
+    "icon": "⛅"
+  },
+  "quickFacts": [
+    "Home to Mercedes-Benz and Porsche — car lovers' paradise",
+    "The Stäffele (outdoor staircases) connect hillside neighbourhoods",
+    "Stuttgart has its own wine region — Trollinger is the local red",
+    "The Königstraße is one of Germany's longest pedestrian shopping streets"
+  ],
+  "foodScene": "Maultaschen (Swabian ravioli) are the local specialty — fried, in broth, or with potato salad. Spätzle with cheese (Käsespätzle) is the ultimate comfort food. Zwiebelrostbraten (onion roast beef) at a traditional Besenwirtschaft (seasonal wine tavern). Local wines from hillside vineyards.",
+  "places": [
+    {
+      "name": "Mercedes-Benz Museum",
+      "image": "mercedes-benz-museum.jpg",
+      "caption": "Automotive cathedral",
+      "description": "Nine floors spiralling through 130 years of automotive history. Even non-car-fans are impressed by the architecture and design. Allow 3 hours.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mercedes-Benz%20Museum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Mercedes-Benz+Museum"
+      }
+    },
+    {
+      "name": "Porsche Museum",
+      "image": "porsche-museum.jpg",
+      "caption": "Speed & design",
+      "description": "Sleek white building housing 80+ vehicles. The rooftop terrace and the driving simulators are highlights. Combined ticket with Mercedes possible.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Porsche%20Museum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Porsche+Museum"
+      }
+    },
+    {
+      "name": "Schlossplatz",
+      "image": "schlossplatz.jpg",
+      "caption": "City centre square",
+      "description": "The Neues Schloss palace, fountains, and manicured gardens in the heart of Stuttgart. Free concerts and festivals in summer.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Schlossplatz",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Schlossplatz"
+      }
+    },
+    {
+      "name": "Killesbergpark",
+      "image": "killesbergpark.jpg",
+      "caption": "Hilltop park & tower",
+      "description": "Beautiful parkland with a free observation tower offering 360° views. Mini railway, flamingos, and the best picnic spots in the city.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Killesbergpark",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Killesbergpark"
+      }
+    },
+    {
+      "name": "Markthalle Stuttgart",
+      "image": "markthalle.jpg",
+      "caption": "Art Nouveau food hall",
+      "description": "Gorgeous 1914 market hall with gourmet food stalls, wine bars, and international delicacies. Great for lunch or picking up local specialties.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Markthalle%20Stuttgart",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Markthalle+Stuttgart"
+      }
+    },
+    {
+      "name": "Stäffele Walking Tour",
+      "image": "staeffele.jpg",
+      "caption": "Hillside stairway network",
+      "description": "Over 400 outdoor staircases wind through vineyard-covered hills. Follow a self-guided route past hidden viewpoints and wine taverns.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=St%C3%A4ffele%20Walking%20Tour",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Stäffele+Walking+Tour"
+      }
+    },
+    {
+      "name": "Württemberg Mausoleum",
+      "image": "wuerttemberg-mausoleum.jpg",
+      "caption": "Hilltop tomb with vineyard views",
+      "description": "A neoclassical chapel atop a vineyard-covered hill. The panoramic view of Stuttgart and the Neckar Valley is worth the short hike.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=W%C3%BCrttemberg%20Mausoleum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Württemberg+Mausoleum"
+      }
+    },
+    {
+      "name": "Bohnenviertel",
+      "image": "bohnenviertel.jpg",
+      "caption": "Artisan quarter",
+      "description": "Stuttgart's oldest quarter with half-timbered houses, antique shops, wine bars, and small galleries. Charming and tourist-free.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bohnenviertel",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Bohnenviertel"
+      }
+    },
+    {
+      "name": "Wilhelma Zoo & Botanical Gardens",
+      "image": "wilhelma.jpg",
+      "caption": "Moorish-style zoo",
+      "description": "A unique zoo in Moorish Revival architecture with 11,000 animals and Europe's largest magnolia grove. Part zoo, part botanical garden, all impressive.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Wilhelma%20Zoo%20%26%20Botanical%20Gardens",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Wilhelma+Zoo+&+Botanical+Gardens"
+      }
+    },
+    {
+      "name": "Day Trip: Black Forest",
+      "image": "black-forest.jpg",
+      "caption": "Fairy-tale forest",
+      "description": "Dense fir forests, cuckoo clocks, and Black Forest cake in its homeland. Drive the Schwarzwaldhochstraße for dramatic viewpoints, or hike to waterfalls.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Day%20Trip%3A%20Black%20Forest",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Day+Trip:+Black+Forest"
+      }
+    },
+    {
+      "name": "Staatsgalerie",
+      "image": "staatsgalerie.jpg",
+      "caption": "Art museum",
+      "description": "James Stirling's postmodern building housing old masters and modern art. Picasso, Kandinsky, Beuys and the Swabian Impressionists.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Staatsgalerie"
+      }
+    },
+    {
+      "name": "Killesberg Park & Tower",
+      "image": "killesberg.jpg",
+      "caption": "Park with a view",
+      "description": "Hilltop park with a 40m observation tower, miniature railway, flamingos and flower gardens. Free panoramic views.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Killesberg%20Park%20%26%20Tower"
+      }
+    },
+    {
+      "name": "Markthalle",
+      "image": "markthalle.jpg",
+      "caption": "Art Nouveau food hall",
+      "description": "Beautiful 1914 market hall with gourmet food stalls, spices, wines and lunch counters. Stuttgart's culinary centrepiece.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Markthalle"
+      }
+    },
+    {
+      "name": "Stäffele (Outdoor Stairs)",
+      "image": "staffele.jpg",
+      "caption": "Hillside stairways",
+      "description": "Stuttgart has 400+ outdoor staircases connecting its hills. Walk the 'Stäffelestour' route for views and hidden wine taverns.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=St%C3%A4ffele%20%28Outdoor%20Stairs%29"
+      }
+    },
+    {
+      "name": "Bad Cannstatt Mineral Baths",
+      "image": "mineralbader.jpg",
+      "caption": "Thermal spa",
+      "description": "Europe's second-largest mineral water source. Historical Leuze or modern SchwimmBad — swim in heated mineral pools.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bad%20Cannstatt%20Mineral%20Baths"
+      }
+    },
+    {
+      "name": "Esslingen Day Trip",
+      "image": "esslingen.jpg",
+      "caption": "Medieval wine town",
+      "description": "Incredibly well-preserved half-timbered town 15 min by S-Bahn. Castle, wine taverns and Germany's oldest half-timbered houses.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Esslingen%20Day%20Trip",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=esslingen%20germany"
+      }
+    }
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Stuttgart%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=stuttgart+travel"
+  }
+}

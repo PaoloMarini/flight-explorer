@@ -1,0 +1,172 @@
+{
+  "city": "Turin",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "language": "Italian",
+  "weather": {
+    "tempHighC": 30,
+    "tempLowC": 19,
+    "description": "Hot & sunny with afternoon thunderstorms",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Italy's chocolate capital — home of Nutella and gianduja",
+    "First capital of unified Italy, much less crowded than Rome or Milan",
+    "Aperitivo culture rivals Milan — generous free buffets with your spritz",
+    "The Turin Shroud is only displayed on special occasions"
+  ],
+  "places": [
+    {
+      "name": "Mole Antonelliana",
+      "image": "mole-antonelliana.jpg",
+      "caption": "Turin's iconic skyline symbol",
+      "description": "Take the panoramic glass elevator to the top for 360° views of the Alps and city. Houses the excellent National Cinema Museum inside.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mole%20Antonelliana",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=mole+antonelliana+turin"
+      }
+    },
+    {
+      "name": "Piazza Castello",
+      "image": "piazza-castello.jpg",
+      "caption": "Grand heart of baroque Turin",
+      "description": "The city's main square, surrounded by porticoed walkways, Palazzo Madama, and the Royal Palace. Perfect for an evening passeggiata.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Piazza%20Castello",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=piazza+castello+turin"
+      }
+    },
+    {
+      "name": "Quadrilatero Romano",
+      "image": "quadrilatero-romano.jpg",
+      "caption": "Ancient Roman quarter turned foodie paradise",
+      "description": "Turin's oldest neighbourhood is packed with aperitivo bars, vintage shops, and buzzing restaurants. The Saturday street market is unmissable.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Quadrilatero%20Romano",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=quadrilatero+romano+turin"
+      }
+    },
+    {
+      "name": "Egyptian Museum",
+      "image": "egyptian-museum.jpg",
+      "caption": "Second-largest Egyptian collection in the world",
+      "description": "Rivals the Cairo museum with stunning artefacts, mummy galleries, and a beautifully redesigned interior. Allow at least 2 hours.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Egyptian%20Museum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=egyptian+museum+turin"
+      }
+    },
+    {
+      "name": "Parco del Valentino",
+      "image": "parco-del-valentino.jpg",
+      "caption": "Riverside park for lazy afternoons",
+      "description": "Stroll along the Po River, rent a bike, or picnic under the trees. Don't miss the Medieval Village, a life-size replica of a Piedmontese hamlet.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Parco%20del%20Valentino",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=parco+del+valentino+turin"
+      }
+    },
+    {
+      "name": "Superga Basilica",
+      "image": "superga-basilica.jpg",
+      "caption": "Hilltop church with jaw-dropping panorama",
+      "description": "Take the historic rack railway up the hill for the best view of Turin backed by the entire Alpine arc. Sunset here is pure magic.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Superga%20Basilica",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=superga+basilica+turin"
+      }
+    },
+    {
+      "name": "Porta Palazzo Market",
+      "image": "porta-palazzo-market.jpg",
+      "caption": "Europe's largest open-air market",
+      "description": "A sensory overload of fresh produce, cheeses, street food, and multicultural vibes. Saturday mornings are the liveliest — grab a porchetta panino.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Porta%20Palazzo%20Market",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=porta+palazzo+market+turin"
+      }
+    },
+    {
+      "name": "San Salvario",
+      "image": "san-salvario.jpg",
+      "caption": "Multicultural neighbourhood & nightlife hub",
+      "description": "Turin's most diverse area is packed with ethnic eateries, craft cocktail bars, and a young creative crowd. The place to be after dark.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=San%20Salvario",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=san+salvario+turin"
+      }
+    },
+    {
+      "name": "Reggia di Venaria",
+      "image": "reggia-di-venaria.jpg",
+      "caption": "Italy's answer to Versailles",
+      "description": "A stunning Savoy royal palace just outside the city with grand halls, contemporary art exhibitions, and 60 hectares of manicured gardens.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Reggia%20di%20Venaria",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=reggia+di+venaria"
+      }
+    },
+    {
+      "name": "Monte dei Cappuccini",
+      "image": "monte-dei-cappuccini.jpg",
+      "caption": "Sunset viewpoint over the city",
+      "description": "A short climb across the Po River to this hilltop church rewards you with the best free panorama of Turin's skyline and the snow-capped Alps.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Monte%20dei%20Cappuccini",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=monte+dei+cappuccini+turin"
+      }
+    },
+    {
+      "name": "Royal Palace (Palazzo Reale)",
+      "image": "palazzo-reale.jpg",
+      "caption": "Savoy residence",
+      "description": "UNESCO-listed former royal palace with lavish state rooms, the Royal Armoury, Royal Library (Leonardo's self-portrait) and gardens.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Royal%20Palace%20%28Palazzo%20Reale%29"
+      }
+    },
+    {
+      "name": "Piazza San Carlo",
+      "image": "piazza-san-carlo.jpg",
+      "caption": "Turin's drawing room",
+      "description": "Elegant Baroque square with twin churches, the equestrian statue of Duke Emanuele Filiberto and historic caffès beneath arcades.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Piazza%20San%20Carlo"
+      }
+    },
+    {
+      "name": "Caffè Culture",
+      "image": "caffe-culture.jpg",
+      "caption": "Birthplace of Italian coffee",
+      "description": "Bicerin (coffee + chocolate + cream) at Caffè Al Bicerin since 1763. Turin invented gianduja chocolate and vermouth too.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Caff%C3%A8%20Culture"
+      }
+    },
+    {
+      "name": "Sacra di San Michele",
+      "image": "sacra-san-michele.jpg",
+      "caption": "Mountaintop abbey",
+      "description": "Romanesque abbey perched on a mountain 40 km from Turin. Inspired The Name of the Rose. Dramatic approach stairway carved from rock.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Sacra%20di%20San%20Michele",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=sacra%20di%20san%20michele"
+      }
+    },
+    {
+      "name": "Eataly Turin",
+      "image": "eataly-turin.jpg",
+      "caption": "Where it all started",
+      "description": "The original Eataly opened in a former vermouth factory in 2007. Five floors of Italian food, restaurants and cooking classes.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Eataly%20Turin"
+      }
+    }
+  ],
+  "foodScene": "Turin invented gianduja (chocolate-hazelnut), so try it everywhere. Bicerin is the city's legendary hot drink — espresso, chocolate, and cream layered in a glass. Bagna cauda (warm anchovy-garlic dip) is the classic Piedmontese starter. Aperitivo is a religion here — order a drink at any bar and graze the free buffets.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Turin%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=turin+travel"
+  }
+}

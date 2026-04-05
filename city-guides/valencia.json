@@ -1,0 +1,145 @@
+{
+  "city": "Valencia",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "currency": "EUR (€)",
+  "language": "Spanish / Valencian",
+  "weather": {
+    "tempHighC": 31,
+    "tempLowC": 22,
+    "description": "Hot & sunny, perfect beach weather",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Birthplace of paella — never order it with chorizo here",
+    "The old Turia riverbed is now a 9km urban park and bike path",
+    "Spain's third-largest city but way more affordable than Barcelona or Madrid",
+    "Las Fallas festival in March is one of Europe's wildest"
+  ],
+  "places": [
+    {
+      "name": "City of Arts and Sciences",
+      "image": "city-of-arts-and-sciences.jpg",
+      "caption": "Futuristic architectural marvel",
+      "description": "Santiago Calatrava's sci-fi complex has an aquarium, planetarium, opera house, and science museum. The reflecting pools at sunset are iconic.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=City%20of%20Arts%20and%20Sciences",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=city+of+arts+and+sciences+valencia"
+      }
+    },
+    {
+      "name": "Turia Gardens",
+      "image": "turia-gardens.jpg",
+      "caption": "9km park in a former riverbed",
+      "description": "Rent a bike and cruise through this green ribbon of gardens, playgrounds, and sports facilities that winds through the city. Free Gulliver playground is a blast.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Turia%20Gardens",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=turia+gardens+valencia"
+      }
+    },
+    {
+      "name": "Barrio del Carmen",
+      "image": "barrio-del-carmen.jpg",
+      "caption": "Historic old town with street art",
+      "description": "Medieval streets meet colourful murals, indie boutiques, and tapas bars. Wander without a plan and discover hidden plazas and rooftop terraces.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Barrio%20del%20Carmen",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=barrio+del+carmen+valencia"
+      }
+    },
+    {
+      "name": "Mercado Central",
+      "image": "mercado-central.jpg",
+      "caption": "Stunning Art Nouveau market hall",
+      "description": "One of Europe's largest covered markets. Browse 1,000+ stalls of fresh seafood, cured meats, and local produce. Grab horchata and fartons for a snack.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mercado%20Central",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=mercado+central+valencia"
+      }
+    },
+    {
+      "name": "Playa de la Malvarrosa",
+      "image": "playa-malvarrosa.jpg",
+      "caption": "City beach with seafood restaurants",
+      "description": "Wide sandy beach just a bus ride from the centre. The beachfront promenade is lined with paella restaurants — this is where locals actually eat it.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Playa%20de%20la%20Malvarrosa",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=malvarrosa+beach+valencia"
+      }
+    },
+    {
+      "name": "La Lonja de la Seda",
+      "image": "la-lonja-de-la-seda.jpg",
+      "caption": "UNESCO Gothic silk exchange",
+      "description": "A masterpiece of late Gothic architecture with twisting columns that look like palm trees. One of the most beautiful buildings in Spain and free on Sundays.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=La%20Lonja%20de%20la%20Seda",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=lonja+de+la+seda+valencia"
+      }
+    },
+    {
+      "name": "Albufera Natural Park",
+      "image": "albufera-natural-park.jpg",
+      "caption": "Lagoon, rice paddies & sunset boat rides",
+      "description": "Just 10km south, this freshwater lagoon is where paella was born. Take a boat ride at sunset through the rice fields — genuinely stunning.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Albufera%20Natural%20Park",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=albufera+natural+park+valencia"
+      }
+    },
+    {
+      "name": "Ruzafa",
+      "image": "ruzafa.jpg",
+      "caption": "Trendy neighbourhood for brunch & nightlife",
+      "description": "Valencia's hipster quarter with the best brunch spots, craft beer bars, vintage shops, and a buzzing weekend nightlife scene.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Ruzafa",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=ruzafa+valencia"
+      }
+    },
+    {
+      "name": "Torres de Serranos",
+      "image": "torres-de-serranos.jpg",
+      "caption": "Medieval city gate with rooftop views",
+      "description": "Climb the 14th-century towers for panoramic views across the old town and the Turia gardens. Entry is free on Sundays.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Torres%20de%20Serranos",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=torres+de+serranos+valencia"
+      }
+    },
+    {
+      "name": "Oceanogràfic",
+      "image": "oceanografic.jpg",
+      "caption": "Europe's largest aquarium",
+      "description": "Part of the City of Arts complex, this massive aquarium has beluga whales, sharks, and a walk-through underwater tunnel. Worth the ticket price.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Oceanogr%C3%A0fic",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=oceanografic+valencia"
+      }
+    },
+    {
+      "name": "El Cabanyal",
+      "image": "cabanyal.jpg",
+      "caption": "Fishing quarter",
+      "description": "Colourful tile-fronted houses in the former fishermen's district. Now hip with restaurants, street art and a weekly market.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=El%20Cabanyal",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=el%20cabanyal%20valencia"
+      }
+    },
+    {
+      "name": "Bioparc Valencia",
+      "image": "bioparc.jpg",
+      "caption": "Immersive zoo",
+      "description": "African-themed zoo without visible barriers between you and the animals. Gorillas, elephants, lemurs in naturalistic habitats.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bioparc%20Valencia"
+      }
+    }
+  ],
+  "foodScene": "Paella valenciana is the real deal here — made with rabbit, chicken, and beans, never seafood (that's a separate dish). Horchata de chufa is the local tiger-nut drink served ice-cold with fartons (dunking pastries). Agua de Valencia is the local cocktail — cava, OJ, vodka, and gin. Eat lunch at 2pm like a local.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Valencia%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=valencia+travel"
+  }
+}

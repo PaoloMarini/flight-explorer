@@ -1,0 +1,144 @@
+{
+  "city": "Stockholm",
+  "country": "Sweden",
+  "flag": "🇸🇪",
+  "currency": "SEK (kr)",
+  "language": "Swedish",
+  "weather": {
+    "tempHighC": 23,
+    "tempLowC": 14,
+    "description": "Mild & long daylight, near 19h of sun",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Stockholm spans 14 islands — walking across bridges is half the fun",
+    "Tap water is excellent — no need to buy bottled",
+    "Almost entirely cashless — card or Swish for everything",
+    "Fika (coffee + pastry break) is a cultural institution"
+  ],
+  "foodScene": "Fika is sacred — kanelbullar (cinnamon buns) at a cosy café are mandatory. Swedish meatballs with lingonberry at a traditional restaurant, not IKEA. Toast Skagen (shrimp on toast) at waterfront restaurants. Street food at Hornstulls Marknad.",
+  "places": [
+    {
+      "name": "Gamla Stan (Old Town)",
+      "image": "gamla-stan.jpg",
+      "caption": "Medieval island centre",
+      "description": "Narrow cobblestone alleys, ochre-coloured buildings, and the smallest statue in the world. The Royal Palace changing of the guard is free at noon.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Gamla%20Stan%20%28Old%20Town%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Gamla+Stan+(Old+Town)"
+      }
+    },
+    {
+      "name": "Vasa Museum",
+      "image": "vasa-museum.jpg",
+      "caption": "17th-century warship",
+      "description": "A nearly intact warship that sank on its maiden voyage in 1628, salvaged 333 years later. The most visited museum in Scandinavia for a reason.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vasa%20Museum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Vasa+Museum"
+      }
+    },
+    {
+      "name": "Fotografiska",
+      "image": "fotografiska.jpg",
+      "caption": "Photography museum & bar",
+      "description": "World-class photography exhibitions in a converted customs house. The top-floor restaurant has panoramic views and excellent cocktails.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Fotografiska",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Fotografiska"
+      }
+    },
+    {
+      "name": "Södermalm",
+      "image": "sodermalm.jpg",
+      "caption": "Hipster island",
+      "description": "Vintage shops, indie coffee roasters, and the best sunset viewpoint at Monteliusvägen. SoFo district for boutiques and brunch.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=S%C3%B6dermalm",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Södermalm"
+      }
+    },
+    {
+      "name": "Djurgården Island",
+      "image": "djurgarden.jpg",
+      "caption": "Museum & nature island",
+      "description": "Walk or take the ferry. Skansen outdoor museum, Vasa Museum, ABBA Museum, and peaceful forests — all on one island.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Djurg%C3%A5rden%20Island",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Djurgården+Island"
+      }
+    },
+    {
+      "name": "Stockholm Archipelago",
+      "image": "stockholm-archipelago.jpg",
+      "caption": "30,000 islands",
+      "description": "Take a day ferry to Vaxholm, Grinda, or Sandhamn. Pine-covered islands, swimming from rocks, and seafood at waterside restaurants.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Stockholm%20Archipelago",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Stockholm+Archipelago"
+      }
+    },
+    {
+      "name": "Monteliusvägen",
+      "image": "monteliusvaegen.jpg",
+      "caption": "Best sunset walk",
+      "description": "A short clifftop path in Södermalm with sweeping views over Gamla Stan and Lake Mälaren. Bring a blanket and a bottle of wine.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Monteliusv%C3%A4gen",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Monteliusvägen"
+      }
+    },
+    {
+      "name": "ABBA The Museum",
+      "image": "abba-museum.jpg",
+      "caption": "Interactive pop shrine",
+      "description": "Sing, dance, and virtually perform on stage with ABBA holograms. Even non-fans leave grinning. Book timed tickets online.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=ABBA%20The%20Museum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=ABBA+The+Museum"
+      }
+    },
+    {
+      "name": "Skansen Open-Air Museum",
+      "image": "skansen.jpg",
+      "caption": "Sweden in miniature",
+      "description": "Historic buildings from across Sweden, Nordic animals (moose, bears), and traditional crafts. The oldest open-air museum in the world (1891).",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Skansen%20Open-Air%20Museum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Skansen+Open-Air+Museum"
+      }
+    },
+    {
+      "name": "Day Trip: Drottningholm Palace",
+      "image": "drottningholm.jpg",
+      "caption": "Royal residence",
+      "description": "The Swedish royal family's home, a UNESCO site accessible by scenic boat ride. The 18th-century court theatre still stages performances.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Day%20Trip%3A%20Drottningholm%20Palace",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Day+Trip:+Drottningholm+Palace"
+      }
+    },
+    {
+      "name": "Royal Palace",
+      "image": "royal-palace.jpg",
+      "caption": "Baroque residence",
+      "description": "608 rooms — one of Europe's largest palaces. Watch the daily changing of the guard. Royal Apartments and Treasury open to visitors.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Royal%20Palace"
+      }
+    },
+    {
+      "name": "SkyView (Ericsson Globe)",
+      "image": "skyview.jpg",
+      "caption": "Gondola on a sphere",
+      "description": "Glass gondola on the outside of the world's largest spherical building. Quick ride to the top for city panoramas.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=SkyView%20%28Ericsson%20Globe%29"
+      }
+    }
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Stockholm%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=stockholm+travel"
+  }
+}
