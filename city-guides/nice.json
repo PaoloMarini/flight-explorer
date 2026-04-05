@@ -1,0 +1,191 @@
+{
+  "city": "Nice",
+  "country": "France",
+  "flag": "🇫🇷",
+  "currency": "EUR (€)",
+  "language": "French",
+  "weather": {
+    "tempHighC": 29,
+    "tempLowC": 21,
+    "description": "Warm and sunny Riviera summer, ideal beach weather",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Nice was part of Italy until 1860 — the food, architecture, and vibe are half-Italian to this day",
+    "The Promenade des Anglais was built by British aristocrats in the 1820s for their winter strolls",
+    "Nice has 300+ days of sunshine a year — more than almost anywhere in mainland France"
+  ],
+  "places": [
+    {
+      "name": "Promenade des Anglais",
+      "image": "promenade-des-anglais.jpg",
+      "caption": "The most famous seafront walk on the Riviera",
+      "description": "This sweeping 7km boulevard along the Baie des Anges is Nice's calling card — lined with Belle Époque hotels, rollerbladers, joggers, and blue chairs facing the Mediterranean. Rent a Vélo Bleu bike and ride the full length from the airport to the port at sunset.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Promenade%20des%20Anglais",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Promenade+des+Anglais"
+      }
+    },
+    {
+      "name": "Vieux Nice (Old Town)",
+      "image": "vieux-nice.jpg",
+      "caption": "Baroque churches and socca in narrow alleyways",
+      "description": "A tangle of pastel-painted buildings, Baroque churches, and market-filled squares between the Promenade and Castle Hill. Cours Saleya hosts a legendary flower and food market every morning. The streets feel more Italian than French — because they were, until 1860.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vieux%20Nice%20%28Old%20Town%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Vieux+Nice+%28Old+Town%29"
+      }
+    },
+    {
+      "name": "Castle Hill (Colline du Château)",
+      "image": "castle-hill.jpg",
+      "caption": "The best panorama on the Côte d'Azur",
+      "description": "There's no castle left (demolished in 1706), but the terraced park crowning this rocky promontory has the most iconic views in Nice — the Baie des Anges curving left, the Old Town rooftops below, the port to the right. Take the free elevator from Quai des États-Unis or walk the shaded stairs.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Castle%20Hill%20%28Colline%20du%20Ch%C3%A2teau%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Castle+Hill+%28Colline+du+Ch%C3%A2teau%29"
+      }
+    },
+    {
+      "name": "Musée Matisse",
+      "image": "musee-matisse.jpg",
+      "caption": "Where Matisse fell in love with light and color",
+      "description": "Henri Matisse spent his last 37 years in Nice, and this villa museum in the Cimiez neighborhood holds a gorgeous collection of his paintings, cut-outs, and sculptures. The adjacent Roman ruins and olive grove make the trip to this hilltop neighborhood worthwhile. Free entry.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mus%C3%A9e%20Matisse",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Mus%C3%A9e+Matisse"
+      }
+    },
+    {
+      "name": "Port Lympia",
+      "image": "port-lympia.jpg",
+      "caption": "Nice's colorful harbor, away from the tourist crowd",
+      "description": "This 18th-century harbor on the east side of Castle Hill is framed by Sardinian-style pastel buildings and lined with seafood restaurants. It's far less crowded than the Old Town and feels like a working Mediterranean port. Catch a ferry to Corsica from here.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Port%20Lympia",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Port+Lympia"
+      }
+    },
+    {
+      "name": "Cours Saleya Market",
+      "image": "cours-saleya.jpg",
+      "caption": "Flowers, food, and Provençal magic every morning",
+      "description": "This famous open-air market fills a long square in the Old Town with buckets of flowers, stacks of socca, piles of olives, and blocks of lavender soap. Rain or shine, it runs Tuesday to Sunday mornings. On Mondays, it transforms into a huge antiques and flea market.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cours%20Saleya%20Market",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Cours+Saleya+Market"
+      }
+    },
+    {
+      "name": "Cimiez Neighborhood",
+      "image": "cimiez.jpg",
+      "caption": "Roman ruins and jazz in the hills above Nice",
+      "description": "This upscale hilltop quarter has Roman baths, a Franciscan monastery with stunning gardens, and the Matisse and Chagall museums within walking distance. In July, the Nice Jazz Festival takes over the Cimiez arena ruins — one of the world's most atmospheric jazz venues.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cimiez%20Neighborhood",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Cimiez+Neighborhood"
+      }
+    },
+    {
+      "name": "Plage de Castel",
+      "image": "plage-de-castel.jpg",
+      "caption": "Nice's only free public beach with real sand",
+      "description": "Most of Nice's beaches are rocky (bring a mat!), but this small patch of sand tucked beneath Castle Hill is free, public, and easily the best beach in town. The turquoise water here is incredibly clear. Arrive early in peak summer — it fills up fast by 10am.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Plage%20de%20Castel",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Plage+de+Castel"
+      }
+    },
+    {
+      "name": "Musée Marc Chagall",
+      "image": "musee-chagall.jpg",
+      "caption": "Seventeen monumental canvases of Biblical dreams",
+      "description": "Purpose-built in 1973 for Chagall's Biblical Message series, this museum is an immersive, emotional experience — luminous stained glass, mosaic reflections in a pool, and the huge canvases glowing with Chagall's signature floating figures and vivid blues. One of the Riviera's best museums.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mus%C3%A9e%20Marc%20Chagall",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Mus%C3%A9e+Marc+Chagall"
+      }
+    },
+    {
+      "name": "Promenade du Paillon",
+      "image": "promenade-du-paillon.jpg",
+      "caption": "A green ribbon through the city with mirror fountains",
+      "description": "This beautiful park and promenade connects the Old Town to the Museum of Modern Art along a 12-hectare green corridor. Kids (and adults) splash in the flat mirror-jet fountains, and the botanical sections showcase Mediterranean and tropical plants. A welcome oasis on hot summer days.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Promenade%20du%20Paillon",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Promenade+du+Paillon"
+      }
+    },
+    {
+      "name": "Vieille Ville (Old Town)",
+      "image": "vieille-ville-nice.jpg",
+      "caption": "Baroque quarter",
+      "description": "Narrow lanes painted in ochre and rust. Cours Saleya flower market, Baroque churches, socca stands and gelato.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vieille%20Ville%20%28Old%20Town%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=vieille%20ville%20nice"
+      }
+    },
+    {
+      "name": "Colline du Château (Castle Hill)",
+      "image": "castle-hill.jpg",
+      "caption": "Panoramic viewpoint",
+      "description": "Climb (or take the free lift) for the best views over Nice — Baie des Anges, Old Town rooftops and the port. Waterfall and gardens.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Colline%20du%20Ch%C3%A2teau%20%28Castle%20Hill%29"
+      }
+    },
+    {
+      "name": "Èze Village",
+      "image": "eze.jpg",
+      "caption": "Medieval hilltop village",
+      "description": "Perched 427m above the sea between Nice and Monaco. Exotic garden with cactus and panoramic views. Nietzsche walked here.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=%C3%88ze%20Village",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=eze%20village"
+      }
+    },
+    {
+      "name": "Marc Chagall National Museum",
+      "image": "chagall.jpg",
+      "caption": "Biblical paintings",
+      "description": "Purpose-built museum housing 17 monumental canvases of Chagall's Biblical Message series. Stained glass and mosaics too.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Marc%20Chagall%20National%20Museum"
+      }
+    },
+    {
+      "name": "Port of Nice",
+      "image": "port-nice.jpg",
+      "caption": "Harbour dining",
+      "description": "Colourful fishing port with excellent restaurants. Ferry terminal for Corsica. Antique market on Saturday mornings.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Port%20of%20Nice"
+      }
+    },
+    {
+      "name": "Place Masséna",
+      "image": "place-massena.jpg",
+      "caption": "Main square",
+      "description": "Elegant red-ochre square with the Fontaine du Soleil and sculptures by Jaume Plensa on pillars. Gateway between old and new Nice.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Place%20Mass%C3%A9na"
+      }
+    },
+    {
+      "name": "Monaco Day Trip",
+      "image": "monaco.jpg",
+      "caption": "30 min by train",
+      "description": "Monte Carlo Casino, Prince's Palace, Oceanographic Museum and the F1 circuit streets. Glamour on a budget with a day trip.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Monaco%20Day%20Trip",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=monaco"
+      }
+    }
+  ],
+  "foodScene": "Nice's cuisine is a unique Niçois tradition that's neither typically French nor Italian, but a sun-soaked hybrid of both. Socca — a thin, crispy chickpea pancake baked in wood-fired ovens — is the essential street food; Chez Pipo has been making the best since 1923. Salade Niçoise here is nothing like the version elsewhere — it's raw vegetables, hard-boiled eggs, anchovies, and olive oil, never any lettuce. Pissaladière (caramelized onion tart with anchovies) is the local pizza equivalent. Ratatouille was born here, and Pan Bagnat (a pressed Niçoise sandwich soaked in olive oil) is the perfect beach lunch. For gelato, Fenocchio in the Old Town has 94 flavors including lavender, black olive, and beer. Evening aperitivo along Cours Saleya is a ritual — order a glass of local Bellet rosé from vines grown on slopes above the city.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Nice%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=nice+travel"
+  }
+}

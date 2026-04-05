@@ -1,0 +1,173 @@
+{
+  "city": "Valletta",
+  "country": "Malta",
+  "flag": "🇲🇹",
+  "currency": "EUR (€)",
+  "language": "Maltese / English",
+  "weather": {
+    "tempHighC": 34,
+    "tempLowC": 23,
+    "description": "Hot and sunny Mediterranean summer with sea breezes",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Valletta is the EU's smallest capital — you can walk end to end in 15 minutes",
+    "Malta has more historic temples than Egypt, some dating to 3600 BC",
+    "The entire island is basically a UNESCO World Heritage Site — Valletta itself got the designation in 1980"
+  ],
+  "places": [
+    {
+      "name": "St. John's Co-Cathedral",
+      "image": "st-johns-co-cathedral.jpg",
+      "caption": "Baroque excess hiding behind a plain facade",
+      "description": "The plain exterior gives nothing away, but step inside and every surface explodes with gilded carvings, marble tombstones, and Caravaggio's largest painting, The Beheading of Saint John. The marble floor is made of 400 inlaid tombstones of the Knights of Malta.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=St.%20John%27s%20Co-Cathedral",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=St.+John%27s+Co-Cathedral"
+      }
+    },
+    {
+      "name": "Upper Barrakka Gardens",
+      "image": "upper-barrakka-gardens.jpg",
+      "caption": "Valletta's best view with a daily cannon salute",
+      "description": "These elegant gardens perched on the city's bastions offer jaw-dropping views across the Grand Harbour to the Three Cities. A cannon fires daily at noon and 4pm from the Saluting Battery below. Get here early in the morning before the cruise ship crowds arrive.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Upper%20Barrakka%20Gardens",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Upper+Barrakka+Gardens"
+      }
+    },
+    {
+      "name": "Ħal Saflieni Hypogeum",
+      "image": "hal-saflieni-hypogeum.jpg",
+      "caption": "A 5,000-year-old underground temple carved from rock",
+      "description": "This subterranean prehistoric burial site dates to 4000 BC and descends three levels into the earth. Only 80 visitors per day are allowed in — book online months in advance. The red ochre paintings and acoustic 'Oracle Room' are genuinely spine-tingling.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=%C4%A6al%20Saflieni%20Hypogeum",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=%C4%A6al+Saflieni+Hypogeum"
+      }
+    },
+    {
+      "name": "Blue Lagoon (Comino)",
+      "image": "blue-lagoon.jpg",
+      "caption": "Crystal-clear water that doesn't look real",
+      "description": "A short boat ride from Malta, the tiny island of Comino has this impossibly turquoise lagoon that's become iconic. It's packed by midday in summer — take an early morning boat or a sunset cruise to have it closer to yourself. The snorkeling is excellent.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Blue%20Lagoon%20%28Comino%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Blue+Lagoon+%28Comino%29"
+      }
+    },
+    {
+      "name": "Mdina",
+      "image": "mdina.jpg",
+      "caption": "The Silent City — Malta's ancient walled capital",
+      "description": "This fortified medieval town was Malta's capital for centuries and still feels frozen in time. Cars are banned, and narrow limestone streets lead to hidden squares and panoramic rampart views. Locals call it the Silent City — visit in the evening when it truly earns the name.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mdina",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Mdina"
+      }
+    },
+    {
+      "name": "Marsaxlokk",
+      "image": "marsaxlokk.jpg",
+      "caption": "A fishing village painted in every color",
+      "description": "This southern harbor village is famous for its luzzu — brightly painted traditional boats with the Eye of Osiris on the bow. The Sunday fish market is the island's best, with fresh lampuki, octopus, and swordfish. Stay for lunch at one of the waterfront restaurants.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Marsaxlokk",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Marsaxlokk"
+      }
+    },
+    {
+      "name": "Three Cities (Birgu, Senglea, Cospicua)",
+      "image": "three-cities.jpg",
+      "caption": "Valletta's older, grittier, more authentic neighbors",
+      "description": "These three fortified waterfront towns across the Grand Harbour predate Valletta and have a lived-in authenticity the capital sometimes lacks. Birgu's Fort St. Angelo is stunning, Senglea's Gardjola Gardens have the best harbor views, and the back streets are wonderfully quiet.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Three%20Cities%20%28Birgu%2C%20Senglea%2C%20Cospicua%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Three+Cities+%28Birgu%2C+Senglea%2C+Cospicua%29"
+      }
+    },
+    {
+      "name": "Strait Street",
+      "image": "strait-street.jpg",
+      "caption": "Valletta's former red-light strip, now a bar-hopping gem",
+      "description": "Once the rowdy haunt of British sailors (nicknamed 'The Gut'), this narrow lane is now Valletta's coolest nightlife corridor. Bars like Ġugar and Bridge Bar pack into the historic buildings, and live jazz spills into the street on warm evenings.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Strait%20Street",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Strait+Street"
+      }
+    },
+    {
+      "name": "Dingli Cliffs",
+      "image": "dingli-cliffs.jpg",
+      "caption": "Malta's highest point and most dramatic coastline",
+      "description": "These 250-meter sea cliffs on Malta's western coast are the island's most dramatic natural feature. Walk the cliff-edge path at sunset for views stretching to the uninhabited islet of Filfla. There's a tiny chapel of St. Mary Magdalene perched improbably on the edge.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Dingli%20Cliffs",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Dingli+Cliffs"
+      }
+    },
+    {
+      "name": "MUŻA — National Museum of Art",
+      "image": "muza.jpg",
+      "caption": "Maltese art in a beautifully restored auberge",
+      "description": "Housed in the Auberge d'Italie, one of Valletta's grandest Knights-era buildings, MUŻA tells Malta's story through art spanning from medieval to contemporary. The building itself is as much a draw as the collection, with soaring frescoed ceilings and cool stone corridors.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=MU%C5%BBA%20%E2%80%94%20National%20Museum%20of%20Art",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=MU%C5%BBA+%E2%80%94+National+Museum+of+Art"
+      }
+    },
+    {
+      "name": "Valletta",
+      "image": "valletta.jpg",
+      "caption": "Fortress capital",
+      "description": "Tiny UNESCO capital built by the Knights of St John. Baroque architecture, St John's Co-Cathedral (Caravaggio inside), and Grand Harbour views.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Valletta",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=valletta%20malta"
+      }
+    },
+    {
+      "name": "Three Cities",
+      "image": "three-cities.jpg",
+      "caption": "Across the harbour",
+      "description": "Vittoriosa, Senglea and Cospicua — the original harbour towns. More authentic than Valletta. Water taxi across the harbour.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Three%20Cities",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=three%20cities%20malta"
+      }
+    },
+    {
+      "name": "St Peter's Pool",
+      "image": "st-peters-pool.jpg",
+      "caption": "Natural swimming pool",
+      "description": "Rock-cut natural pool near Marsaxlokk. Cliff jumping, snorkelling and sunbathing on flat rocks. Free and beautiful.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=St%20Peter%27s%20Pool"
+      }
+    },
+    {
+      "name": "Popeye Village",
+      "image": "popeye-village.jpg",
+      "caption": "Film set turned attraction",
+      "description": "The 1980 Robin Williams film set in Anchor Bay — colourful wooden buildings, boat rides and shows. Fun for families.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Popeye%20Village"
+      }
+    },
+    {
+      "name": "Gozo (Victoria & Ramla Bay)",
+      "image": "gozo.jpg",
+      "caption": "Sister island",
+      "description": "Greener and quieter than Malta. Citadel in Victoria, red sand Ramla Bay beach, Ta' Pinu basilica. 25-min ferry.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Gozo%20%28Victoria%20%26%20Ramla%20Bay%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=gozo%20malta"
+      }
+    }
+  ],
+  "foodScene": "Maltese food is a delicious collision of Sicilian, North African, and British influences that's entirely its own thing. Pastizzi — flaky diamond-shaped pastries filled with ricotta or mushy peas — are the national snack, available for about 50 cents at hole-in-the-wall pastizzeriji everywhere (Crystal Palace in Rabat is the most famous). Rabbit (fenek) is the national dish, slow-braised in wine and garlic — try it at Ta' Marija in Mosta. Ftira, a Maltese sourdough flatbread topped with tomato paste, capers, and tuna, is the local answer to pizza. For seafood, Marsaxlokk's waterfront restaurants serve whatever came off the boats that morning. Kinnie, a bitter-orange soft drink, is Malta's unofficial beverage, and local wines from Marsovin and Meridiana are surprisingly good.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Valletta%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=valletta+travel"
+  }
+}

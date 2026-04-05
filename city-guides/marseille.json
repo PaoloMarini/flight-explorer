@@ -1,0 +1,152 @@
+{
+  "city": "Marseille",
+  "country": "France",
+  "flag": "🇫🇷",
+  "currency": "EUR (€)",
+  "language": "French",
+  "weather": {
+    "tempHighC": 30,
+    "tempLowC": 21,
+    "description": "Hot Mediterranean summer with intense sunshine",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "France's oldest city — founded by Greek sailors in 600 BC, a full 400 years before Paris existed",
+    "Marseille has been voted European Capital of Culture and is fiercely proud of not being Paris",
+    "The Vieux-Port sells fresh fish every morning from boats exactly as it has for 2,600 years"
+  ],
+  "places": [
+    {
+      "name": "Vieux-Port",
+      "image": "vieux-port.jpg",
+      "caption": "A 2,600-year-old harbor still buzzing with life",
+      "description": "The Old Port is Marseille's beating heart — fishing boats unload the morning catch, restaurants line the quays, and Norman Foster's mirrored canopy reflects the sky onto the waterfront. Grab a pastis at a terrace café and watch the ferries cross to the Frioul islands.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vieux-Port",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Vieux-Port"
+      }
+    },
+    {
+      "name": "Notre-Dame de la Garde",
+      "image": "notre-dame-de-la-garde.jpg",
+      "caption": "The golden Madonna watching over the city",
+      "description": "Locals call her 'La Bonne Mère' — this Romano-Byzantine basilica crowns the city's highest hill with a gilded Virgin Mary statue on top. The 360-degree views of Marseille, the sea, and the Calanques are the best you'll get. Walk up through the Roucas Blanc neighborhood for the full experience.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Notre-Dame%20de%20la%20Garde",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Notre-Dame+de+la+Garde"
+      }
+    },
+    {
+      "name": "Calanques National Park",
+      "image": "calanques.jpg",
+      "caption": "Dramatic limestone fjords meet turquoise sea",
+      "description": "These jaw-dropping narrow inlets of white limestone cliffs plunging into crystalline water stretch along the coast southeast of Marseille. Hike to Calanque de Sugiton or En-Vau for the most dramatic scenery. Bring water — there's zero shade, and access closes during high fire-risk days in summer.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Calanques%20National%20Park",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Calanques+National+Park"
+      }
+    },
+    {
+      "name": "Le Panier",
+      "image": "le-panier.jpg",
+      "caption": "Marseille's oldest quarter, dripping in color",
+      "description": "The city's original Greek settlement is now a labyrinth of steep, narrow streets covered in street art, laundry lines, and artisan workshops. The Vieille Charité, a 17th-century former poorhouse, is now one of the most beautiful museum spaces in France.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Le%20Panier",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Le+Panier"
+      }
+    },
+    {
+      "name": "MuCEM",
+      "image": "mucem.jpg",
+      "caption": "A museum wrapped in a concrete lace veil",
+      "description": "The Museum of European and Mediterranean Civilisations is as much about the architecture as the exhibitions — a cube of perforated concrete connected by a sky-high footbridge to the Fort Saint-Jean. The rooftop terrace restaurant has unreal views across the harbor.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=MuCEM",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=MuCEM"
+      }
+    },
+    {
+      "name": "Cours Julien",
+      "image": "cours-julien.jpg",
+      "caption": "Marseille's bohemian village within the city",
+      "description": "This neighborhood around a sloping pedestrian square is Marseille's creative hub — covered in murals, lined with vintage shops, record stores, and cheap-but-great restaurants. The Wednesday and Saturday organic market on the square is one of the city's best.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cours%20Julien",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Cours+Julien"
+      }
+    },
+    {
+      "name": "Château d'If",
+      "image": "chateau-dif.jpg",
+      "caption": "The island fortress from The Count of Monte Cristo",
+      "description": "This 16th-century island fortress 1.5km offshore was made famous by Alexandre Dumas. Take the 20-minute ferry from Vieux-Port and explore the cells where real (and fictional) prisoners were held. The views back to Marseille from the ramparts are spectacular.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Ch%C3%A2teau%20d%27If",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Ch%C3%A2teau+d%27If"
+      }
+    },
+    {
+      "name": "Vallon des Auffes",
+      "image": "vallon-des-auffes.jpg",
+      "caption": "A tiny fishing cove hiding in plain sight",
+      "description": "Tucked beneath the Corniche Kennedy, this miniature fishing port feels like a village frozen in time. Colorful pointu boats bob in the harbor, and Chez Fonfon — one of Marseille's most celebrated bouillabaisse restaurants — sits right on the water. Come at sunset for maximum romance.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vallon%20des%20Auffes",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Vallon+des+Auffes"
+      }
+    },
+    {
+      "name": "Friche la Belle de Mai",
+      "image": "friche-belle-de-mai.jpg",
+      "caption": "A former tobacco factory turned creative powerhouse",
+      "description": "This massive converted factory in the Belle de Mai neighborhood is Marseille's biggest cultural complex — artists' studios, skate parks, a rooftop restaurant, and an outdoor cinema in summer. It's raw, industrial, and nothing like anywhere else in the city.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Friche%20la%20Belle%20de%20Mai",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Friche+la+Belle+de+Mai"
+      }
+    },
+    {
+      "name": "Corniche Kennedy",
+      "image": "corniche-kennedy.jpg",
+      "caption": "A coastal road made for cliff-jumping and sundowners",
+      "description": "This 5km coastal road connecting the Vieux-Port to the Plages du Prado is Marseille's version of a boardwalk. Local kids fling themselves off the rocks at Anse de la Fausse Monnaie, and the benches facing the Frioul islands are prime sunset real estate.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Corniche%20Kennedy",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Corniche+Kennedy"
+      }
+    },
+    {
+      "name": "Frioul Islands",
+      "image": "frioul.jpg",
+      "caption": "Island escape",
+      "description": "Archipelago 20 min by boat. Wild swimming, hiking trails and a small harbour village. Much quieter than Château d'If.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Frioul%20Islands"
+      }
+    },
+    {
+      "name": "La Corniche",
+      "image": "corniche.jpg",
+      "caption": "Coastal road",
+      "description": "5 km seaside promenade from the Catalans beach to the Prado beaches. Sunset views, diving spots and the Vallon des Auffes fishing port.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=La%20Corniche"
+      }
+    },
+    {
+      "name": "Marché Noailles",
+      "image": "noailles.jpg",
+      "caption": "Multicultural market",
+      "description": "Vibrant North African and Middle Eastern market. Spices, olives, fresh bread, mint tea. The most authentic Marseille experience.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=March%C3%A9%20Noailles"
+      }
+    }
+  ],
+  "foodScene": "Marseille is France's great melting-pot food city. Bouillabaisse — the legendary saffron-gold fish stew — was born here, and at places like Chez Fonfon and Miramar in the Vieux-Port, it's still a ceremonial experience (expect €50+ and worth every centime). For everyday eating, the panisse (chickpea fries) at stands around Cours Julien are addictive. Navettes, boat-shaped biscuits flavored with orange blossom from the Four des Navettes bakery (open since 1781), are the city's signature sweet. North African and Armenian communities have shaped the food scene immensely — the couscous restaurants in Noailles market area are exceptional. Head to La Plaine market for cheese, olives, and local wine, and finish nights at a bar in Cours Julien with a proper pastis.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Marseille%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=marseille+travel"
+  }
+}

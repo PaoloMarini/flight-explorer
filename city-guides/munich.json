@@ -1,0 +1,162 @@
+{
+  "city": "Munich",
+  "country": "Germany",
+  "flag": "🇩🇪",
+  "currency": "EUR (€)",
+  "language": "German",
+  "weather": {
+    "tempHighC": 25,
+    "tempLowC": 14,
+    "description": "Warm summer with Alpine thunderstorms possible",
+    "icon": "⛅"
+  },
+  "quickFacts": [
+    "Munich's beer gardens legally seat over 100,000 people — the city takes drinking outdoors seriously",
+    "The Eisbach wave in the English Garden is a standing river wave where surfers ride year-round",
+    "Munich is closer to the Austrian and Italian Alps than to Berlin"
+  ],
+  "places": [
+    {
+      "name": "English Garden",
+      "image": "english-garden.jpg",
+      "caption": "Bigger than Central Park, wilder than you'd expect",
+      "description": "One of the world's largest urban parks stretches 3.7km through the city with beer gardens, nude sunbathing areas (FKK zones — very German), and the famous Eisbach surf wave where wetsuited surfers ride a standing river wave all year. Pack a picnic and get lost for a full afternoon.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=English%20Garden",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=English+Garden"
+      }
+    },
+    {
+      "name": "Marienplatz & Glockenspiel",
+      "image": "marienplatz.jpg",
+      "caption": "Munich's medieval heart and its famous clock show",
+      "description": "The Neues Rathaus (New Town Hall) dominates this central square with its Gothic facade and the mechanical Glockenspiel whose 43 bells and 32 life-size figures reenact Bavarian legends daily at 11am and noon. The view from the tower is worth the modest fee.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Marienplatz%20%26%20Glockenspiel",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Marienplatz+%26+Glockenspiel"
+      }
+    },
+    {
+      "name": "Viktualienmarkt",
+      "image": "viktualienmarkt.jpg",
+      "caption": "Munich's gourmet open-air market since 1807",
+      "description": "This beloved daily market has 140 stalls selling everything from white asparagus in spring to wild mushrooms in fall. The central beer garden under the maypole is a Munich institution — you can even bring your own food and just buy the beer. Try the Obatzda (Bavarian cheese spread) with pretzels.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Viktualienmarkt",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Viktualienmarkt"
+      }
+    },
+    {
+      "name": "Nymphenburg Palace",
+      "image": "nymphenburg-palace.jpg",
+      "caption": "Baroque grandeur with a park rivaling Versailles",
+      "description": "This enormous Baroque summer palace of Bavarian royalty has parklands stretching 200 hectares with canals, follies, and hidden pavilions. The Gallery of Beauties — 36 portraits of the most beautiful women of 1830s Munich — is delightfully eccentric. The café serves excellent cake.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Nymphenburg%20Palace",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Nymphenburg+Palace"
+      }
+    },
+    {
+      "name": "Hofbräuhaus",
+      "image": "hofbrauhaus.jpg",
+      "caption": "The world's most famous beer hall",
+      "description": "Founded in 1589 as the royal brewery, the Hofbräuhaus is a must-visit tourist trap that's actually worth the visit. The oompah band, one-liter Mass steins, and communal tables full of strangers are genuinely fun. Go for lunch to avoid the rowdiest evening crowds.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Hofbr%C3%A4uhaus",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Hofbr%C3%A4uhaus"
+      }
+    },
+    {
+      "name": "Eisbach Surfing Wave",
+      "image": "eisbach-wave.jpg",
+      "caption": "Urban river surfing in the middle of Munich",
+      "description": "At the southern entrance of the English Garden, a standing wave on the Eisbach river creates a permanent surf break. Skilled locals drop in for quick rides all year round — even in snow. It's mesmerizing to watch, and the surrounding area is prime Munich chilling territory.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Eisbach%20Surfing%20Wave",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Eisbach+Surfing+Wave"
+      }
+    },
+    {
+      "name": "Alte Pinakothek",
+      "image": "alte-pinakothek.jpg",
+      "caption": "Old Masters in one of Europe's oldest galleries",
+      "description": "This 1836 gallery holds an extraordinary collection of European paintings from the 14th to 18th centuries — Dürer's Self-Portrait, Rubens' massive canvases, and Da Vinci's Madonna. Entry is just €1 on Sundays, making it one of Europe's best museum bargains.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Alte%20Pinakothek",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Alte+Pinakothek"
+      }
+    },
+    {
+      "name": "Olympiapark",
+      "image": "olympiapark.jpg",
+      "caption": "1972 Olympic grounds turned cultural playground",
+      "description": "The swooping tent-roof structures from the 1972 Olympics are still architecturally stunning. In summer, the park hosts open-air concerts, a flea market, and you can walk across the roof on a guided tour. The Olympic Tower observation deck gives a panorama stretching to the Alps on clear days.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Olympiapark",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Olympiapark"
+      }
+    },
+    {
+      "name": "Asam Church (Asamkirche)",
+      "image": "asamkirche.jpg",
+      "caption": "The most over-the-top Baroque interior in Munich",
+      "description": "The Asam brothers built this tiny private church in the 1730s and went completely wild — every centimeter is covered in gold leaf, frescoes, and twisted marble columns. It's only 8 meters wide but packs more visual intensity per square meter than any building in the city.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Asam%20Church%20%28Asamkirche%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Asam+Church+%28Asamkirche%29"
+      }
+    },
+    {
+      "name": "Giesing & Haidhausen",
+      "image": "giesing-haidhausen.jpg",
+      "caption": "Munich's less polished, more interesting east side",
+      "description": "These former working-class neighborhoods on the Isar river are where locals go when they want authenticity over polish. French Quarter-style streets in Haidhausen, craft beer at Giesinger Bräu taproom, and the riverside Flaucher gravel beach — Munich's favorite summer hangout.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Giesing%20%26%20Haidhausen",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Giesing+%26+Haidhausen"
+      }
+    },
+    {
+      "name": "BMW World & Museum",
+      "image": "bmw-welt.jpg",
+      "caption": "Car culture",
+      "description": "Futuristic showroom, factory tours and a museum tracing BMW's 100+ year history. Free entry to BMW Welt. Motorcycle collection too.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=BMW%20World%20%26%20Museum"
+      }
+    },
+    {
+      "name": "Residenz",
+      "image": "residenz.jpg",
+      "caption": "Royal palace",
+      "description": "Largest city palace in Germany. 130 rooms including the Antiquarium (longest Renaissance hall north of the Alps). Treasury and theatre.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Residenz"
+      }
+    },
+    {
+      "name": "Eisbach Wave",
+      "image": "eisbach.jpg",
+      "caption": "Urban river surfing",
+      "description": "Standing wave on the Eisbach stream where surfers ride year-round, even in snow. Watch from the bridge. Uniquely Munich.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Eisbach%20Wave",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=eisbach%20wave%20munich"
+      }
+    },
+    {
+      "name": "Dachau Memorial",
+      "image": "dachau.jpg",
+      "caption": "Concentration camp memorial",
+      "description": "30 min from Munich centre. Free entry. Audio guide recommended. A sombre and essential visit. Open daily except Mondays.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Dachau%20Memorial"
+      }
+    }
+  ],
+  "foodScene": "Munich takes food as seriously as it takes beer. A Weisswurst breakfast (white veal sausage, sweet mustard, and a pretzel, with a Weissbier before noon) is a sacred tradition — Schneider Bräuhaus does it best. For Schweinshaxe (crackling pork knuckle), Augustiner Keller serves a legendary one alongside their own unfiltered lager from wooden barrels. Pretzels here are an art form — soft, salty, and the size of your head. The beer gardens are the real dining scene: bring your own food to the Augustiner Keller or Chinesischer Turm and just buy the Mass (one-liter stein). Beyond Bavarian classics, Schmalznudel at Viktualienmarkt fries fresh doughnuts to order, and Türkenstraße in Maxvorstadt has excellent Middle Eastern food. Munich's craft beer scene is booming at Crew Republic taproom and Giesinger Bräu.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Munich%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=munich+travel"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "city": "Milan",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "language": "Italian",
+  "weather": {
+    "tempHighC": 31,
+    "tempLowC": 20,
+    "description": "Hot and humid summer with occasional thunderstorms",
+    "icon": "🌤️"
+  },
+  "quickFacts": [
+    "Milan is Italy's fashion and design capital — Fashion Week here sets global trends",
+    "The Last Supper is painted on a convent wall, not a canvas — and only 25 people can view it at a time",
+    "Milan's aperitivo culture means buying one drink and getting a full buffet spread for free"
+  ],
+  "places": [
+    {
+      "name": "Duomo di Milano",
+      "image": "duomo-di-milano.jpg",
+      "caption": "500 years of Gothic ambition in pink marble",
+      "description": "Italy's largest cathedral took nearly six centuries to complete, and every spire and flying buttress is pure drama. Pay the extra for rooftop access — walking among 135 marble spires with the Alps on the horizon is one of the great European experiences. Go at sunset for the golden light.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Duomo%20di%20Milano",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Duomo+di+Milano"
+      }
+    },
+    {
+      "name": "Navigli District",
+      "image": "navigli.jpg",
+      "caption": "Milan's canal-side aperitivo scene",
+      "description": "The Naviglio Grande canal, once used to transport marble for the Duomo, is now Milan's most atmospheric eating-and-drinking strip. Every evening, the canalside bars set up aperitivo buffets with your spritz. The antique market on the last Sunday of the month draws huge crowds.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Navigli%20District",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Navigli+District"
+      }
+    },
+    {
+      "name": "Galleria Vittorio Emanuele II",
+      "image": "galleria-vittorio-emanuele.jpg",
+      "caption": "The world's oldest shopping mall, and still the most beautiful",
+      "description": "This 1877 iron-and-glass arcade connecting the Duomo to La Scala is essentially a cathedral to shopping. The mosaic floors, frescoed ceilings, and luxury boutiques are jaw-dropping. Spin on the bull mosaic's, well, anatomy for good luck — the floor is worn down from millions of heels.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Galleria%20Vittorio%20Emanuele%20II",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Galleria+Vittorio+Emanuele+II"
+      }
+    },
+    {
+      "name": "Brera District",
+      "image": "brera.jpg",
+      "caption": "Milan's artistic soul and best people-watching",
+      "description": "Cobblestoned streets lined with galleries, design studios, and ivy-draped balconies make Brera feel like a different city from the rest of corporate Milan. The Pinacoteca di Brera houses Raphael's Marriage of the Virgin. Grab gelato at the original Marchesi 1824 pastry shop.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Brera%20District",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Brera+District"
+      }
+    },
+    {
+      "name": "Santa Maria delle Grazie (The Last Supper)",
+      "image": "last-supper.jpg",
+      "caption": "Da Vinci's masterpiece, timed to 15 fragile minutes",
+      "description": "Leonardo's The Last Supper is painted on the refectory wall of this Renaissance church, and you get exactly 15 minutes in a group of 25. Book months ahead — tickets sell out absurdly fast. The painting is haunting, fragile, and far more emotionally powerful than any reproduction suggests.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Santa%20Maria%20delle%20Grazie%20%28The%20Last%20Supper%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Santa+Maria+delle+Grazie+%28The+Last+Supper%29"
+      }
+    },
+    {
+      "name": "Cimitero Monumentale",
+      "image": "cimitero-monumentale.jpg",
+      "caption": "An open-air museum of funerary sculpture",
+      "description": "Milan's grand cemetery is an astonishing outdoor gallery of Art Nouveau, Neo-Gothic, and Greek Revival tombs. Industrial dynasties and opera legends are memorialized in marble towers, bronze angels, and entire miniature temples. It's free, uncrowded, and strangely beautiful.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cimitero%20Monumentale",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Cimitero+Monumentale"
+      }
+    },
+    {
+      "name": "Fondazione Prada",
+      "image": "fondazione-prada.jpg",
+      "caption": "A gin distillery turned contemporary art campus",
+      "description": "Rem Koolhaas transformed a 1910 gin distillery into one of Europe's most exciting contemporary art spaces. The gold-clad 'Haunted House' tower and Wes Anderson–designed Bar Luce are worth the visit alone. Exhibitions rotate and are reliably ambitious.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Fondazione%20Prada",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Fondazione+Prada"
+      }
+    },
+    {
+      "name": "Parco Sempione",
+      "image": "parco-sempione.jpg",
+      "caption": "Green escape behind a medieval castle",
+      "description": "Stretching behind the massive Castello Sforzesco, this English-style park is where Milan goes to jog, nap, and escape the city heat. The Arco della Pace at the far end frames a postcard view, and the Triennale design museum on the park's edge is a must for design nerds.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Parco%20Sempione",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Parco+Sempione"
+      }
+    },
+    {
+      "name": "Isola District",
+      "image": "isola.jpg",
+      "caption": "Milan's up-and-coming neighborhood that's already arrived",
+      "description": "Isola ('island') was literally cut off by railway lines for decades, which let it develop its own gritty, creative identity. Now it's home to the Bosco Verticale (Vertical Forest) towers, great street art, natural-wine bars, and some of Milan's best new restaurants.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Isola%20District",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Isola+District"
+      }
+    },
+    {
+      "name": "Colonne di San Lorenzo",
+      "image": "colonne-di-san-lorenzo.jpg",
+      "caption": "Roman columns and Milan's favorite pre-game piazza",
+      "description": "These 16 Roman columns from the 2nd century AD stand in front of the Basilica of San Lorenzo, and the surrounding piazza has become Milan's ultimate pre-dinner gathering spot. On warm evenings, hundreds of students and locals sit on the steps with spritz in hand.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Colonne%20di%20San%20Lorenzo",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Colonne+di+San+Lorenzo"
+      }
+    },
+    {
+      "name": "The Last Supper",
+      "image": "last-supper.jpg",
+      "caption": "Da Vinci's masterpiece",
+      "description": "Leonardo's fresco at Santa Maria delle Grazie. Only 25 visitors every 15 minutes — book 2-3 months ahead.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=The%20Last%20Supper",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=last%20supper%20milan"
+      }
+    },
+    {
+      "name": "Castello Sforzesco",
+      "image": "castello-sforzesco.jpg",
+      "caption": "Renaissance fortress",
+      "description": "15th-century castle housing Michelangelo's unfinished Pietà Rondanini. Free museums on the first Sunday of every month.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Castello%20Sforzesco"
+      }
+    },
+    {
+      "name": "San Siro Stadium",
+      "image": "san-siro.jpg",
+      "caption": "Football temple",
+      "description": "Shared home of AC Milan and Inter. Museum and guided tour including pitch view. Electrifying on match days.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=San%20Siro%20Stadium",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=san%20siro%20milan"
+      }
+    },
+    {
+      "name": "10 Corso Como",
+      "image": "corso-como.jpg",
+      "caption": "Concept store",
+      "description": "Pioneer of the concept store — fashion, books, art gallery and rooftop café in one. A design destination since 1990.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=10%20Corso%20Como",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=10%20corso%20como%20milan"
+      }
+    }
+  ],
+  "foodScene": "Milan's food identity goes far beyond risotto alla Milanese — although the saffron-gold, bone-marrow-enriched version at Ratanà or Trattoria Masuelli is still essential. Cotoletta alla Milanese (a massive breaded veal cutlet) at Trattoria del Nuovo Macello is a rite of passage. Aperitivo culture is sacred here — order a Negroni or Aperol Spritz at any Navigli bar between 6-9pm and you'll get a full buffet of pasta, bruschetta, and salads included. For panzerotti (fried stuffed dough pockets), the queue at Luini near the Duomo has been constant since 1888. Gelato at Pavé in Porta Venezia uses seasonal ingredients that change weekly. The Mercato Comunale in Via Fauchè is a local's market with zero tourists and incredible produce.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Milan%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=milan+travel"
+  }
+}

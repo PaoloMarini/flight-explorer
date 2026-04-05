@@ -1,0 +1,183 @@
+{
+  "city": "Naples",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "language": "Italian",
+  "weather": {
+    "tempHighC": 31,
+    "tempLowC": 22,
+    "description": "Hot Mediterranean summer with intense coastal sun",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Naples invented pizza — and the original Margherita from 1889 came from Pizzeria Brandi",
+    "The centro storico (historic center) is the largest in Europe and a UNESCO World Heritage Site",
+    "Vesuvius looms over the city, and the buried ruins of Pompeii are a 30-minute train ride away"
+  ],
+  "places": [
+    {
+      "name": "Spaccanapoli",
+      "image": "spaccanapoli.jpg",
+      "caption": "The street that splits Naples in half",
+      "description": "This ramrod-straight ancient Greek street (originally Decumano Inferiore) slices through the historic center like a knife. Laundry hangs overhead, Vespas weave through pedestrians, and every side alley reveals a hidden church, a shrine, or a nonna selling lemon granita. It's beautiful chaos.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Spaccanapoli",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Spaccanapoli"
+      }
+    },
+    {
+      "name": "Naples Underground (Napoli Sotterranea)",
+      "image": "napoli-sotterranea.jpg",
+      "caption": "2,400 years of tunnels beneath the streets",
+      "description": "Forty meters below the chaotic streets lies an ancient city of Greek-Roman aqueducts, WWII bomb shelters, and hidden theatres carved from tufa stone. The guided tour through narrow candlelit tunnels is claustrophobic and fascinating. Enter through a nondescript door in the centro storico.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Naples%20Underground%20%28Napoli%20Sotterranea%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Naples+Underground+%28Napoli+Sotterranea%29"
+      }
+    },
+    {
+      "name": "Castel dell'Ovo",
+      "image": "castel-dellovo.jpg",
+      "caption": "Naples' oldest castle on a tiny sea island",
+      "description": "This medieval fortress on the Borgo Marinari islet is where Naples basically began — legend says the poet Virgil placed a magical egg in its foundations, and the city would fall if it broke. The free rooftop terrace has sweeping views of the bay and Vesuvius.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Castel%20dell%27Ovo",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Castel+dell%27Ovo"
+      }
+    },
+    {
+      "name": "San Gregorio Armeno",
+      "image": "san-gregorio-armeno.jpg",
+      "caption": "The street of a thousand nativity scenes",
+      "description": "This narrow street is the world headquarters of presepe (nativity scene) culture, with workshops producing hand-crafted figurines year-round — not just saints, but caricatures of celebrities and footballers. Even if you're not buying, the artisanship is incredible to watch.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=San%20Gregorio%20Armeno",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=San+Gregorio+Armeno"
+      }
+    },
+    {
+      "name": "Museo Archeologico Nazionale",
+      "image": "museo-archeologico.jpg",
+      "caption": "Pompeii's greatest treasures live here",
+      "description": "The National Archaeological Museum holds the world's most important collection of Greco-Roman artifacts, including the stunning mosaics and frescoes recovered from Pompeii and Herculaneum. The Secret Cabinet of erotic Roman art caused scandals for centuries. Allow at least 3 hours.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Museo%20Archeologico%20Nazionale",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Museo+Archeologico+Nazionale"
+      }
+    },
+    {
+      "name": "Quartieri Spagnoli",
+      "image": "quartieri-spagnoli.jpg",
+      "caption": "Naples at its most raw and authentic",
+      "description": "The Spanish Quarters are a tight grid of narrow streets built in the 16th century for Spanish soldiers, now pulsing with street life, murals of Maradona (he's basically a saint here), and some of the best street food in the city. It's intense, loud, and unapologetically Neapolitan.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Quartieri%20Spagnoli",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Quartieri+Spagnoli"
+      }
+    },
+    {
+      "name": "Piazza del Plebiscito",
+      "image": "piazza-del-plebiscito.jpg",
+      "caption": "Naples' grandest square with a royal palace backdrop",
+      "description": "This sweeping neoclassical piazza fronted by the Royal Palace and the colonnaded San Francesco di Paola church is one of Italy's largest and most elegant squares. It was a parking lot until the 1990s — now it's beautifully car-free and hosts concerts and gatherings.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Piazza%20del%20Plebiscito",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Piazza+del+Plebiscito"
+      }
+    },
+    {
+      "name": "Lungomare (Waterfront Promenade)",
+      "image": "lungomare.jpg",
+      "caption": "The most dramatic seaside walk in Italy",
+      "description": "The 2.5km promenade from Castel dell'Ovo to Mergellina with Vesuvius framed perfectly across the bay is one of Italy's great urban walks. Join the evening passeggiata when all of Naples strolls, eats gelato, and argues passionately about Napoli football.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Lungomare%20%28Waterfront%20Promenade%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Lungomare+%28Waterfront+Promenade%29"
+      }
+    },
+    {
+      "name": "Cappella Sansevero",
+      "image": "cappella-sansevero.jpg",
+      "caption": "A small chapel housing an impossible marble sculpture",
+      "description": "The Veiled Christ (Cristo Velato) in this tiny chapel is so astonishingly lifelike — carved from a single block of marble — that legends claim it was created by alchemy. The entire chapel is covered in extraordinary sculptures and esoteric symbolism. Book online to avoid the queue.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cappella%20Sansevero",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Cappella+Sansevero"
+      }
+    },
+    {
+      "name": "Posillipo (Parco Virgiliano)",
+      "image": "posillipo.jpg",
+      "caption": "Where Naples goes for its finest sunset",
+      "description": "The Posillipo hill neighborhood has a park named after Virgil with panoramic views over the Bay of Naples, Capri, and the Phlegraean Fields that will make you understand why Roman emperors built villas here. The winding Via Posillipo road is lined with crumbling villas and sea-view restaurants.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Posillipo%20%28Parco%20Virgiliano%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Posillipo+%28Parco+Virgiliano%29"
+      }
+    },
+    {
+      "name": "Pompeii",
+      "image": "pompeii.jpg",
+      "caption": "Frozen in time",
+      "description": "Roman city buried by Vesuvius in 79 AD. 30 min by train. Allow 3-4 hours minimum. Guidebook or audio guide essential.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Pompeii",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=pompeii%20italy"
+      }
+    },
+    {
+      "name": "Amalfi Coast Day Trip",
+      "image": "amalfi.jpg",
+      "caption": "Coastal paradise",
+      "description": "SITA bus from Naples to Positano, Amalfi and Ravello. Hairpin bends, cliff-hanging villages and lemon groves.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Amalfi%20Coast%20Day%20Trip",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=amalfi%20coast"
+      }
+    },
+    {
+      "name": "Naples Pizza Trail",
+      "image": "pizza-trail.jpg",
+      "caption": "Birthplace of pizza",
+      "description": "L'Antica Pizzeria da Michele, Sorbillo, Di Matteo — queue for the real thing. Margherita was invented here in 1889.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Naples%20Pizza%20Trail"
+      }
+    },
+    {
+      "name": "Mount Vesuvius",
+      "image": "vesuvius.jpg",
+      "caption": "Active volcano hike",
+      "description": "Hike to the crater rim (1,281m) for Bay of Naples views. 30 min from city by Circumvesuviana train + shuttle bus.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mount%20Vesuvius",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=mount%20vesuvius"
+      }
+    },
+    {
+      "name": "Naples National Archaeological Museum",
+      "image": "archaeological-museum.jpg",
+      "caption": "Pompeii treasures",
+      "description": "One of the world's most important museums of classical antiquities. Pompeii mosaics, Farnese collection, Secret Cabinet.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Naples%20National%20Archaeological%20Museum"
+      }
+    },
+    {
+      "name": "Procida Island",
+      "image": "procida.jpg",
+      "caption": "Pastel fishing island",
+      "description": "Tiny island of colourful houses — Italian Capital of Culture 2022. Less touristy than Capri. 1 hour by ferry.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Procida%20Island",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=procida%20island"
+      }
+    }
+  ],
+  "foodScene": "Naples isn't just where pizza was born — it's where pizza exists in its purest form. L'Antica Pizzeria Da Michele (yes, the Eat Pray Love one) only makes two types: Margherita and Marinara, and the queue is long because they're perfect. Sorbillo on Via dei Tribunali is the other heavyweight. Beyond pizza, friggitoria (fried-food shops) serve cuoppo — paper cones stuffed with fried seafood, arancini, and crocchè (potato croquettes). Sfogliatella, the shell-shaped pastry with ricotta filling, is best at Pintauro on Via Toledo (open since 1785). Ragù Napoletano — a slow-cooked Sunday tomato-and-meat sauce served over pasta — is religion here. The coffee culture is fierce: always espresso, always at the bar, always scalding hot. Caffè Gambrinus on the piazza has been serving since 1860.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Naples%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=naples+travel"
+  }
+}
