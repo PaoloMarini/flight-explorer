@@ -1,0 +1,191 @@
+{
+  "city": "Catania",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "currency": "EUR (€)",
+  "language": "Italian",
+  "weather": {
+    "tempHighC": 33,
+    "tempLowC": 23,
+    "description": "Hot and dry",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Built from black lava stone after Mt Etna destroyed the city in 1669",
+    "La Pescheria fish market is one of the most theatrical in the Mediterranean",
+    "Catania has been destroyed by eruptions and earthquakes 7 times — and rebuilt each time"
+  ],
+  "places": [
+    {
+      "name": "La Pescheria (Fish Market)",
+      "image": "la-pescheria.jpg",
+      "caption": "Sicily's most dramatic fish market",
+      "description": "A raucous, bloody, beautiful open-air fish market that's been running for centuries beneath the city streets. Swordfish halves, crates of sea urchins, octopus, and shouting fishmongers create a sensory overload. Go early (before 1pm) and stay for the cheap seafood lunches at the surrounding trattorias.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=La%20Pescheria%20%28Fish%20Market%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=La+Pescheria+%28Fish+Market%29"
+      }
+    },
+    {
+      "name": "Piazza del Duomo & Fontana dell'Elefante",
+      "image": "piazza-del-duomo.jpg",
+      "caption": "Catania's baroque heart",
+      "description": "The grand main square features the quirky Elephant Fountain — a lava-stone elephant carrying an Egyptian obelisk — Catania's beloved symbol. The surrounding Baroque buildings, all rebuilt after the 1693 earthquake, include the striking Cathedral of Sant'Agata with its columned facade.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Piazza%20del%20Duomo%20%26%20Fontana%20dell%27Elefante",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Piazza+del+Duomo+%26+Fontana+dell%27Elefante"
+      }
+    },
+    {
+      "name": "Mount Etna",
+      "image": "mount-etna.jpg",
+      "caption": "Europe's tallest and most active volcano",
+      "description": "The smoking, snow-capped 3,329m volcano looms over Catania and is unmissable. Take the cable car and 4x4 to the summit craters, hike through old lava flows, or explore the Silvestri Craters on the south side. Etna is also a wine region — the volcanic soils produce incredible Nerello Mascalese reds.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mount%20Etna",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Mount+Etna"
+      }
+    },
+    {
+      "name": "Via Etnea",
+      "image": "via-etnea.jpg",
+      "caption": "Catania's main boulevard pointing straight at the volcano",
+      "description": "This long, straight boulevard runs from Piazza del Duomo directly toward Etna, framing the volcano at its end. Lined with Baroque palazzi, shops, cafes, and the beautiful Villa Bellini park, it's the spine of Catania's daily life and the evening passeggiata.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Via%20Etnea",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Via+Etnea"
+      }
+    },
+    {
+      "name": "Monastero dei Benedettini",
+      "image": "monastero-benedettini.jpg",
+      "caption": "One of the largest Benedictine monasteries in Europe",
+      "description": "A massive monastery complex now housing Catania's university, with cloisters built over Roman ruins, a church with an 18th-century organ, and a beautiful terraced garden. The guided tour reveals layers of history from Roman baths to WWII bomb damage. An underrated highlight.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Monastero%20dei%20Benedettini",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Monastero+dei+Benedettini"
+      }
+    },
+    {
+      "name": "Roman Theatre & Odeon",
+      "image": "roman-theatre.jpg",
+      "caption": "Ancient ruins hidden in the modern city",
+      "description": "A 2nd-century Roman theatre seated 7,000 spectators, now sitting surreally amid apartment buildings that were literally built on top of it. The adjacent smaller Odeon was used for musical performances. It's a striking example of how Catania's history sits in layers.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Roman%20Theatre%20%26%20Odeon",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Roman+Theatre+%26+Odeon"
+      }
+    },
+    {
+      "name": "Villa Bellini",
+      "image": "villa-bellini.jpg",
+      "caption": "A lush urban park with volcanic views",
+      "description": "Catania's most beautiful park, named after the local composer Vincenzo Bellini. Manicured gardens, exotic plants, a decorative clock made of flowers, and shaded paths lead to hilltop viewpoints with Etna looming above. A perfect retreat from the midday heat.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Villa%20Bellini",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Villa+Bellini"
+      }
+    },
+    {
+      "name": "Castello Ursino",
+      "image": "castello-ursino.jpg",
+      "caption": "A fortress that survived lava flows",
+      "description": "Built by Frederick II in the 13th century as a coastal fortress, the 1669 Etna eruption sent lava flows around it, filling the moat and pushing the coastline hundreds of meters away. Now an art museum, the castle's dark volcanic stone interiors and the story of its survival are fascinating.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Castello%20Ursino",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Castello+Ursino"
+      }
+    },
+    {
+      "name": "San Giovanni Li Cuti",
+      "image": "san-giovanni-li-cuti.jpg",
+      "caption": "A black volcanic beach in the city",
+      "description": "A small beach of jet-black lava rock on Catania's waterfront, backed by a tiny fishing village of colorful boats. The dark sand and rocks against the turquoise water create an otherworldly contrast. The surrounding bars come alive for sundowners.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=San%20Giovanni%20Li%20Cuti",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=San+Giovanni+Li+Cuti"
+      }
+    },
+    {
+      "name": "Via Crociferi",
+      "image": "via-crociferi.jpg",
+      "caption": "Catania's most beautiful Baroque street",
+      "description": "A short street packed with four churches, convents, and Baroque palazzi — more ecclesiastical architecture per meter than almost anywhere in Sicily. The arch of San Benedetto connecting two buildings over the street is especially photogenic. Best explored in the quiet of early morning.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Via%20Crociferi",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Via+Crociferi"
+      }
+    },
+    {
+      "name": "Piazza del Duomo & Elephant Fountain",
+      "image": "piazza-duomo.jpg",
+      "caption": "City centrepiece",
+      "description": "Baroque square with the Liotru — a lava-stone elephant carrying an Egyptian obelisk. Catania's symbol since 1736.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Piazza%20del%20Duomo%20%26%20Elephant%20Fountain",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=piazza%20duomo%20catania"
+      }
+    },
+    {
+      "name": "Fish Market (La Pescheria)",
+      "image": "pescheria.jpg",
+      "caption": "Chaotic market energy",
+      "description": "Historic open-air fish market under the city streets. Swordfish, octopus, theatre-like atmosphere. Best early morning.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Fish%20Market%20%28La%20Pescheria%29"
+      }
+    },
+    {
+      "name": "Roman Theatre (Teatro Antico)",
+      "image": "teatro-antico.jpg",
+      "caption": "Ancient ruins",
+      "description": "2nd-century Roman theatre seating 7,000, hidden among the city blocks. Adjoining Odeon for smaller performances.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Roman%20Theatre%20%28Teatro%20Antico%29"
+      }
+    },
+    {
+      "name": "Ursino Castle (Castello Ursino)",
+      "image": "castello-ursino.jpg",
+      "caption": "Frederick II fortress",
+      "description": "13th-century Swabian castle now housing the civic museum. Once on the seafront — lava flows pushed the coast away.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Ursino%20Castle%20%28Castello%20Ursino%29"
+      }
+    },
+    {
+      "name": "Aci Trezza",
+      "image": "aci-trezza.jpg",
+      "caption": "Cyclops Riviera",
+      "description": "Fishing village with the Faraglioni rocks Odysseus supposedly threw at the Cyclops. Excellent seafood. 20 min by bus.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Aci%20Trezza",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=aci%20trezza"
+      }
+    },
+    {
+      "name": "San Giovanni li Cuti Beach",
+      "image": "san-giovanni-beach.jpg",
+      "caption": "Black lava beach",
+      "description": "Volcanic black-rock beach right in the city. Popular with locals for evening swims and aperitivo at seaside bars.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=San%20Giovanni%20li%20Cuti%20Beach"
+      }
+    },
+    {
+      "name": "Taormina Day Trip",
+      "image": "taormina.jpg",
+      "caption": "Hilltop gem",
+      "description": "1 hour north — ancient Greek theatre with Etna views, Corso Umberto shopping, Isola Bella beach. Sicily's most famous town.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Taormina%20Day%20Trip",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=taormina%20sicily"
+      }
+    }
+  ],
+  "foodScene": "Catania's food is bold, volcanic Sicilian cooking at its best. Start with arancini (fried rice balls) — Catania's are cone-shaped (never round like Palermo's) and the classic filling is ragù. The best are at Savia on Via Etnea or Spinella near the cathedral. The Pescheria fish market area hides incredible cheap seafood trattorias: try Osteria Antica Marina for raw red prawns, sea urchin pasta, and fried mixed seafood. Horse meat is a surprising local specialty — try it as a sandwich (panino con carne di cavallo) from the street stands along Via Plebiscito. For dessert, granita con brioche is the Catanese breakfast of champions — frozen fruit slush (try mulberry or pistachio) with a fluffy bread roll. Pasta alla Norma (with eggplant, tomato, ricotta salata, and basil) was invented here and named after Bellini's opera. Wash it all down with Etna wines — the volcanic reds are exceptional.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Catania%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=catania+travel"
+  }
+}

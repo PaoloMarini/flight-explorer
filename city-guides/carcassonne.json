@@ -1,0 +1,153 @@
+{
+  "city": "Carcassonne",
+  "country": "France",
+  "flag": "🇫🇷",
+  "currency": "EUR (€)",
+  "language": "French",
+  "weather": {
+    "tempHighC": 31,
+    "tempLowC": 18,
+    "description": "Hot and sunny",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "The Cité's double ring of walls has 52 towers — the largest fortified city in Europe",
+    "Inspired the famous board game of the same name",
+    "The medieval fortress was nearly demolished in the 1800s before being saved and restored"
+  ],
+  "places": [
+    {
+      "name": "La Cité Médiévale",
+      "image": "cite-medievale.jpg",
+      "caption": "Europe's largest medieval fortress city",
+      "description": "The UNESCO-listed walled city is a jaw-dropping double ring of ramparts, 52 towers, and cobblestone streets that look straight out of a fantasy movie. Walk the ramparts for panoramic views, explore the inner streets, and try to visit at dawn or dusk when the tour groups thin out.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=La%20Cit%C3%A9%20M%C3%A9di%C3%A9vale",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=La+Cit%C3%A9+M%C3%A9di%C3%A9vale"
+      }
+    },
+    {
+      "name": "Château Comtal",
+      "image": "chateau-comtal.jpg",
+      "caption": "The fortress within the fortress",
+      "description": "This 12th-century castle inside the Cité has its own moat and drawbridge. The guided tour takes you through the inner ramparts and watchtowers with superb views over the countryside. The archaeological exhibits and medieval artifacts inside add context to the spectacle.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Ch%C3%A2teau%20Comtal",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Ch%C3%A2teau+Comtal"
+      }
+    },
+    {
+      "name": "Basilique Saint-Nazaire",
+      "image": "basilique-saint-nazaire.jpg",
+      "caption": "Gothic stained glass in a Romanesque shell",
+      "description": "Tucked inside the Cité, this basilica combines a Romanesque nave with spectacular Gothic transepts and some of the finest stained glass windows in southern France. The contrast between the austere stone walls and the kaleidoscopic windows is breathtaking.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Basilique%20Saint-Nazaire",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Basilique+Saint-Nazaire"
+      }
+    },
+    {
+      "name": "Pont Vieux",
+      "image": "pont-vieux.jpg",
+      "caption": "The classic Carcassonne viewpoint",
+      "description": "This 14th-century stone bridge crossing the Aude river provides the definitive postcard view of the Cité — all towers and walls rising above the river. It connects the fortified city to the Bastide Saint-Louis (the lower town). Walk it at sunset for golden light on the ramparts.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Pont%20Vieux",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Pont+Vieux"
+      }
+    },
+    {
+      "name": "Bastide Saint-Louis (Ville Basse)",
+      "image": "bastide-saint-louis.jpg",
+      "caption": "The lively lower town the tourists miss",
+      "description": "While everyone heads to the Cité, the lower town has its own charm: a grid of 13th-century streets around Place Carnot with a Saturday morning market, local wine bars, and far fewer crowds. The real Carcassonne life happens here — locals shopping, café terraces buzzing, and boulangeries scenting the air.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bastide%20Saint-Louis%20%28Ville%20Basse%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Bastide+Saint-Louis+%28Ville+Basse%29"
+      }
+    },
+    {
+      "name": "Canal du Midi",
+      "image": "canal-du-midi.jpg",
+      "caption": "A UNESCO-listed waterway at the city's doorstep",
+      "description": "This 17th-century engineering marvel passes right through Carcassonne on its way from the Atlantic to the Mediterranean. Rent a barge for a few hours, cycle the towpath under plane trees, or just stroll along and watch the boats navigate the locks. The Gare area is a great access point.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Canal%20du%20Midi",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Canal+du+Midi"
+      }
+    },
+    {
+      "name": "Lac de la Cavayère",
+      "image": "lac-de-la-cavayere.jpg",
+      "caption": "Cool off at the city's lakeside retreat",
+      "description": "A beautiful lake just 15 minutes from the city center, surrounded by pine forest with sandy beaches, swimming areas, water sports, and hiking trails. In July, the Festival de Carcassonne sometimes hosts concerts lakeside. A perfect escape from the midday heat.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Lac%20de%20la%20Cavay%C3%A8re",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Lac+de+la+Cavay%C3%A8re"
+      }
+    },
+    {
+      "name": "Musée de l'Inquisition",
+      "image": "musee-inquisition.jpg",
+      "caption": "The dark side of medieval history",
+      "description": "A small but intense museum inside the Cité documenting the Cathar Inquisition and medieval torture methods. The collection of torture instruments is both horrifying and fascinating, offering context to the brutal religious wars that shaped this region. Not for the faint-hearted.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Mus%C3%A9e%20de%20l%27Inquisition",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Mus%C3%A9e+de+l%27Inquisition"
+      }
+    },
+    {
+      "name": "Porte Narbonnaise",
+      "image": "porte-narbonnaise.jpg",
+      "caption": "The dramatic main gate of the Cité",
+      "description": "The imposing twin-towered main entrance to the fortified city, built to be essentially impregnable. The barbican, murder holes, and portcullis mechanisms are still visible. Look for the bust of Dame Carcas above the gate — the legendary woman said to have given the city its name.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Porte%20Narbonnaise",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Porte+Narbonnaise"
+      }
+    },
+    {
+      "name": "Vineyards of Minervois & Corbières",
+      "image": "minervois-corbieres.jpg",
+      "caption": "Wine country in every direction",
+      "description": "Carcassonne sits at the crossroads of some of France's best-value wine regions. Minervois to the north and Corbières to the south produce robust, sun-drenched reds from Grenache, Syrah, and Carignan. Visit Château de Pennautier or Domaine de la Borie Blanche for tastings.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Vineyards%20of%20Minervois%20%26%20Corbi%C3%A8res",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Vineyards+of+Minervois+%26+Corbi%C3%A8res"
+      }
+    },
+    {
+      "name": "Bastide Saint-Louis",
+      "image": "bastide.jpg",
+      "caption": "Lower town",
+      "description": "The 'new' town (only 750 years old). Tree-lined squares, local markets on Tuesday/Thursday/Saturday and authentic restaurants.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bastide%20Saint-Louis"
+      }
+    },
+    {
+      "name": "Wine Tasting (Minervois)",
+      "image": "minervois.jpg",
+      "caption": "Local vineyards",
+      "description": "Carcassonne sits in Languedoc wine country. Visit nearby Minervois or Corbières vineyards for tastings of bold reds.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Wine%20Tasting%20%28Minervois%29"
+      }
+    },
+    {
+      "name": "Cathar Castles Day Trip",
+      "image": "cathar-castles.jpg",
+      "caption": "Mountain fortresses",
+      "description": "Dramatic ruined castles on mountain peaks — Peyrepertuse, Quéribus, Lastours. Cathar history and spectacular hiking.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cathar%20Castles%20Day%20Trip",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=cathar%20castles"
+      }
+    }
+  ],
+  "foodScene": "Carcassonne's cuisine is hearty Languedoc comfort food, built for fueling knights and fortifying castle defenders. The signature dish is cassoulet — a slow-cooked casserole of white beans, duck confit, Toulouse sausage, and pork, baked until a golden crust forms on top. The definitive version is at Le Jardin de la Tour inside the Cité, or Comte Roger for a more refined take. Beyond cassoulet, try duck magret (breast seared like steak) and foie gras — this is duck country. The Bastide Saint-Louis has better value restaurants than the tourist-heavy Cité: La Table d'Alaïs does excellent modern Occitan cuisine. Saturday morning at Place Carnot's market is a feast of regional cheese, olives, saucisson, and honey from the Corbières hills. Pair everything with wines from the surrounding Languedoc appellations — they're outstanding and a fraction of Bordeaux or Burgundy prices.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Carcassonne%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=carcassonne+travel"
+  }
+}

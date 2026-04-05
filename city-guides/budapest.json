@@ -1,0 +1,182 @@
+{
+  "city": "Budapest",
+  "country": "Hungary",
+  "flag": "🇭🇺",
+  "currency": "HUF (Ft)",
+  "language": "Hungarian",
+  "weather": {
+    "tempHighC": 30,
+    "tempLowC": 19,
+    "description": "Hot and sunny",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "Budapest has the most thermal springs of any capital city in the world (120+)",
+    "The city was formed in 1873 by merging Buda, Pest, and Óbuda",
+    "The Budapest Parliament is the third largest parliament building on Earth"
+  ],
+  "places": [
+    {
+      "name": "Széchenyi Thermal Bath",
+      "image": "szechenyi-baths.jpg",
+      "caption": "Soak in a neo-Baroque palace",
+      "description": "One of Europe's largest public thermal bath complexes, housed in a stunning yellow neo-Baroque building in City Park. The outdoor pools steaming in the open air are iconic Budapest. Come for a long soak, try a game of chess in the pool, and stay for the Saturday night 'sparty' (spa party) in summer.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Sz%C3%A9chenyi%20Thermal%20Bath",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Sz%C3%A9chenyi+Thermal+Bath"
+      }
+    },
+    {
+      "name": "Hungarian Parliament Building",
+      "image": "parliament.jpg",
+      "caption": "Gothic Revival grandeur on the Danube",
+      "description": "This photo-perfect neo-Gothic parliament on the Pest bank is one of Budapest's most dramatic buildings. The interior is even more lavish — gold leaf, frescoes, and the Holy Crown of Hungary. Book a guided tour in advance. The best exterior views are from the Buda side at night.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Hungarian%20Parliament%20Building",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Hungarian+Parliament+Building"
+      }
+    },
+    {
+      "name": "Fisherman's Bastion",
+      "image": "fishermans-bastion.jpg",
+      "caption": "Fairy-tale turrets with the best city views",
+      "description": "A whimsical neo-Romanesque terrace on the Buda Castle Hill with seven pointed turrets (representing the seven Magyar tribes). The views over the Danube to Parliament are spectacular. Come at sunrise to skip crowds and get the best light for photos.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Fisherman%27s%20Bastion",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Fisherman%27s+Bastion"
+      }
+    },
+    {
+      "name": "Ruin Bars of the Jewish Quarter",
+      "image": "ruin-bars.jpg",
+      "caption": "Drinking in crumbling grandeur",
+      "description": "Budapest's famous ruin bars — built in abandoned buildings and courtyards — are a nightlife phenomenon. Szimpla Kert was the original and is still the best: a labyrinth of mismatched furniture, bathtubs repurposed as seating, and cheap drinks. On Sundays, it hosts a farmer's market.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Ruin%20Bars%20of%20the%20Jewish%20Quarter",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Ruin+Bars+of+the+Jewish+Quarter"
+      }
+    },
+    {
+      "name": "Buda Castle & Castle District",
+      "image": "buda-castle.jpg",
+      "caption": "A hilltop palace overlooking the Danube",
+      "description": "The sprawling Royal Palace atop Castle Hill houses the Hungarian National Gallery and the Budapest History Museum. The surrounding Castle District is a web of cobblestone streets, medieval houses, and Matthias Church with its colorful Zsolnay tile roof. Take the funicular up from the Chain Bridge.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Buda%20Castle%20%26%20Castle%20District",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Buda+Castle+%26+Castle+District"
+      }
+    },
+    {
+      "name": "Central Market Hall (Nagy Vásárcsarnok)",
+      "image": "central-market-hall.jpg",
+      "caption": "Budapest's grand food emporium",
+      "description": "A stunning iron-and-glass market hall from 1897 where the ground floor overflows with paprika, sausages, foie gras, and langos stands. The upper floor has food stalls and souvenir shops. Get there early before the tour groups and grab a langos (deep-fried dough with sour cream and cheese).",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Central%20Market%20Hall%20%28Nagy%20V%C3%A1s%C3%A1rcsarnok%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Central+Market+Hall+%28Nagy+V%C3%A1s%C3%A1rcsarnok%29"
+      }
+    },
+    {
+      "name": "Gellért Hill & Citadella",
+      "image": "gellert-hill.jpg",
+      "caption": "Panoramic views worth the climb",
+      "description": "This steep hill on the Buda side offers the most dramatic panoramic view of Budapest — the Danube, Chain Bridge, Parliament, and the sprawling Pest skyline. The Liberty Statue at the summit and the Citadella fortress are landmarks. Walk up through the terraced gardens or stop at the Gellért Baths below.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Gell%C3%A9rt%20Hill%20%26%20Citadella",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Gell%C3%A9rt+Hill+%26+Citadella"
+      }
+    },
+    {
+      "name": "Shoes on the Danube Bank",
+      "image": "shoes-danube.jpg",
+      "caption": "A haunting memorial",
+      "description": "Sixty pairs of iron shoes line the Pest embankment, a memorial to the Jews shot into the Danube by Arrow Cross militiamen during WWII. It's deeply moving and thought-provoking — one of the most powerful public memorials in Europe. Flowers and candles are often left inside the shoes.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Shoes%20on%20the%20Danube%20Bank",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Shoes+on+the+Danube+Bank"
+      }
+    },
+    {
+      "name": "Margaret Island (Margitsziget)",
+      "image": "margaret-island.jpg",
+      "caption": "A green oasis in the middle of the Danube",
+      "description": "A 2.5 km car-free island in the Danube that functions as Budapest's biggest park. Rent a four-person pedal cart, find the musical fountain, explore medieval ruins, and in summer, swim in the Palatinus open-air water park. Perfect for escaping the city heat.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Margaret%20Island%20%28Margitsziget%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Margaret+Island+%28Margitsziget%29"
+      }
+    },
+    {
+      "name": "Andrássy Avenue & Heroes' Square",
+      "image": "andrassy-avenue.jpg",
+      "caption": "Budapest's Champs-Élysées",
+      "description": "This UNESCO-listed boulevard stretches from the city center to the grandeur of Heroes' Square and City Park. Along the way: the Hungarian State Opera (catch a cheap standing ticket for a show), designer shops, the House of Terror museum, and beautiful townhouses. The M1 metro beneath it is continental Europe's oldest.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Andr%C3%A1ssy%20Avenue%20%26%20Heroes%27%20Square",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Andr%C3%A1ssy+Avenue+%26+Heroes%27+Square"
+      }
+    },
+    {
+      "name": "Hungarian Parliament",
+      "image": "parliament.jpg",
+      "caption": "Gothic riverside icon",
+      "description": "Third-largest parliament building in the world. Stunning at night when lit up along the Danube. Guided tours available.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Hungarian%20Parliament",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=hungarian%20parliament"
+      }
+    },
+    {
+      "name": "Ruin Bars (Szimpla Kert)",
+      "image": "szimpla.jpg",
+      "caption": "Party in abandoned buildings",
+      "description": "Budapest's famous ruin bars in the Jewish Quarter. Szimpla Kert is the original — mismatched furniture, art installations, cheap drinks.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Ruin%20Bars%20%28Szimpla%20Kert%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=szimpla%20kert%20budapest"
+      }
+    },
+    {
+      "name": "Chain Bridge & Castle",
+      "image": "chain-bridge.jpg",
+      "caption": "Spanning the Danube",
+      "description": "The iconic 1849 suspension bridge linking Buda and Pest. Walk across at night for spectacular views. Buda Castle at the top.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Chain%20Bridge%20%26%20Castle",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=chain%20bridge%20budapest"
+      }
+    },
+    {
+      "name": "Central Market Hall",
+      "image": "central-market.jpg",
+      "caption": "Food market",
+      "description": "Stunning Neo-Gothic market (1897) with paprika, sausages, lángos and Hungarian wines downstairs. Souvenirs upstairs.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Central%20Market%20Hall"
+      }
+    },
+    {
+      "name": "Margaret Island",
+      "image": "margaret-island.jpg",
+      "caption": "Urban oasis",
+      "description": "2.5 km island park in the Danube. Japanese garden, musical fountain, running track and swimming pools. Car-free escape.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Margaret%20Island"
+      }
+    },
+    {
+      "name": "Thermal Beer Spa (Spa Parties)",
+      "image": "spa-party.jpg",
+      "caption": "Unique experience",
+      "description": "SPArty — Saturday night pool parties in thermal baths with DJs and lasers. Uniquely Budapest. Book ahead in summer.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Thermal%20Beer%20Spa%20%28Spa%20Parties%29"
+      }
+    }
+  ],
+  "foodScene": "Budapest's food scene is a glorious mix of hearty Hungarian tradition and a thriving modern restaurant boom. Goulash is the icon — but in Budapest it's a soup, not a stew. Try the definitive version at Kéhli Vendéglő, an old-school tavern Gyula Krúdy used to frequent. Lángos (deep-fried dough slathered with sour cream and cheese) from the Central Market Hall is essential. For fine dining, Borkonyha (a Michelin-starred wine bar-restaurant) does modern Hungarian cuisine beautifully. The Jewish quarter's ruin bar scene doubles as a food destination — Mazel Tov serves Middle Eastern-inspired dishes in a gorgeous greenhouse setting. Don't skip chimney cake (kürtőskalács) from a street vendor, or the legendary Dobos torta (layered sponge cake with caramel top) at Café Gerbeaud. For the adventurous, try töltött káposzta (stuffed cabbage) at Rosenstein near Keleti Station, widely considered Budapest's best traditional restaurant.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Budapest%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=budapest+travel"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "city": "Bordeaux",
+  "country": "France",
+  "flag": "🇫🇷",
+  "currency": "EUR (€)",
+  "language": "French",
+  "weather": {
+    "tempHighC": 28,
+    "tempLowC": 17,
+    "description": "Warm and sunny",
+    "icon": "☀️"
+  },
+  "quickFacts": [
+    "The entire city center is a UNESCO World Heritage Site",
+    "The Miroir d'eau is the world's largest reflecting pool",
+    "Over 6,000 wine-producing châteaux in the surrounding region"
+  ],
+  "places": [
+    {
+      "name": "Miroir d'eau",
+      "image": "miroir-deau.jpg",
+      "caption": "The world's largest reflecting pool",
+      "description": "A thin sheet of water on the quayside opposite Place de la Bourse creates a mesmerizing mirror effect, reflecting the 18th-century facades. Every 15 minutes it switches between mirror and mist modes. At night, the illuminated buildings reflected in the water are pure magic.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Miroir%20d%27eau",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Miroir+d%27eau"
+      }
+    },
+    {
+      "name": "Place de la Bourse",
+      "image": "place-de-la-bourse.jpg",
+      "caption": "18th-century elegance on the waterfront",
+      "description": "This perfectly symmetrical royal square facing the Garonne is Bordeaux's most photographed landmark. The harmonious golden-stone buildings, sculpted fountain of the Three Graces, and its reflection in the Miroir d'eau make it one of France's most beautiful squares.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Place%20de%20la%20Bourse",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Place+de+la+Bourse"
+      }
+    },
+    {
+      "name": "La Cité du Vin",
+      "image": "cite-du-vin.jpg",
+      "caption": "A wine theme park for grown-ups",
+      "description": "This futuristic, Guggenheim-esque museum celebrates wine culture worldwide through immersive exhibits, smell stations, and interactive displays. The ticket includes a glass of wine in the panoramic 8th-floor Belvédère bar overlooking the Garonne. Even non wine-nerds love it.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=La%20Cit%C3%A9%20du%20Vin",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=La+Cit%C3%A9+du+Vin"
+      }
+    },
+    {
+      "name": "Saint-Pierre Quarter",
+      "image": "saint-pierre.jpg",
+      "caption": "The atmospheric old town district",
+      "description": "The medieval heart of Bordeaux is a maze of narrow pedestrian streets lined with wine bars, antique shops, and restaurants. Place du Parlement, with its Renaissance fountain surrounded by café terraces, is the perfect spot for a long lunch. Come evening, the rue du Pas-Saint-Georges bar crawl begins.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Saint-Pierre%20Quarter",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Saint-Pierre+Quarter"
+      }
+    },
+    {
+      "name": "Rue Sainte-Catherine",
+      "image": "rue-sainte-catherine.jpg",
+      "caption": "Europe's longest pedestrian shopping street",
+      "description": "Stretching 1.2 km through the city center, this bustling pedestrian street mixes mainstream shops with local boutiques. The southern end near Place de la Victoire has a younger, university vibe. Pop into the covered Galerie Bordelaise for a beautiful 19th-century shopping arcade.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Rue%20Sainte-Catherine",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Rue+Sainte-Catherine"
+      }
+    },
+    {
+      "name": "Pont de Pierre",
+      "image": "pont-de-pierre.jpg",
+      "caption": "Bordeaux's iconic stone bridge",
+      "description": "Napoleon ordered this 17-arch stone bridge across the Garonne, and it features as many arches as there are letters in 'Napoléon Bonaparte.' Walk across for the best sunset views of the Bordeaux waterfront. The right bank side has a buzzy craft-beer scene.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Pont%20de%20Pierre",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Pont+de+Pierre"
+      }
+    },
+    {
+      "name": "Darwin Ecosystem",
+      "image": "darwin-ecosystem.jpg",
+      "caption": "Urban regeneration at its coolest",
+      "description": "A former military barracks on the right bank transformed into a sprawling alternative culture hub with a skatepark, organic restaurant, co-working spaces, street art, and a craft brewery. The Sunday brunch at Magasin Général is legendary and draws huge crowds.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Darwin%20Ecosystem",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Darwin+Ecosystem"
+      }
+    },
+    {
+      "name": "Chartrons District",
+      "image": "chartrons.jpg",
+      "caption": "Antiques, brunch, and natural wine",
+      "description": "Once the wine merchants' quarter, Chartrons is now Bordeaux's hippest neighborhood. Sunday mornings feature a fantastic antiques market along the quays. The rest of the week, it's all specialty coffee shops, natural wine bars, and independent boutiques.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Chartrons%20District",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Chartrons+District"
+      }
+    },
+    {
+      "name": "Grosse Cloche",
+      "image": "grosse-cloche.jpg",
+      "caption": "A medieval bell tower and city gate",
+      "description": "One of the oldest belfries in France, this 15th-century gate tower with its massive bell and clock was once part of the city walls. It's beautifully dramatic against a blue sky and marks the entrance to the lively Saint-Michel quarter below.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Grosse%20Cloche",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Grosse+Cloche"
+      }
+    },
+    {
+      "name": "Basilique Saint-Michel",
+      "image": "basilique-saint-michel.jpg",
+      "caption": "Gothic grandeur and a vibrant market square",
+      "description": "This Gothic basilica in Bordeaux's most multicultural neighborhood features a 114m standalone bell tower (the tallest in southern France) that you can climb for city views. The surrounding square hosts a lively flea market and second-hand book stalls on Sundays.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Basilique%20Saint-Michel",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Basilique+Saint-Michel"
+      }
+    },
+    {
+      "name": "Place de la Bourse & Miroir d'Eau",
+      "image": "miroir-deau.jpg",
+      "caption": "Reflecting pool",
+      "description": "The world's largest reflecting pool mirrors the 18th-century Place de la Bourse. Magical at sunset. Kids splash in summer.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Place%20de%20la%20Bourse%20%26%20Miroir%20d%27Eau",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=miroir%20d%20eau%20bordeaux"
+      }
+    },
+    {
+      "name": "Cité du Vin",
+      "image": "cite-du-vin.jpg",
+      "caption": "Wine museum",
+      "description": "Futuristic curved building with interactive wine exhibitions from around the world. Rooftop tasting with panoramic views included.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cit%C3%A9%20du%20Vin",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=cite%20du%20vin%20bordeaux"
+      }
+    },
+    {
+      "name": "Saint-Émilion",
+      "image": "saint-emilion.jpg",
+      "caption": "UNESCO wine village",
+      "description": "Medieval village surrounded by prestigious vineyards. 35 min by train. Underground monolithic church and wine tastings everywhere.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Saint-%C3%89milion",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=saint%20emilion"
+      }
+    },
+    {
+      "name": "Les Chartrons",
+      "image": "chartrons.jpg",
+      "caption": "Antiques quarter",
+      "description": "Former wine merchants' district now full of antique shops, concept stores and excellent restaurants along Rue Notre-Dame.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Les%20Chartrons"
+      }
+    },
+    {
+      "name": "Dune of Pilat",
+      "image": "dune-pilat.jpg",
+      "caption": "Europe's tallest sand dune",
+      "description": "110m-high dune on the Atlantic coast, 1 hour from Bordeaux. Climb for stunning views over the ocean and pine forests.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Dune%20of%20Pilat",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=dune%20of%20pilat"
+      }
+    },
+    {
+      "name": "Cap Sciences",
+      "image": "cap-sciences.jpg",
+      "caption": "Science centre",
+      "description": "Interactive science museum on the waterfront. Great for families. Regular exhibitions on space, oceans and technology.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Cap%20Sciences"
+      }
+    }
+  ],
+  "foodScene": "Bordeaux's food scene matches its wine prestige. Start with canelés — small caramelized rum-and-vanilla pastries that are the city's signature sweet. Baillardran does the most famous ones. For oysters, La Boîte à Huîtres has platters of Arcachon Bay oysters at riverside tables — pair with a crisp white Entre-Deux-Mers. The Marché des Capucins ('the belly of Bordeaux') is the place for Saturday brunch: raw oysters, charcuterie boards, and entrecôte grilled over vine cuttings at Chez Jean-Mi. For a proper meal, try entrecôte bordelaise (rib steak in red wine shallot sauce) at Le Bouchon Bordelais. The Saint-Pierre quarter is where locals go for natural wine — Bar à Vin near the Grand Théâtre lets you taste classified growths by the glass. On the right bank, Darwin Ecosystem's weekend brunch is a must for the organic-everything crowd.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Bordeaux%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=bordeaux+travel"
+  }
+}

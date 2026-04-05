@@ -1,0 +1,171 @@
+{
+  "city": "Copenhagen",
+  "country": "Denmark",
+  "flag": "🇩🇰",
+  "currency": "DKK (kr)",
+  "language": "Danish",
+  "weather": {
+    "tempHighC": 22,
+    "tempLowC": 14,
+    "description": "Warm Nordic summer with long daylight hours",
+    "icon": "⛅"
+  },
+  "quickFacts": [
+    "Ranked the world's most liveable city multiple times — and you'll feel it",
+    "Bikes outnumber cars; over 390 km of dedicated cycle lanes",
+    "Home to Noma, repeatedly crowned the world's best restaurant"
+  ],
+  "places": [
+    {
+      "name": "Nyhavn",
+      "image": "nyhavn.jpg",
+      "caption": "Copenhagen's candy-colored waterfront",
+      "description": "The iconic 17th-century canal lined with jewel-toned townhouses is every bit as photogenic in person. Skip the pricey restaurants right on the water — grab a beer from a corner shop and sit on the canal edge like the locals do.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Nyhavn",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Nyhavn"
+      }
+    },
+    {
+      "name": "Tivoli Gardens",
+      "image": "tivoli-gardens.jpg",
+      "caption": "The world's second-oldest amusement park",
+      "description": "Open since 1843, Tivoli is a magical mashup of roller coasters, lush gardens, and fairy-lit pavilions. Visit at dusk when thousands of lights flicker on across the park. The Rutschebanen wooden roller coaster has been thrilling riders since 1914.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Tivoli%20Gardens",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Tivoli+Gardens"
+      }
+    },
+    {
+      "name": "Freetown Christiania",
+      "image": "christiania.jpg",
+      "caption": "Copenhagen's autonomous free town",
+      "description": "This self-proclaimed autonomous neighborhood in an old military barracks has been a countercultural commune since 1971. Wander the car-free paths past DIY houses, art installations, and lakeside bars. Photography rules are strict — respect them.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Freetown%20Christiania",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Freetown+Christiania"
+      }
+    },
+    {
+      "name": "Torvehallerne",
+      "image": "torvehallerne.jpg",
+      "caption": "A food lover's glass-roofed paradise",
+      "description": "Two sleek glass market halls near Nørreport station packed with 60+ stalls selling everything from smørrebrød to Ethiopian injera. The smoked salmon at Hallernes Smørrebrød is life-changing, and Coffee Collective here is one of Copenhagen's best specialty roasters.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Torvehallerne",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Torvehallerne"
+      }
+    },
+    {
+      "name": "The Round Tower (Rundetårn)",
+      "image": "round-tower.jpg",
+      "caption": "A 17th-century spiral to the sky",
+      "description": "Europe's oldest functioning astronomical observatory, built in 1642 with a unique spiral ramp instead of stairs — wide enough that Peter the Great reportedly rode a horse up it. The rooftop terrace gives a brilliant 360-degree panorama of the city's spires.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=The%20Round%20Tower%20%28Rundet%C3%A5rn%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=The+Round+Tower+%28Rundet%C3%A5rn%29"
+      }
+    },
+    {
+      "name": "Kødbyen (Meatpacking District)",
+      "image": "kodbyen.jpg",
+      "caption": "From slaughterhouses to cocktail bars",
+      "description": "Copenhagen's old meatpacking district is now its hottest nightlife and dining area. Still-functioning butcher shops sit next to craft cocktail bars and Michelin-starred restaurants. Try Warpigs for Texas-meets-Copenhagen BBQ and microbrews, or Gorilla for Asian-fusion sharing plates.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=K%C3%B8dbyen%20%28Meatpacking%20District%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=K%C3%B8dbyen+%28Meatpacking+District%29"
+      }
+    },
+    {
+      "name": "Assistens Cemetery",
+      "image": "assistens-cemetery.jpg",
+      "caption": "A park where locals sunbathe among headstones",
+      "description": "In true Danish fashion, this Nørrebro cemetery doubles as a beloved public park. Locals jog, picnic, and read between the graves of Hans Christian Andersen and Søren Kierkegaard. It's beautifully peaceful and quintessentially Copenhagen.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Assistens%20Cemetery",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Assistens+Cemetery"
+      }
+    },
+    {
+      "name": "Superkilen",
+      "image": "superkilen.jpg",
+      "caption": "The world's most eclectic urban park",
+      "description": "A wildly colorful public space in diverse Nørrebro designed by BIG architects, featuring objects collected from 60 countries — Moroccan fountains, Thai boxing rings, Japanese cherry trees. The Red Square's undulating ground is pure Instagram fuel.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Superkilen",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Superkilen"
+      }
+    },
+    {
+      "name": "Rosenborg Castle",
+      "image": "rosenborg-castle.jpg",
+      "caption": "Renaissance castle in a royal garden",
+      "description": "This 17th-century Dutch Renaissance castle holds the Danish Crown Jewels and sits in the gorgeous King's Garden, Copenhagen's oldest park. In summer, locals claim every inch of grass for picnics and sunbathing in this green oasis right downtown.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Rosenborg%20Castle",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Rosenborg+Castle"
+      }
+    },
+    {
+      "name": "Reffen Street Food",
+      "image": "reffen.jpg",
+      "caption": "Waterfront shipping containers full of flavor",
+      "description": "Copenhagen's largest street food market sprawls across a harbor-front lot in Refshaleøen, with 50+ food stalls in converted shipping containers. The views across the harbor to the opera house are stunning, and the Korean fried chicken at Bao Bao is a cult favorite.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Reffen%20Street%20Food",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=Reffen+Street+Food"
+      }
+    },
+    {
+      "name": "Strøget",
+      "image": "stroget.jpg",
+      "caption": "Pedestrian shopping mile",
+      "description": "One of Europe's longest car-free shopping streets. From City Hall to Kongens Nytorv — designer flagship stores to vintage.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Str%C3%B8get"
+      }
+    },
+    {
+      "name": "Christiania (Freetown)",
+      "image": "christiania.jpg",
+      "caption": "Self-governing commune",
+      "description": "Counter-culture enclave since 1971 in former military barracks. Street art, live music, community-built architecture. No photos on Pusher Street.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Christiania%20%28Freetown%29",
+        "pinterest": "https://www.pinterest.com/search/pins/?q=christiania%20copenhagen"
+      }
+    },
+    {
+      "name": "The Little Mermaid",
+      "image": "little-mermaid.jpg",
+      "caption": "Harbor icon",
+      "description": "Bronze statue since 1913 inspired by Andersen's fairy tale. Small but iconic. Combine with a Langelinie promenade walk.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=The%20Little%20Mermaid"
+      }
+    },
+    {
+      "name": "Copenhagen Street Food (Reffen)",
+      "image": "reffen.jpg",
+      "caption": "Container food market",
+      "description": "Open-air street food market on the harbour with 40+ stalls. Global cuisines, craft beers and waterfront seating.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Copenhagen%20Street%20Food%20%28Reffen%29"
+      }
+    },
+    {
+      "name": "Round Tower (Rundetårn)",
+      "image": "round-tower.jpg",
+      "caption": "17th-century observatory",
+      "description": "Walk the spiral ramp (no stairs!) to the top for panoramic views. Built by Christian IV in 1642 as an astronomical observatory.",
+      "links": {
+        "instagram": "https://www.instagram.com/explore/search/keyword/?q=Round%20Tower%20%28Rundet%C3%A5rn%29"
+      }
+    }
+  ],
+  "foodScene": "Copenhagen basically invented New Nordic cuisine — the movement that put fermented everything and foraged herbs on the global map. You don't need a Noma reservation to eat well, though. Grab smørrebrød (open-faced rye sandwiches piled with pickled herring, roast pork, or shrimp) at Aamanns or Schønnemann, a 147-year-old institution. For the city's best hotdog, hit up DØP in various locations — their crispy-skinned organic pølse in a brioche bun is a revelation. Kanelsnurrer (cinnamon rolls) from Hart Bageri, started by a former Noma bread baker, are worth queueing for. In summer, the harbor pools and canal boats all have bars, and everyone drinks Tuborg or Mikkeller craft beers. For budget eats, the shawarma joints on Nørrebrogade are legendary.",
+  "links": {
+    "instagram": "https://www.instagram.com/explore/search/keyword/?q=Copenhagen%20travel",
+    "pinterest": "https://www.pinterest.com/search/pins/?q=copenhagen+travel"
+  }
+}
