@@ -1,0 +1,3463 @@
+{
+  "Amsterdam|4": {
+    "apartment": {
+      "budget": 972,
+      "high": 972,
+      "mid": 972,
+      "options": [
+        {
+          "name": "Apartment Hotel Zuid Oost Heesterveld BnB ZOH",
+          "price": 972,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 641,
+      "high": 830,
+      "mid": 795,
+      "options": [
+        {
+          "name": "Camping Zeeburg Amsterdam",
+          "price": 641,
+          "source": "booking"
+        },
+        {
+          "name": "Via Amsterdam",
+          "price": 721,
+          "source": "booking"
+        },
+        {
+          "name": "XO Hotels Infinity",
+          "price": 775,
+          "source": "booking"
+        },
+        {
+          "name": "XO Hotels Blue Square",
+          "price": 775,
+          "source": "booking"
+        },
+        {
+          "name": "Stayokay Hostel Amsterdam Stadsdoelen",
+          "price": 786,
+          "source": "booking"
+        },
+        {
+          "name": "B&B Zunderdorp",
+          "price": 795,
+          "source": "booking"
+        },
+        {
+          "name": "ClinkNOORD Hostel",
+          "price": 818,
+          "source": "booking"
+        },
+        {
+          "name": "Hans Brinker Hostel Amsterdam",
+          "price": 820,
+          "source": "booking"
+        },
+        {
+          "name": "XO Hotels Blue Tower",
+          "price": 826,
+          "source": "booking"
+        },
+        {
+          "name": "Camping Vliegenbos",
+          "price": 830,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:50:42.282998"
+  },
+  "Barcelona|4": {
+    "apartment": {
+      "budget": 955,
+      "high": 955,
+      "mid": 955,
+      "options": [
+        {
+          "name": "Poble Sec. Excelente ubicaci\u00f3n cerca de la playa y de las Ramblas",
+          "price": 955,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 638,
+      "high": 821,
+      "mid": 776,
+      "options": [
+        {
+          "name": "Hola Hostal Eixample",
+          "price": 638,
+          "source": "booking"
+        },
+        {
+          "name": "Rooms Calabria",
+          "price": 699,
+          "source": "booking"
+        },
+        {
+          "name": "HelloBCN Youth Hostel Barcelona",
+          "price": 722,
+          "source": "booking"
+        },
+        {
+          "name": "Meeting Point Hostels",
+          "price": 729,
+          "source": "booking"
+        },
+        {
+          "name": "Factory Hostels Barcelona",
+          "price": 747,
+          "source": "booking"
+        },
+        {
+          "name": "Free Hostels Barcelona",
+          "price": 776,
+          "source": "booking"
+        },
+        {
+          "name": "Barcelona Pere Tarr\u00e9s Youth Hostel",
+          "price": 776,
+          "source": "booking"
+        },
+        {
+          "name": "Onefam Les Corts",
+          "price": 800,
+          "source": "booking"
+        },
+        {
+          "name": "360 Hostel Borne",
+          "price": 821,
+          "source": "booking"
+        },
+        {
+          "name": "Pars Teatro Hostel",
+          "price": 821,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:51:06.451052"
+  },
+  "Basel|4": {
+    "airbnb": {
+      "budget": 460,
+      "high": 837,
+      "mid": 794,
+      "options": [
+        {
+          "link": "",
+          "name": "Flat in L\u00f6rrach, Germany",
+          "price": 460,
+          "rating": 4.97,
+          "source": "airbnb"
+        },
+        {
+          "link": "",
+          "name": "Apartment in Saint-Louis, France",
+          "price": 779,
+          "rating": 4.68,
+          "source": "airbnb"
+        },
+        {
+          "link": "",
+          "name": "Flat in Basel, Switzerland",
+          "price": 794,
+          "rating": 4.84,
+          "source": "airbnb"
+        },
+        {
+          "link": "",
+          "name": "Flat in Saint-Louis, France",
+          "price": 837,
+          "rating": 4.71,
+          "source": "airbnb"
+        }
+      ]
+    },
+    "apartment": {
+      "budget": 0,
+      "high": 0,
+      "mid": 0,
+      "options": []
+    },
+    "hotel": {
+      "budget": 0,
+      "high": 0,
+      "mid": 0,
+      "options": []
+    },
+    "scraped_at": "2026-04-05T18:42:29.863668"
+  },
+  "Bern|4": {
+    "apartment": {
+      "budget": 762,
+      "high": 986,
+      "mid": 985,
+      "options": [
+        {
+          "name": "Ferdinands Gateaway inkl Breakfast",
+          "price": 762,
+          "source": "booking"
+        },
+        {
+          "name": "da Maurizio Suites",
+          "price": 982,
+          "source": "booking"
+        },
+        {
+          "name": "Alpenblick CoLiving - Self Check In by Homenhancement",
+          "price": 985,
+          "source": "booking"
+        },
+        {
+          "name": "Aparthotel Il Momento Bern Expo",
+          "price": 986,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 762,
+      "high": 986,
+      "mid": 982,
+      "options": [
+        {
+          "name": "Ferdinands Gateaway inkl Breakfast",
+          "price": 762,
+          "source": "booking"
+        },
+        {
+          "name": "Bern Backpackers Hotel Glocke",
+          "price": 805,
+          "source": "booking"
+        },
+        {
+          "name": "da Maurizio Suites",
+          "price": 982,
+          "source": "booking"
+        },
+        {
+          "name": "Alpenblick CoLiving - Self Check In by Homenhancement",
+          "price": 985,
+          "source": "booking"
+        },
+        {
+          "name": "Aparthotel Il Momento Bern Expo",
+          "price": 986,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:52:00.911371"
+  },
+  "Bordeaux|4": {
+    "apartment": {
+      "budget": 366,
+      "high": 491,
+      "mid": 433,
+      "options": [
+        {
+          "name": "Souplex bordeaux gare saint jean",
+          "price": 366,
+          "source": "booking"
+        },
+        {
+          "name": "Appartement 65m2/2pi\u00e9ces/centre/parking priv\u00e9",
+          "price": 377,
+          "source": "booking"
+        },
+        {
+          "name": "Appartement en face de la gare Saint Jean",
+          "price": 391,
+          "source": "booking"
+        },
+        {
+          "name": "Du calme en pleine ville Jacuzzi",
+          "price": 419,
+          "source": "booking"
+        },
+        {
+          "name": "Maison Bordeaux Caud\u00e9ran",
+          "price": 424,
+          "source": "booking"
+        },
+        {
+          "name": "Esprit libre, Beau 2 pi\u00e8ces climatis\u00e9",
+          "price": 433,
+          "source": "booking"
+        },
+        {
+          "name": "T\u00e9n\u00e9o Apparth\u00f4tel Bordeaux Maritime - Cit\u00e9 du vin",
+          "price": 449,
+          "source": "booking"
+        },
+        {
+          "name": "Eklo Hotels Bordeaux Centre Bastide",
+          "price": 458,
+          "source": "booking"
+        },
+        {
+          "name": "Superbe Duplex au pied du tram et de la gare",
+          "price": 461,
+          "source": "booking"
+        },
+        {
+          "name": "Le Piccolo, Centre-ville",
+          "price": 491,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 341,
+      "high": 449,
+      "mid": 415,
+      "options": [
+        {
+          "name": "Eklo Hotels Bordeaux Centre Bastide",
+          "price": 341,
+          "source": "booking"
+        },
+        {
+          "name": "Souplex bordeaux gare saint jean",
+          "price": 366,
+          "source": "booking"
+        },
+        {
+          "name": "Appartement 65m2/2pi\u00e9ces/centre/parking priv\u00e9",
+          "price": 377,
+          "source": "booking"
+        },
+        {
+          "name": "Appartement en face de la gare Saint Jean",
+          "price": 391,
+          "source": "booking"
+        },
+        {
+          "name": "Slo Hostel Bordeaux",
+          "price": 414,
+          "source": "booking"
+        },
+        {
+          "name": "MEININGER Hotel Bordeaux Gare Saint-Jean",
+          "price": 415,
+          "source": "booking"
+        },
+        {
+          "name": "Du calme en pleine ville Jacuzzi",
+          "price": 419,
+          "source": "booking"
+        },
+        {
+          "name": "Maison Bordeaux Caud\u00e9ran",
+          "price": 424,
+          "source": "booking"
+        },
+        {
+          "name": "Esprit libre, Beau 2 pi\u00e8ces climatis\u00e9",
+          "price": 433,
+          "source": "booking"
+        },
+        {
+          "name": "T\u00e9n\u00e9o Apparth\u00f4tel Bordeaux Maritime - Cit\u00e9 du vin",
+          "price": 449,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:25:19.187832"
+  },
+  "Budapest|4": {
+    "apartment": {
+      "budget": 206,
+      "high": 250,
+      "mid": 241,
+      "options": [
+        {
+          "name": "Red Locomotive Apartment",
+          "price": 206,
+          "source": "booking"
+        },
+        {
+          "name": "Casino Zugl\u00f3",
+          "price": 212,
+          "source": "booking"
+        },
+        {
+          "name": "Sweet Home in the Center of the City, - it's only yours with two bedrooms, 1 price for 3",
+          "price": 232,
+          "source": "booking"
+        },
+        {
+          "name": "Anna's Place",
+          "price": 238,
+          "source": "booking"
+        },
+        {
+          "name": "Leaf Song",
+          "price": 241,
+          "source": "booking"
+        },
+        {
+          "name": "Leaf Song 1",
+          "price": 241,
+          "source": "booking"
+        },
+        {
+          "name": "Sweet & Cozy Home at Center",
+          "price": 245,
+          "source": "booking"
+        },
+        {
+          "name": "Madam with AC and the central location",
+          "price": 248,
+          "source": "booking"
+        },
+        {
+          "name": "Nefelejcs near the Keleti railway station",
+          "price": 248,
+          "source": "booking"
+        },
+        {
+          "name": "Gizella Terrace by Pusk\u00e1s",
+          "price": 250,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 206,
+      "high": 264,
+      "mid": 258,
+      "options": [
+        {
+          "name": "Red Locomotive Apartment",
+          "price": 206,
+          "source": "booking"
+        },
+        {
+          "name": "Casino Zugl\u00f3",
+          "price": 227,
+          "source": "booking"
+        },
+        {
+          "name": "Vegas Zugl\u00f3",
+          "price": 232,
+          "source": "booking"
+        },
+        {
+          "name": "Sweet Home in the Center of the City, - it's only yours with two bedrooms, 1 price for 3",
+          "price": 250,
+          "source": "booking"
+        },
+        {
+          "name": "Anna's Place",
+          "price": 255,
+          "source": "booking"
+        },
+        {
+          "name": "Leaf Song",
+          "price": 258,
+          "source": "booking"
+        },
+        {
+          "name": "Leaf Song 1",
+          "price": 258,
+          "source": "booking"
+        },
+        {
+          "name": "Sweet & Cozy Home at Center",
+          "price": 262,
+          "source": "booking"
+        },
+        {
+          "name": "Berkocsis",
+          "price": 263,
+          "source": "booking"
+        },
+        {
+          "name": "Spacious - Cozy - Central",
+          "price": 264,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:25:40.564331"
+  },
+  "Carcassonne|4": {
+    "apartment": {
+      "budget": 237,
+      "high": 307,
+      "mid": 267,
+      "options": [
+        {
+          "name": "Large studio near medieval city",
+          "price": 237,
+          "source": "booking"
+        },
+        {
+          "name": "Studio Cit\u00e9 m\u00e9di\u00e9vale 250 m",
+          "price": 240,
+          "source": "booking"
+        },
+        {
+          "name": "antoinette",
+          "price": 242,
+          "source": "booking"
+        },
+        {
+          "name": "Charmant T2 - \u00e0 5 min de la Cit\u00e9 M\u00e9di\u00e9vale",
+          "price": 251,
+          "source": "booking"
+        },
+        {
+          "name": "Balda'Quand M\u00e9di\u00e9val",
+          "price": 260,
+          "source": "booking"
+        },
+        {
+          "name": "MarQue N\u00e9o Art",
+          "price": 267,
+          "source": "booking"
+        },
+        {
+          "name": "Cosy Bastide 4 personnes",
+          "price": 290,
+          "source": "booking"
+        },
+        {
+          "name": "La Douce Cathare",
+          "price": 301,
+          "source": "booking"
+        },
+        {
+          "name": "Charmant T2 au pied de la Cit\u00e9 de Carcassonne- AL",
+          "price": 304,
+          "source": "booking"
+        },
+        {
+          "name": "Terrasse et parking a 500m de la Cite AR",
+          "price": 307,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 237,
+      "high": 597,
+      "mid": 260,
+      "options": [
+        {
+          "name": "Large studio near medieval city",
+          "price": 237,
+          "source": "booking"
+        },
+        {
+          "name": "Studio Cit\u00e9 m\u00e9di\u00e9vale 250 m",
+          "price": 240,
+          "source": "booking"
+        },
+        {
+          "name": "antoinette",
+          "price": 242,
+          "source": "booking"
+        },
+        {
+          "name": "Cathares Holidays",
+          "price": 243,
+          "source": "booking"
+        },
+        {
+          "name": "Charmant T2 - \u00e0 5 min de la Cit\u00e9 M\u00e9di\u00e9vale",
+          "price": 251,
+          "source": "booking"
+        },
+        {
+          "name": "Balda'Quand M\u00e9di\u00e9val",
+          "price": 260,
+          "source": "booking"
+        },
+        {
+          "name": "MarQue N\u00e9o Art",
+          "price": 267,
+          "source": "booking"
+        },
+        {
+          "name": "Cosy Bastide 4 personnes",
+          "price": 290,
+          "source": "booking"
+        },
+        {
+          "name": "Charmante maison",
+          "price": 298,
+          "source": "booking"
+        },
+        {
+          "name": "Chez Georges",
+          "price": 597,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:26:02.057187"
+  },
+  "Copenhagen|4": {
+    "apartment": {
+      "budget": 0,
+      "high": 0,
+      "mid": 0,
+      "options": []
+    },
+    "hotel": {
+      "budget": 635,
+      "high": 935,
+      "mid": 915,
+      "options": [
+        {
+          "name": "Go Hotel Saga",
+          "price": 635,
+          "source": "booking"
+        },
+        {
+          "name": "Urban Camper Hostel & Bar",
+          "price": 693,
+          "source": "booking"
+        },
+        {
+          "name": "Scandic CPH Strandpark",
+          "price": 915,
+          "source": "booking"
+        },
+        {
+          "name": "Go Hotel Ansgar",
+          "price": 935,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:52:28.441384"
+  },
+  "Dublin|4": {
+    "apartment": {
+      "budget": 0,
+      "high": 0,
+      "mid": 0,
+      "options": []
+    },
+    "hotel": {
+      "budget": 964,
+      "high": 964,
+      "mid": 964,
+      "options": [
+        {
+          "name": "Ashfield Hostel",
+          "price": 964,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:52:53.055344"
+  },
+  "D\u00fcsseldorf|4": {
+    "apartment": {
+      "budget": 690,
+      "high": 857,
+      "mid": 765,
+      "options": [
+        {
+          "name": "Tolstov Apartments - 1 or 3 Room Apartments - 20 Min Messe DUS and Old Town DUS",
+          "price": 690,
+          "source": "booking"
+        },
+        {
+          "name": "Work and Stay Apartment Balcony",
+          "price": 742,
+          "source": "booking"
+        },
+        {
+          "name": "Work and Stay Apartment Centrum",
+          "price": 742,
+          "source": "booking"
+        },
+        {
+          "name": "Maritim Hotel D\u00fcsseldorf",
+          "price": 748,
+          "source": "booking"
+        },
+        {
+          "name": "Landhaus Hamm THE UNIQUE BOUTIQUE HOTEL",
+          "price": 754,
+          "source": "booking"
+        },
+        {
+          "name": "Candlewood Suites D\u00fcsseldorf Airport by IHG",
+          "price": 765,
+          "source": "booking"
+        },
+        {
+          "name": "Modern oasis of peace with garden, top public transport",
+          "price": 783,
+          "source": "booking"
+        },
+        {
+          "name": "Apartment 70QM D\u00fcsseldorf K\u00fcche Zentral",
+          "price": 801,
+          "source": "booking"
+        },
+        {
+          "name": "Stay and Work D\u00fcsseldorf",
+          "price": 845,
+          "source": "booking"
+        },
+        {
+          "name": "Bluestone Boarding Apartments",
+          "price": 857,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 515,
+      "high": 742,
+      "mid": 717,
+      "options": [
+        {
+          "name": "Stilvolle Privatzimmer mit Wohngemeinschaft - Top Ausstattung",
+          "price": 515,
+          "source": "booking"
+        },
+        {
+          "name": "ibis Duesseldorf Airport",
+          "price": 588,
+          "source": "booking"
+        },
+        {
+          "name": "Holiday Inn - the niu, Hub Dusseldorf Messe by IHG",
+          "price": 631,
+          "source": "booking"
+        },
+        {
+          "name": "Maritim Hotel D\u00fcsseldorf",
+          "price": 677,
+          "source": "booking"
+        },
+        {
+          "name": "Tolstov Apartments - 1 or 3 Room Apartments - 20 Min Messe DUS and Old Town DUS",
+          "price": 690,
+          "source": "booking"
+        },
+        {
+          "name": "G\u00e4stehaus Grupello",
+          "price": 717,
+          "source": "booking"
+        },
+        {
+          "name": "Holiday Inn Express D\u00fcsseldorf - City North by IHG",
+          "price": 720,
+          "source": "booking"
+        },
+        {
+          "name": "Novotel Duesseldorf Airport",
+          "price": 728,
+          "source": "booking"
+        },
+        {
+          "name": "Holiday Inn - the niu, Seven Dusseldorf Ost by IHG",
+          "price": 731,
+          "source": "booking"
+        },
+        {
+          "name": "Work and Stay Apartment Balcony",
+          "price": 742,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:27:05.349010"
+  },
+  "Frankfurt|4": {
+    "apartment": {
+      "budget": 530,
+      "high": 892,
+      "mid": 761,
+      "options": [
+        {
+          "name": "Staycity Aparthotels Frankfurt Airport",
+          "price": 530,
+          "source": "booking"
+        },
+        {
+          "name": "Brera Serviced Apartments Frankfurt West",
+          "price": 559,
+          "source": "booking"
+        },
+        {
+          "name": "MASEVEN Frankfurt Messe",
+          "price": 581,
+          "source": "booking"
+        },
+        {
+          "name": "Citadines City Centre Frankfurt",
+          "price": 603,
+          "source": "booking"
+        },
+        {
+          "name": "Homaris Apartments Nibelungen",
+          "price": 689,
+          "source": "booking"
+        },
+        {
+          "name": "ODA Living & Home",
+          "price": 761,
+          "source": "booking"
+        },
+        {
+          "name": "STAYERY Frankfurt Sachsenhausen",
+          "price": 761,
+          "source": "booking"
+        },
+        {
+          "name": "Naam Hotel & Apartments Frankfurt City-Messe Airport",
+          "price": 841,
+          "source": "booking"
+        },
+        {
+          "name": "Stilvoll in Frankfurt H\u00f6chst - Feeling at home",
+          "price": 842,
+          "source": "booking"
+        },
+        {
+          "name": "N\u00e4he Frankfurt Messe mit Netflix und Balkon",
+          "price": 892,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 418,
+      "high": 496,
+      "mid": 467,
+      "options": [
+        {
+          "name": "TL Gastzimmer 1",
+          "price": 418,
+          "source": "booking"
+        },
+        {
+          "name": "MOXY Frankfurt East",
+          "price": 427,
+          "source": "booking"
+        },
+        {
+          "name": "Jugendherberge Frankfurt - Haus der Jugend",
+          "price": 428,
+          "source": "booking"
+        },
+        {
+          "name": "Soaltee Hotel by Trip Inn Frankfurt Messe Tagungshotel",
+          "price": 429,
+          "source": "booking"
+        },
+        {
+          "name": "Hotel Aurelia",
+          "price": 454,
+          "source": "booking"
+        },
+        {
+          "name": "Holiday Inn - the niu, Air Frankfurt Messe by IHG",
+          "price": 467,
+          "source": "booking"
+        },
+        {
+          "name": "Arena Villa am Wasserpark",
+          "price": 468,
+          "source": "booking"
+        },
+        {
+          "name": "Hotel Amadeus Frankfurt",
+          "price": 486,
+          "source": "booking"
+        },
+        {
+          "name": "Holiday Inn Express Frankfurt Messe by IHG",
+          "price": 495,
+          "source": "booking"
+        },
+        {
+          "name": "25hours Hotel The Goldman",
+          "price": 496,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:27:27.143408"
+  },
+  "Geneva|4": {
+    "apartment": {
+      "budget": 728,
+      "high": 728,
+      "mid": 728,
+      "options": [
+        {
+          "name": "Nonanteneuf appart h\u014dtel Gen\u00e8ve \u00c9tang - Airport - contactless check-in",
+          "price": 728,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 597,
+      "high": 947,
+      "mid": 807,
+      "options": [
+        {
+          "name": "Domaine \u00e0 la Lo\u00ebx",
+          "price": 597,
+          "source": "booking"
+        },
+        {
+          "name": "Nonanteneuf appart h\u014dtel Gen\u00e8ve \u00c9tang - Airport - contactless check-in",
+          "price": 728,
+          "source": "booking"
+        },
+        {
+          "name": "Geneva Hostel",
+          "price": 807,
+          "source": "booking"
+        },
+        {
+          "name": "Nash Airport Hotel",
+          "price": 846,
+          "source": "booking"
+        },
+        {
+          "name": "B&B HOTEL Geneva Airport",
+          "price": 947,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:53:18.256948"
+  },
+  "Gothenburg|4": {
+    "apartment": {
+      "budget": 517,
+      "high": 691,
+      "mid": 634,
+      "options": [
+        {
+          "name": "Kvibergs Stugor - Cottages",
+          "price": 517,
+          "source": "booking"
+        },
+        {
+          "name": "Apartment in Gothenburg close to city and sea",
+          "price": 549,
+          "source": "booking"
+        },
+        {
+          "name": "Waterfront Cabins",
+          "price": 566,
+          "source": "booking"
+        },
+        {
+          "name": "Rymlig och modern l\u00e4genhet i lugnt l\u00e4ge",
+          "price": 609,
+          "source": "booking"
+        },
+        {
+          "name": "Awesome Apartment In G\u00f6teborg With Wifi",
+          "price": 614,
+          "source": "booking"
+        },
+        {
+          "name": "Aekta Studio apartments Gothenburg",
+          "price": 634,
+          "source": "booking"
+        },
+        {
+          "name": "CITY Centrum",
+          "price": 642,
+          "source": "booking"
+        },
+        {
+          "name": "Family & Worker Accommodations in G\u00f6teborg",
+          "price": 648,
+          "source": "booking"
+        },
+        {
+          "name": "Clarion Hotel The Pier",
+          "price": 675,
+          "source": "booking"
+        },
+        {
+          "name": "HaHa Nordic Home Partille Large 3BR Home for 7 Guests with 2 Kitchens, Garden & Parking",
+          "price": 691,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 356,
+      "high": 474,
+      "mid": 426,
+      "options": [
+        {
+          "name": "Kvibergs Vandrarhem - Hostel",
+          "price": 356,
+          "source": "booking"
+        },
+        {
+          "name": "STF Hostel Stigbergsliden",
+          "price": 378,
+          "source": "booking"
+        },
+        {
+          "name": "G\u00f6teborg Hostel",
+          "price": 402,
+          "source": "booking"
+        },
+        {
+          "name": "Backpackers G\u00f6teborg",
+          "price": 410,
+          "source": "booking"
+        },
+        {
+          "name": "Lisebergsbyns Stugor",
+          "price": 419,
+          "source": "booking"
+        },
+        {
+          "name": "Scandic Crown",
+          "price": 426,
+          "source": "booking"
+        },
+        {
+          "name": "Waterfront Cabins",
+          "price": 443,
+          "source": "booking"
+        },
+        {
+          "name": "Linn\u00e9platsens Hotell & Vandrarhem",
+          "price": 459,
+          "source": "booking"
+        },
+        {
+          "name": "Spar Hotel G\u00e5rda",
+          "price": 467,
+          "source": "booking"
+        },
+        {
+          "name": "Quality Hotel The Weaver",
+          "price": 474,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:28:11.751336"
+  },
+  "Hamburg|4": {
+    "apartment": {
+      "budget": 436,
+      "high": 698,
+      "mid": 664,
+      "options": [
+        {
+          "name": "Premium Yacht Ausstattung Apartments Hotel",
+          "price": 436,
+          "source": "booking"
+        },
+        {
+          "name": "Familienfreundlichen Apartment mit traumhaft gr\u00fcner Aussicht",
+          "price": 463,
+          "source": "booking"
+        },
+        {
+          "name": "Cozy apartment in new building",
+          "price": 541,
+          "source": "booking"
+        },
+        {
+          "name": "Basement K\u00fcchgarten",
+          "price": 570,
+          "source": "booking"
+        },
+        {
+          "name": "Urlaub Hamburg Altes Land",
+          "price": 605,
+          "source": "booking"
+        },
+        {
+          "name": "Numa Hamburg Fore",
+          "price": 664,
+          "source": "booking"
+        },
+        {
+          "name": "Haus Anna Elbe, Bauernhaus-Ferienwohnungen an der Elbe",
+          "price": 694,
+          "source": "booking"
+        },
+        {
+          "name": "Ferienwohnung im Fabriciusstra\u00dfe",
+          "price": 696,
+          "source": "booking"
+        },
+        {
+          "name": "Aparthotel Adagio access Hamburg",
+          "price": 697,
+          "source": "booking"
+        },
+        {
+          "name": "Ferienwohnung Spieker in Hamburg",
+          "price": 698,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 436,
+      "high": 562,
+      "mid": 544,
+      "options": [
+        {
+          "name": "Premium Yacht Ausstattung Apartments Hotel",
+          "price": 436,
+          "source": "booking"
+        },
+        {
+          "name": "Hostel & Monteurzimmer bei KuK",
+          "price": 450,
+          "source": "booking"
+        },
+        {
+          "name": "Familienfreundlichen Apartment mit traumhaft gr\u00fcner Aussicht",
+          "price": 463,
+          "source": "booking"
+        },
+        {
+          "name": "Koje Hostel",
+          "price": 501,
+          "source": "booking"
+        },
+        {
+          "name": "Cozy apartment in new building",
+          "price": 541,
+          "source": "booking"
+        },
+        {
+          "name": "Mertens Zimmervermietung",
+          "price": 544,
+          "source": "booking"
+        },
+        {
+          "name": "Backpackers St. Pauli",
+          "price": 552,
+          "source": "booking"
+        },
+        {
+          "name": "NIVAN Hostel",
+          "price": 552,
+          "source": "booking"
+        },
+        {
+          "name": "SAM - your cozy stay near Hamburg-Airport",
+          "price": 559,
+          "source": "booking"
+        },
+        {
+          "name": "G\u00e4stehaus Bergedorf 2",
+          "price": 562,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:28:33.552890"
+  },
+  "Krakow|4": {
+    "apartment": {
+      "budget": 217,
+      "high": 257,
+      "mid": 244,
+      "options": [
+        {
+          "name": "Travel Apartament Cracow",
+          "price": 217,
+          "source": "booking"
+        },
+        {
+          "name": "K\u0104CIK Apartament",
+          "price": 220,
+          "source": "booking"
+        },
+        {
+          "name": "Apartamenty Asia Krak\u00f3w",
+          "price": 226,
+          "source": "booking"
+        },
+        {
+          "name": "Ruczaj Cozy Room",
+          "price": 240,
+          "source": "booking"
+        },
+        {
+          "name": "NOCLEGI POD STODO\u0141\u0104",
+          "price": 244,
+          "source": "booking"
+        },
+        {
+          "name": "Cosy and Comfortable Apartment in Cracov",
+          "price": 244,
+          "source": "booking"
+        },
+        {
+          "name": "Wawel Castle",
+          "price": 245,
+          "source": "booking"
+        },
+        {
+          "name": "Lovely Sparkly Apartment",
+          "price": 247,
+          "source": "booking"
+        },
+        {
+          "name": "Wygodny apartament niedaleko centrum by Krakow Home",
+          "price": 252,
+          "source": "booking"
+        },
+        {
+          "name": "Apartament Secesja",
+          "price": 257,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 192,
+      "high": 252,
+      "mid": 244,
+      "options": [
+        {
+          "name": "NOCLEGI POD STODO\u0141\u0104",
+          "price": 192,
+          "source": "booking"
+        },
+        {
+          "name": "Travel Apartament Cracow",
+          "price": 217,
+          "source": "booking"
+        },
+        {
+          "name": "K\u0104CIK Apartament",
+          "price": 220,
+          "source": "booking"
+        },
+        {
+          "name": "Apartamenty Asia Krak\u00f3w",
+          "price": 226,
+          "source": "booking"
+        },
+        {
+          "name": "Ruczaj Cozy Room",
+          "price": 240,
+          "source": "booking"
+        },
+        {
+          "name": "Cosy and Comfortable Apartment in Cracov",
+          "price": 244,
+          "source": "booking"
+        },
+        {
+          "name": "Wawel Castle",
+          "price": 245,
+          "source": "booking"
+        },
+        {
+          "name": "Hotel Felix",
+          "price": 245,
+          "source": "booking"
+        },
+        {
+          "name": "Lovely Sparkly Apartment",
+          "price": 247,
+          "source": "booking"
+        },
+        {
+          "name": "Wygodny apartament niedaleko centrum by Krakow Home",
+          "price": 252,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:28:55.348887"
+  },
+  "Luxembourg City|4": {
+    "apartment": {
+      "budget": 523,
+      "high": 981,
+      "mid": 772,
+      "options": [
+        {
+          "name": "Studio close from train station and shops",
+          "price": 523,
+          "source": "booking"
+        },
+        {
+          "name": "Charming Studio close to city centre",
+          "price": 611,
+          "source": "booking"
+        },
+        {
+          "name": "Charming Apartement Luxembourg City Center, Parking, Balcony",
+          "price": 663,
+          "source": "booking"
+        },
+        {
+          "name": "Beautiful Cosy 2BR Apartment",
+          "price": 724,
+          "source": "booking"
+        },
+        {
+          "name": "Cosy, Big, Central 2 Bedrooms Flat",
+          "price": 751,
+          "source": "booking"
+        },
+        {
+          "name": "Apartment in City Center of Luxembourg",
+          "price": 772,
+          "source": "booking"
+        },
+        {
+          "name": "Modern Luxembourg City Center Apartment with big terrace",
+          "price": 776,
+          "source": "booking"
+        },
+        {
+          "name": "Core Luxembourg City",
+          "price": 842,
+          "source": "booking"
+        },
+        {
+          "name": "The Central Kirchberg - Smart ApartHotel",
+          "price": 885,
+          "source": "booking"
+        },
+        {
+          "name": "Cloche d'or",
+          "price": 981,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 523,
+      "high": 815,
+      "mid": 761,
+      "options": [
+        {
+          "name": "Studio close from train station and shops",
+          "price": 523,
+          "source": "booking"
+        },
+        {
+          "name": "Charming Studio close to city centre",
+          "price": 611,
+          "source": "booking"
+        },
+        {
+          "name": "Charming Apartement Luxembourg City Center, Parking, Balcony",
+          "price": 663,
+          "source": "booking"
+        },
+        {
+          "name": "Beautiful Cosy 2BR Apartment",
+          "price": 724,
+          "source": "booking"
+        },
+        {
+          "name": "Cosy, Big, Central 2 Bedrooms Flat",
+          "price": 751,
+          "source": "booking"
+        },
+        {
+          "name": "Ibis Luxembourg Airport",
+          "price": 761,
+          "source": "booking"
+        },
+        {
+          "name": "Apartment in City Center of Luxembourg",
+          "price": 772,
+          "source": "booking"
+        },
+        {
+          "name": "Modern Luxembourg City Center Apartment with big terrace",
+          "price": 776,
+          "source": "booking"
+        },
+        {
+          "name": "Auberge La Veranda",
+          "price": 790,
+          "source": "booking"
+        },
+        {
+          "name": "Roomies Luxembourg Centre Gare",
+          "price": 815,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:29:17.206953"
+  },
+  "Lyon|4": {
+    "apartment": {
+      "budget": 297,
+      "high": 414,
+      "mid": 381,
+      "options": [
+        {
+          "name": "T2 urbain proche du centre-ville de Lyon",
+          "price": 297,
+          "source": "booking"
+        },
+        {
+          "name": "BnGo l L'interlude Bleu l T2, 4p, Mermoz H\u00f4pital",
+          "price": 302,
+          "source": "booking"
+        },
+        {
+          "name": "Lyon 8 Grange Blanche Appartement calme de 50 m\u00b2",
+          "price": 347,
+          "source": "booking"
+        },
+        {
+          "name": "Appart'h\u00f4tel Odalys City - Bioparc Lyon Est",
+          "price": 365,
+          "source": "booking"
+        },
+        {
+          "name": "Residence Montempo Appart'H\u00f4tel Lyon Cite Internationale",
+          "price": 372,
+          "source": "booking"
+        },
+        {
+          "name": "La Loge - Beautiful T2 Apartment - Lyon 5th",
+          "price": 381,
+          "source": "booking"
+        },
+        {
+          "name": "Joli T2 avec mezzanine, secteur gare, Lyon 3 - rue Baraban",
+          "price": 388,
+          "source": "booking"
+        },
+        {
+          "name": "Valmy Mezzanine",
+          "price": 404,
+          "source": "booking"
+        },
+        {
+          "name": "Wabi Sabi 2, Appartement Premium au C\u0153ur de Lyon",
+          "price": 411,
+          "source": "booking"
+        },
+        {
+          "name": "Chez Etienne",
+          "price": 414,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 297,
+      "high": 411,
+      "mid": 381,
+      "options": [
+        {
+          "name": "T2 urbain proche du centre-ville de Lyon",
+          "price": 297,
+          "source": "booking"
+        },
+        {
+          "name": "BnGo l L'interlude Bleu l T2, 4p, Mermoz H\u00f4pital",
+          "price": 302,
+          "source": "booking"
+        },
+        {
+          "name": "Lyon 8 Grange Blanche Appartement calme de 50 m\u00b2",
+          "price": 347,
+          "source": "booking"
+        },
+        {
+          "name": "Appart'h\u00f4tel Odalys City - Bioparc Lyon Est",
+          "price": 365,
+          "source": "booking"
+        },
+        {
+          "name": "Residence Montempo Appart'H\u00f4tel Lyon Cite Internationale",
+          "price": 372,
+          "source": "booking"
+        },
+        {
+          "name": "La Loge - Beautiful T2 Apartment - Lyon 5th",
+          "price": 381,
+          "source": "booking"
+        },
+        {
+          "name": "The People Lyon Hostel",
+          "price": 394,
+          "source": "booking"
+        },
+        {
+          "name": "Le Fl\u00e2neur Guesthouse",
+          "price": 402,
+          "source": "booking"
+        },
+        {
+          "name": "Valmy Mezzanine",
+          "price": 404,
+          "source": "booking"
+        },
+        {
+          "name": "Wabi Sabi 2, Appartement Premium au C\u0153ur de Lyon",
+          "price": 411,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:29:39.264476"
+  },
+  "Madrid|4": {
+    "apartment": {
+      "budget": 368,
+      "high": 459,
+      "mid": 421,
+      "options": [
+        {
+          "name": "SAM12 - Fant\u00e1stico piso de un dormitorio en Madrid - Alquiler temporal",
+          "price": 368,
+          "source": "booking"
+        },
+        {
+          "name": "Loft Luminoso Alcorc\u00f3n Efeso",
+          "price": 386,
+          "source": "booking"
+        },
+        {
+          "name": "CriteriaHome! nice&easy",
+          "price": 391,
+          "source": "booking"
+        },
+        {
+          "name": "Luxury apartment in Chamart\u00edn, Madrid center",
+          "price": 411,
+          "source": "booking"
+        },
+        {
+          "name": "Madrid Villaverde - Apartamentos acogedores, AC",
+          "price": 417,
+          "source": "booking"
+        },
+        {
+          "name": "Apartamentos Melisa - Madrid",
+          "price": 421,
+          "source": "booking"
+        },
+        {
+          "name": "apartamento reformado en vallecas ALQUILER TEMPORAL",
+          "price": 425,
+          "source": "booking"
+        },
+        {
+          "name": "Confort al lado del r\u00edo",
+          "price": 437,
+          "source": "booking"
+        },
+        {
+          "name": "Precioso piso en la playa de Madrid a 45 min del centro de la ciudad",
+          "price": 447,
+          "source": "booking"
+        },
+        {
+          "name": "Apartamentos de lujo en Aravaca 1",
+          "price": 459,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 283,
+      "high": 454,
+      "mid": 413,
+      "options": [
+        {
+          "name": "PALOMERAS Coliving & Coworking",
+          "price": 283,
+          "source": "booking"
+        },
+        {
+          "name": "Hostel Travelers Inn",
+          "price": 384,
+          "source": "booking"
+        },
+        {
+          "name": "CriteriaHome! nice&easy",
+          "price": 391,
+          "source": "booking"
+        },
+        {
+          "name": "SAM12 - Fant\u00e1stico piso de un dormitorio en Madrid - Alquiler temporal",
+          "price": 391,
+          "source": "booking"
+        },
+        {
+          "name": "CH Plaza Castilla 2",
+          "price": 397,
+          "source": "booking"
+        },
+        {
+          "name": "Loft Luminoso Alcorc\u00f3n Efeso",
+          "price": 413,
+          "source": "booking"
+        },
+        {
+          "name": "Madrid Villaverde - Apartamentos acogedores, AC",
+          "price": 417,
+          "source": "booking"
+        },
+        {
+          "name": "Luxury apartment in Chamart\u00edn, Madrid center",
+          "price": 443,
+          "source": "booking"
+        },
+        {
+          "name": "Habitaci\u00f3n paloma",
+          "price": 454,
+          "source": "booking"
+        },
+        {
+          "name": "Apartamentos Melisa - Madrid",
+          "price": 454,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:30:01.302473"
+  },
+  "Malta|4": {
+    "apartment": {
+      "budget": 359,
+      "high": 430,
+      "mid": 404,
+      "options": [
+        {
+          "name": "Iris Chic Residence",
+          "price": 359,
+          "source": "booking"
+        },
+        {
+          "name": "Maron 32",
+          "price": 365,
+          "source": "booking"
+        },
+        {
+          "name": "Adinkra Suits",
+          "price": 374,
+          "source": "booking"
+        },
+        {
+          "name": "Carina Mansion",
+          "price": 394,
+          "source": "booking"
+        },
+        {
+          "name": "Amelia's House of Character",
+          "price": 394,
+          "source": "booking"
+        },
+        {
+          "name": "Qawra two bedroom apartment",
+          "price": 404,
+          "source": "booking"
+        },
+        {
+          "name": "Ta' Palal",
+          "price": 412,
+          "source": "booking"
+        },
+        {
+          "name": "Cardin Court",
+          "price": 414,
+          "source": "booking"
+        },
+        {
+          "name": "161 Marinello Apartment",
+          "price": 416,
+          "source": "booking"
+        },
+        {
+          "name": "Spacious Peaceful Apartment - Tarxien",
+          "price": 430,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 274,
+      "high": 412,
+      "mid": 394,
+      "options": [
+        {
+          "name": "Organic Farmstay Glamping",
+          "price": 274,
+          "source": "booking"
+        },
+        {
+          "name": "Iris Chic Residence",
+          "price": 359,
+          "source": "booking"
+        },
+        {
+          "name": "Maron 32",
+          "price": 365,
+          "source": "booking"
+        },
+        {
+          "name": "Adinkra Suits",
+          "price": 374,
+          "source": "booking"
+        },
+        {
+          "name": "Carina Mansion",
+          "price": 394,
+          "source": "booking"
+        },
+        {
+          "name": "Amelia's House of Character",
+          "price": 394,
+          "source": "booking"
+        },
+        {
+          "name": "That Little (Old) House",
+          "price": 398,
+          "source": "booking"
+        },
+        {
+          "name": "Qawra two bedroom apartment",
+          "price": 404,
+          "source": "booking"
+        },
+        {
+          "name": "Corner Hostel",
+          "price": 409,
+          "source": "booking"
+        },
+        {
+          "name": "Ta' Palal",
+          "price": 412,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:30:23.098956"
+  },
+  "Marseille|4": {
+    "apartment": {
+      "budget": 546,
+      "high": 918,
+      "mid": 807,
+      "options": [
+        {
+          "name": "T2 PROCHE Des CALANQUES",
+          "price": 546,
+          "source": "booking"
+        },
+        {
+          "name": "Appartement Marseillais en bord de mer - Ile du Frioul",
+          "price": 551,
+          "source": "booking"
+        },
+        {
+          "name": "Une parenth\u00e8se sur l'eau",
+          "price": 603,
+          "source": "booking"
+        },
+        {
+          "name": "SUD PASSION - Sakakini - calme - 3 chambres - lumineux - fibre",
+          "price": 807,
+          "source": "booking"
+        },
+        {
+          "name": "Appt 2 chambres au centre ville 3\u00e8",
+          "price": 809,
+          "source": "booking"
+        },
+        {
+          "name": "Large and beautiful apartment with panoramic sea views",
+          "price": 851,
+          "source": "booking"
+        },
+        {
+          "name": "Le Temps d'une \u00efle - Frioul - Imprenable vue mer",
+          "price": 918,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 546,
+      "high": 918,
+      "mid": 807,
+      "options": [
+        {
+          "name": "T2 PROCHE Des CALANQUES",
+          "price": 546,
+          "source": "booking"
+        },
+        {
+          "name": "jolie maison individuelle 50 m2 ,design et climatis\u00e9e, tout confort, wifi, terasse priv\u00e9e , 5 min plage et autoroute, stationnement gratuit",
+          "price": 549,
+          "source": "booking"
+        },
+        {
+          "name": "Appartement Marseillais en bord de mer - Ile du Frioul",
+          "price": 551,
+          "source": "booking"
+        },
+        {
+          "name": "Une parenth\u00e8se sur l'eau",
+          "price": 603,
+          "source": "booking"
+        },
+        {
+          "name": "SUD PASSION - Sakakini - calme - 3 chambres - lumineux - fibre",
+          "price": 807,
+          "source": "booking"
+        },
+        {
+          "name": "Appt 2 chambres au centre ville 3\u00e8",
+          "price": 809,
+          "source": "booking"
+        },
+        {
+          "name": "Large and beautiful apartment with panoramic sea views",
+          "price": 851,
+          "source": "booking"
+        },
+        {
+          "name": "Le Temps d'une \u00efle - Frioul - Imprenable vue mer",
+          "price": 918,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:53:44.054316"
+  },
+  "Munich|4": {
+    "apartment": {
+      "budget": 306,
+      "high": 648,
+      "mid": 558,
+      "options": [
+        {
+          "name": "DEIN APART M\u00fcnchen",
+          "price": 306,
+          "source": "booking"
+        },
+        {
+          "name": "Aparthotel Adagio access M\u00fcnchen City Olympiapark",
+          "price": 453,
+          "source": "booking"
+        },
+        {
+          "name": "Gem\u00fctliche Oase im Gr\u00fcnen",
+          "price": 479,
+          "source": "booking"
+        },
+        {
+          "name": "Aparthotel my room - Messe Munich",
+          "price": 527,
+          "source": "booking"
+        },
+        {
+          "name": "Limehome Munich Fritz-Erler Str",
+          "price": 556,
+          "source": "booking"
+        },
+        {
+          "name": "Gem\u00fctliche Handwerkerwohnung",
+          "price": 558,
+          "source": "booking"
+        },
+        {
+          "name": "Helle und ruhige Dachgeschosswohnung",
+          "price": 558,
+          "source": "booking"
+        },
+        {
+          "name": "MASEVEN M\u00fcnchen Messe Trudering",
+          "price": 586,
+          "source": "booking"
+        },
+        {
+          "name": "Sahara Falcon",
+          "price": 593,
+          "source": "booking"
+        },
+        {
+          "name": "kalm stay - a design Aparthotel",
+          "price": 648,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 309,
+      "high": 501,
+      "mid": 466,
+      "options": [
+        {
+          "name": "THE TENT - Youth Only - Buchung leider nur bis 30 Jahre m\u00f6glich!",
+          "price": 309,
+          "source": "booking"
+        },
+        {
+          "name": "Estelada Hostel Berg am Laim",
+          "price": 381,
+          "source": "booking"
+        },
+        {
+          "name": "Aparthotel Adagio access M\u00fcnchen City Olympiapark",
+          "price": 453,
+          "source": "booking"
+        },
+        {
+          "name": "My Hostel",
+          "price": 454,
+          "source": "booking"
+        },
+        {
+          "name": "DEIN APART M\u00fcnchen",
+          "price": 457,
+          "source": "booking"
+        },
+        {
+          "name": "Hotel Imperial",
+          "price": 466,
+          "source": "booking"
+        },
+        {
+          "name": "Premier Inn M\u00fcnchen City Ost",
+          "price": 471,
+          "source": "booking"
+        },
+        {
+          "name": "Gem\u00fctliche Oase im Gr\u00fcnen",
+          "price": 479,
+          "source": "booking"
+        },
+        {
+          "name": "Hotel Am Moosfeld",
+          "price": 482,
+          "source": "booking"
+        },
+        {
+          "name": "ibis Styles Muenchen Perlach",
+          "price": 501,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:31:05.100113"
+  },
+  "Nice|4": {
+    "apartment": {
+      "budget": 507,
+      "high": 574,
+      "mid": 555,
+      "options": [
+        {
+          "name": "T2 Cozy & Air-conditioned, close to All Amenities",
+          "price": 507,
+          "source": "booking"
+        },
+        {
+          "name": "Cozy studio, balcony & AC, Heart of Nice",
+          "price": 507,
+          "source": "booking"
+        },
+        {
+          "name": "Chez Valentine",
+          "price": 507,
+          "source": "booking"
+        },
+        {
+          "name": "CENTRE VILLE - SUPERBE APPARTEMENT CLIMATISE - COSY-Wifi -",
+          "price": 548,
+          "source": "booking"
+        },
+        {
+          "name": "Loft Industriel avec Terrasse et Filet Suspendu \u00e0 Nice Cimiez",
+          "price": 551,
+          "source": "booking"
+        },
+        {
+          "name": "Appartement lumineux avec terrasse \u00e0 Nice",
+          "price": 555,
+          "source": "booking"
+        },
+        {
+          "name": "PACA01",
+          "price": 565,
+          "source": "booking"
+        },
+        {
+          "name": "Joli 2 pi\u00e8ces avec terrasse, proche mer",
+          "price": 569,
+          "source": "booking"
+        },
+        {
+          "name": "Appartement confortable a proximite de la mer.",
+          "price": 570,
+          "source": "booking"
+        },
+        {
+          "name": "Spacious 3 room close to tram and amenities",
+          "price": 574,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 452,
+      "high": 569,
+      "mid": 525,
+      "options": [
+        {
+          "name": "Petite maison atypique \u00e0 Nice",
+          "price": 452,
+          "source": "booking"
+        },
+        {
+          "name": "Cozy studio, balcony & AC, Heart of Nice",
+          "price": 474,
+          "source": "booking"
+        },
+        {
+          "name": "T2 Cozy & Air-conditioned, close to All Amenities",
+          "price": 477,
+          "source": "booking"
+        },
+        {
+          "name": "Chez Valentine",
+          "price": 507,
+          "source": "booking"
+        },
+        {
+          "name": "CENTRE VILLE - SUPERBE APPARTEMENT CLIMATISE - COSY-Wifi -",
+          "price": 513,
+          "source": "booking"
+        },
+        {
+          "name": "PACA01",
+          "price": 525,
+          "source": "booking"
+        },
+        {
+          "name": "Loft Industriel avec Terrasse et Filet Suspendu \u00e0 Nice Cimiez",
+          "price": 543,
+          "source": "booking"
+        },
+        {
+          "name": "Chambre 1 Lou Calan",
+          "price": 552,
+          "source": "booking"
+        },
+        {
+          "name": "Appartement lumineux avec terrasse \u00e0 Nice",
+          "price": 555,
+          "source": "booking"
+        },
+        {
+          "name": "Joli 2 pi\u00e8ces avec terrasse, proche mer",
+          "price": 569,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:31:27.054280"
+  },
+  "Nuremberg|4": {
+    "apartment": {
+      "budget": 405,
+      "high": 545,
+      "mid": 474,
+      "options": [
+        {
+          "name": "Wie Daheim",
+          "price": 405,
+          "source": "booking"
+        },
+        {
+          "name": "Zentral gelegene Wohnung",
+          "price": 423,
+          "source": "booking"
+        },
+        {
+          "name": "Beishan Apartment Dachgeschoss",
+          "price": 426,
+          "source": "booking"
+        },
+        {
+          "name": "Apartments Mitte Messe und Zentrum Marterlach",
+          "price": 454,
+          "source": "booking"
+        },
+        {
+          "name": "Exclusive Living Apartment 2 Zimmer bis zu 4 Personen",
+          "price": 465,
+          "source": "booking"
+        },
+        {
+          "name": "Apartment Cosmelux N\u00fcrnberg",
+          "price": 474,
+          "source": "booking"
+        },
+        {
+          "name": "Moderne, zentralgelegene 2 Zimmer Wohnung",
+          "price": 506,
+          "source": "booking"
+        },
+        {
+          "name": "Maisonette-Wohnung in N\u00fcrnberg",
+          "price": 513,
+          "source": "booking"
+        },
+        {
+          "name": "Ruhe & Charme - Family Apartment for 4 People, Self-Check-In, Free Parking, U-Bahn, Netflix",
+          "price": 519,
+          "source": "booking"
+        },
+        {
+          "name": "AP 1 - LIVING Apartment Houses",
+          "price": 545,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 278,
+      "high": 506,
+      "mid": 454,
+      "options": [
+        {
+          "name": "Moving Inn 2 - Retro \u00dcbernachten im Wohnwagen",
+          "price": 278,
+          "source": "booking"
+        },
+        {
+          "name": "Wie Daheim",
+          "price": 405,
+          "source": "booking"
+        },
+        {
+          "name": "Zimmervermietung-Nbg",
+          "price": 415,
+          "source": "booking"
+        },
+        {
+          "name": "Zentral gelegene Wohnung",
+          "price": 423,
+          "source": "booking"
+        },
+        {
+          "name": "Beishan Apartment Dachgeschoss",
+          "price": 426,
+          "source": "booking"
+        },
+        {
+          "name": "Apartments Mitte Messe und Zentrum Marterlach",
+          "price": 454,
+          "source": "booking"
+        },
+        {
+          "name": "Exclusive Living Apartment 2 Zimmer bis zu 4 Personen",
+          "price": 465,
+          "source": "booking"
+        },
+        {
+          "name": "Apartment Cosmelux N\u00fcrnberg",
+          "price": 474,
+          "source": "booking"
+        },
+        {
+          "name": "Moderne Appartement",
+          "price": 488,
+          "source": "booking"
+        },
+        {
+          "name": "Moderne, zentralgelegene 2 Zimmer Wohnung",
+          "price": 506,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:31:49.004287"
+  },
+  "Palma de Mallorca|4": {
+    "apartment": {
+      "budget": 376,
+      "high": 376,
+      "mid": 376,
+      "options": [
+        {
+          "name": "Vintage Camper Van Explore Driving Mallorca - full equip",
+          "price": 376,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 376,
+      "high": 925,
+      "mid": 576,
+      "options": [
+        {
+          "name": "Vintage Camper Van Explore Driving Mallorca - full equip",
+          "price": 376,
+          "source": "booking"
+        },
+        {
+          "name": "Palma Port Hostel - Albergue Juvenil",
+          "price": 565,
+          "source": "booking"
+        },
+        {
+          "name": "The Boc Hostels - City",
+          "price": 571,
+          "source": "booking"
+        },
+        {
+          "name": "Y Hostel - Albergue Juvenil",
+          "price": 576,
+          "source": "booking"
+        },
+        {
+          "name": "The Boc Hostels - Palma",
+          "price": 879,
+          "source": "booking"
+        },
+        {
+          "name": "El Josemari Hostel",
+          "price": 925,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:54:06.375252"
+  },
+  "Paris|4": {
+    "apartment": {
+      "budget": 645,
+      "high": 968,
+      "mid": 913,
+      "options": [
+        {
+          "name": "Studio dans le 17\u00e8me, \u00e0 2km de Sacr\u00e9 C\u0153ur",
+          "price": 645,
+          "source": "booking"
+        },
+        {
+          "name": "Villa Montmartre - Nouvellement R\u00e9nov\u00e9",
+          "price": 761,
+          "source": "booking"
+        },
+        {
+          "name": "Inside Paris \u2013 Rue de Chamb\u00e9ry",
+          "price": 794,
+          "source": "booking"
+        },
+        {
+          "name": "Maison Sixth June",
+          "price": 859,
+          "source": "booking"
+        },
+        {
+          "name": "Appartement 9\u00e8me",
+          "price": 872,
+          "source": "booking"
+        },
+        {
+          "name": "GuestReady - Nice urban hideout near Montmartre",
+          "price": 913,
+          "source": "booking"
+        },
+        {
+          "name": "GuestReady - A humble home in Auteuil",
+          "price": 916,
+          "source": "booking"
+        },
+        {
+          "name": "GuestReady - Sunny apartment with balcony views",
+          "price": 931,
+          "source": "booking"
+        },
+        {
+          "name": "Cozy apartment for 4 Paris",
+          "price": 956,
+          "source": "booking"
+        },
+        {
+          "name": "Studio 4P Calme/Full Equipped/Charonne/PereLachese",
+          "price": 968,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 645,
+      "high": 921,
+      "mid": 874,
+      "options": [
+        {
+          "name": "Studio dans le 17\u00e8me, \u00e0 2km de Sacr\u00e9 C\u0153ur",
+          "price": 645,
+          "source": "booking"
+        },
+        {
+          "name": "Villa Montmartre - Nouvellement R\u00e9nov\u00e9",
+          "price": 761,
+          "source": "booking"
+        },
+        {
+          "name": "Inside Paris \u2013 Rue de Chamb\u00e9ry",
+          "price": 794,
+          "source": "booking"
+        },
+        {
+          "name": "Maison Sixth June",
+          "price": 859,
+          "source": "booking"
+        },
+        {
+          "name": "Appartement 9\u00e8me",
+          "price": 872,
+          "source": "booking"
+        },
+        {
+          "name": "Chambres d'h\u00f4tes Haut de Belleville",
+          "price": 874,
+          "source": "booking"
+        },
+        {
+          "name": "MEININGER Hotel Paris Porte de Vincennes",
+          "price": 895,
+          "source": "booking"
+        },
+        {
+          "name": "GuestReady - Nice urban hideout near Montmartre",
+          "price": 913,
+          "source": "booking"
+        },
+        {
+          "name": "GuestReady - A humble home in Auteuil",
+          "price": 916,
+          "source": "booking"
+        },
+        {
+          "name": "Respiro",
+          "price": 921,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:32:32.642438"
+  },
+  "Porto|4": {
+    "apartment": {
+      "budget": 317,
+      "high": 406,
+      "mid": 394,
+      "options": [
+        {
+          "name": "Musica4",
+          "price": 317,
+          "source": "booking"
+        },
+        {
+          "name": "Dolce Vita Heroismo",
+          "price": 340,
+          "source": "booking"
+        },
+        {
+          "name": "Invictus Porto Apartment",
+          "price": 354,
+          "source": "booking"
+        },
+        {
+          "name": "Charming Studio with Garden in Porto",
+          "price": 381,
+          "source": "booking"
+        },
+        {
+          "name": "Para\u00edso Apartment by Amber Star Rent",
+          "price": 388,
+          "source": "booking"
+        },
+        {
+          "name": "Underground Batalha Studios",
+          "price": 394,
+          "source": "booking"
+        },
+        {
+          "name": "Dream Design Flat",
+          "price": 397,
+          "source": "booking"
+        },
+        {
+          "name": "Host Wise - Comfy Sunny Flat - Prime Location",
+          "price": 403,
+          "source": "booking"
+        },
+        {
+          "name": "Monte Lapa 38",
+          "price": 406,
+          "source": "booking"
+        },
+        {
+          "name": "Mezzanine Studio in the City Center",
+          "price": 406,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 306,
+      "high": 384,
+      "mid": 354,
+      "options": [
+        {
+          "name": "Easy Host Porto",
+          "price": 306,
+          "source": "booking"
+        },
+        {
+          "name": "Porto Hostel C\u00fapula",
+          "price": 309,
+          "source": "booking"
+        },
+        {
+          "name": "Musica4",
+          "price": 317,
+          "source": "booking"
+        },
+        {
+          "name": "Dolce Vita Heroismo",
+          "price": 340,
+          "source": "booking"
+        },
+        {
+          "name": "So Cool Hostel Porto",
+          "price": 353,
+          "source": "booking"
+        },
+        {
+          "name": "Invictus Porto Apartment",
+          "price": 354,
+          "source": "booking"
+        },
+        {
+          "name": "Oporto Spacious apartment",
+          "price": 356,
+          "source": "booking"
+        },
+        {
+          "name": "GuestHouse Belo Horizonte",
+          "price": 369,
+          "source": "booking"
+        },
+        {
+          "name": "Charming Studio with Garden in Porto",
+          "price": 381,
+          "source": "booking"
+        },
+        {
+          "name": "Oporto Sky Hostel",
+          "price": 384,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:32:54.620522"
+  },
+  "Pozna\u0144|4": {
+    "apartment": {
+      "budget": 608,
+      "high": 717,
+      "mid": 672,
+      "options": [
+        {
+          "name": "Homewell Apartments Lofty nad Wart\u0105",
+          "price": 608,
+          "source": "booking"
+        },
+        {
+          "name": "Elegancki Apartament Studio w Poznaniu by Noclegi Renters",
+          "price": 611,
+          "source": "booking"
+        },
+        {
+          "name": "Stylish Apartment Near the Old Market Square in Pozna\u0144 by Noclegi Renters",
+          "price": 616,
+          "source": "booking"
+        },
+        {
+          "name": "Cozy Studio with Parking in Pozna\u0144 by Noclegi Renters",
+          "price": 627,
+          "source": "booking"
+        },
+        {
+          "name": "Apartamenty z klimatem",
+          "price": 671,
+          "source": "booking"
+        },
+        {
+          "name": "Kawalerki z Kuchni\u0105 - self check in - Studios with Kitchen",
+          "price": 672,
+          "source": "booking"
+        },
+        {
+          "name": "Homewell Premium Lofts - free parking",
+          "price": 708,
+          "source": "booking"
+        },
+        {
+          "name": "Nature & Green Apartment Pozna\u0144 by Noclegi Renters",
+          "price": 709,
+          "source": "booking"
+        },
+        {
+          "name": "Apartment Near the Warta River by Noclegi Renters",
+          "price": 709,
+          "source": "booking"
+        },
+        {
+          "name": "Beige Apartment in Pozna\u0144 with Parking and Air Conditioned Living Room by Noclegi Renters",
+          "price": 717,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 608,
+      "high": 717,
+      "mid": 672,
+      "options": [
+        {
+          "name": "Homewell Apartments Lofty nad Wart\u0105",
+          "price": 608,
+          "source": "booking"
+        },
+        {
+          "name": "Elegancki Apartament Studio w Poznaniu by Noclegi Renters",
+          "price": 611,
+          "source": "booking"
+        },
+        {
+          "name": "Cozy Studio with Parking in Pozna\u0144 by Noclegi Renters",
+          "price": 627,
+          "source": "booking"
+        },
+        {
+          "name": "Stylish Apartment Near the Old Market Square in Pozna\u0144 by Noclegi Renters",
+          "price": 651,
+          "source": "booking"
+        },
+        {
+          "name": "Apartamenty z klimatem",
+          "price": 671,
+          "source": "booking"
+        },
+        {
+          "name": "Kawalerki z Kuchni\u0105 - self check in - Studios with Kitchen",
+          "price": 672,
+          "source": "booking"
+        },
+        {
+          "name": "Homewell Premium Lofts - free parking",
+          "price": 708,
+          "source": "booking"
+        },
+        {
+          "name": "Nature & Green Apartment Pozna\u0144 by Noclegi Renters",
+          "price": 709,
+          "source": "booking"
+        },
+        {
+          "name": "Apartment Near the Warta River by Noclegi Renters",
+          "price": 709,
+          "source": "booking"
+        },
+        {
+          "name": "Beige Apartment in Pozna\u0144 with Parking and Air Conditioned Living Room by Noclegi Renters",
+          "price": 717,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:33:15.862331"
+  },
+  "Prague|4": {
+    "apartment": {
+      "budget": 297,
+      "high": 381,
+      "mid": 356,
+      "options": [
+        {
+          "name": "SKYLINE PRAGUE Apartments",
+          "price": 297,
+          "source": "booking"
+        },
+        {
+          "name": "Jane's Charming Apartment",
+          "price": 305,
+          "source": "booking"
+        },
+        {
+          "name": "Cozy Gardens Apartments in Prague",
+          "price": 326,
+          "source": "booking"
+        },
+        {
+          "name": "Byt apartman 74m2 vyhled klid priroda",
+          "price": 346,
+          "source": "booking"
+        },
+        {
+          "name": "Garden Park Apartment+",
+          "price": 352,
+          "source": "booking"
+        },
+        {
+          "name": "Apartment Hodkovi\u010dky by Interhome",
+          "price": 356,
+          "source": "booking"
+        },
+        {
+          "name": "My sweet place",
+          "price": 360,
+          "source": "booking"
+        },
+        {
+          "name": "Prague Zbraslav Old Garden",
+          "price": 365,
+          "source": "booking"
+        },
+        {
+          "name": "Phuong'Nest Modern Apartment near Old Town",
+          "price": 378,
+          "source": "booking"
+        },
+        {
+          "name": "Apartm\u00e1n Kam\u00fdk",
+          "price": 381,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 251,
+      "high": 323,
+      "mid": 305,
+      "options": [
+        {
+          "name": "Plus Prague",
+          "price": 251,
+          "source": "booking"
+        },
+        {
+          "name": "Ubytov\u00e1n\u00ed na fa\u0159e",
+          "price": 279,
+          "source": "booking"
+        },
+        {
+          "name": "Pension H\u00e1jek",
+          "price": 293,
+          "source": "booking"
+        },
+        {
+          "name": "SKYLINE PRAGUE Apartments",
+          "price": 297,
+          "source": "booking"
+        },
+        {
+          "name": "Sir Toby's Hostel",
+          "price": 299,
+          "source": "booking"
+        },
+        {
+          "name": "Jane's Charming Apartment",
+          "price": 305,
+          "source": "booking"
+        },
+        {
+          "name": "Pension Kern",
+          "price": 308,
+          "source": "booking"
+        },
+        {
+          "name": "Prague Zbraslav Old Garden",
+          "price": 310,
+          "source": "booking"
+        },
+        {
+          "name": "Zahradn\u00ed d\u016fm",
+          "price": 310,
+          "source": "booking"
+        },
+        {
+          "name": "Pension Europa",
+          "price": 323,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:33:37.510457"
+  },
+  "Salzburg|4": {
+    "apartment": {
+      "budget": 782,
+      "high": 918,
+      "mid": 863,
+      "options": [
+        {
+          "name": "Stylische Ferienwohnung 2",
+          "price": 782,
+          "source": "booking"
+        },
+        {
+          "name": "Stylische Ferienwohnung",
+          "price": 826,
+          "source": "booking"
+        },
+        {
+          "name": "Casa Wendl",
+          "price": 837,
+          "source": "booking"
+        },
+        {
+          "name": "IGNAZ 28 Apartment#3",
+          "price": 863,
+          "source": "booking"
+        },
+        {
+          "name": "Comfy Apartment",
+          "price": 880,
+          "source": "booking"
+        },
+        {
+          "name": "Apartment Lakeside",
+          "price": 918,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 628,
+      "high": 837,
+      "mid": 782,
+      "options": [
+        {
+          "name": "YoHo - International Youth Hostel",
+          "price": 628,
+          "source": "booking"
+        },
+        {
+          "name": "Hotel Turnerwirt",
+          "price": 645,
+          "source": "booking"
+        },
+        {
+          "name": "rooms11",
+          "price": 653,
+          "source": "booking"
+        },
+        {
+          "name": "soom Salzburg I Capsule Hotel",
+          "price": 729,
+          "source": "booking"
+        },
+        {
+          "name": "DAD Vogelweiderhof Rooms",
+          "price": 754,
+          "source": "booking"
+        },
+        {
+          "name": "Stylische Ferienwohnung 2",
+          "price": 782,
+          "source": "booking"
+        },
+        {
+          "name": "Four Points Flex by Sheraton Salzburg Messe",
+          "price": 796,
+          "source": "booking"
+        },
+        {
+          "name": "B&B Hotel Salzburg-Nord",
+          "price": 805,
+          "source": "booking"
+        },
+        {
+          "name": "Stylische Ferienwohnung",
+          "price": 826,
+          "source": "booking"
+        },
+        {
+          "name": "Casa Wendl",
+          "price": 837,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:54:32.371932"
+  },
+  "Seville|4": {
+    "apartment": {
+      "budget": 336,
+      "high": 382,
+      "mid": 366,
+      "options": [
+        {
+          "name": "Lumbreras V Apartamento Alameda Sevilla",
+          "price": 336,
+          "source": "booking"
+        },
+        {
+          "name": "1 Bedroom Stunning Apartment In Sevilla",
+          "price": 337,
+          "source": "booking"
+        },
+        {
+          "name": "Prime Location!",
+          "price": 339,
+          "source": "booking"
+        },
+        {
+          "name": "Alohamundi Castilla III",
+          "price": 345,
+          "source": "booking"
+        },
+        {
+          "name": "Alohamundi Alameda",
+          "price": 347,
+          "source": "booking"
+        },
+        {
+          "name": "Rental San Luis",
+          "price": 366,
+          "source": "booking"
+        },
+        {
+          "name": "Guadalimar",
+          "price": 371,
+          "source": "booking"
+        },
+        {
+          "name": "Alohamundi Lumbreras II",
+          "price": 372,
+          "source": "booking"
+        },
+        {
+          "name": "Pop Art, Encanto de San Luis y Centro Hist\u00f3rico",
+          "price": 378,
+          "source": "booking"
+        },
+        {
+          "name": "Ciriaco Suite",
+          "price": 382,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 324,
+      "high": 384,
+      "mid": 347,
+      "options": [
+        {
+          "name": "The Nomad Hostel&Pension",
+          "price": 324,
+          "source": "booking"
+        },
+        {
+          "name": "Lumbreras V Apartamento Alameda Sevilla",
+          "price": 336,
+          "source": "booking"
+        },
+        {
+          "name": "1 Bedroom Stunning Apartment In Sevilla",
+          "price": 337,
+          "source": "booking"
+        },
+        {
+          "name": "Prime Location!",
+          "price": 339,
+          "source": "booking"
+        },
+        {
+          "name": "Alohamundi Castilla III",
+          "price": 345,
+          "source": "booking"
+        },
+        {
+          "name": "Alohamundi Alameda",
+          "price": 347,
+          "source": "booking"
+        },
+        {
+          "name": "Hostel Triana Backpackers",
+          "price": 350,
+          "source": "booking"
+        },
+        {
+          "name": "Rental San Luis",
+          "price": 366,
+          "source": "booking"
+        },
+        {
+          "name": "Ciriaco Suite",
+          "price": 382,
+          "source": "booking"
+        },
+        {
+          "name": "Casa de madera el oasis el palomar",
+          "price": 384,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:34:21.269134"
+  },
+  "Stockholm|4": {
+    "apartment": {
+      "budget": 397,
+      "high": 779,
+      "mid": 626,
+      "options": [
+        {
+          "name": "ApartDirect \u00c4lvsj\u00f6",
+          "price": 397,
+          "source": "booking"
+        },
+        {
+          "name": "ApartDirect Hammarby Sj\u00f6stad",
+          "price": 420,
+          "source": "booking"
+        },
+        {
+          "name": "Stockholm Guest House",
+          "price": 447,
+          "source": "booking"
+        },
+        {
+          "name": "Uptown Hotel Apartments",
+          "price": 608,
+          "source": "booking"
+        },
+        {
+          "name": "Cosy Urban Home in Stockholm",
+          "price": 626,
+          "source": "booking"
+        },
+        {
+          "name": "Modern Scandinavian Home in Stockholm",
+          "price": 626,
+          "source": "booking"
+        },
+        {
+          "name": "nikos house;",
+          "price": 682,
+          "source": "booking"
+        },
+        {
+          "name": "Apartments By Ligula, Hammarby Sj\u00f6stad",
+          "price": 704,
+          "source": "booking"
+        },
+        {
+          "name": "Biz Apartment Bromma",
+          "price": 732,
+          "source": "booking"
+        },
+        {
+          "name": "Home Inn NBG6",
+          "price": 779,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 337,
+      "high": 469,
+      "mid": 418,
+      "options": [
+        {
+          "name": "Skanstulls Boutique Hostel",
+          "price": 337,
+          "source": "booking"
+        },
+        {
+          "name": "Stockholm Hostel",
+          "price": 379,
+          "source": "booking"
+        },
+        {
+          "name": "ApartDirect \u00c4lvsj\u00f6",
+          "price": 397,
+          "source": "booking"
+        },
+        {
+          "name": "STF Zinkensdamm Hostel",
+          "price": 404,
+          "source": "booking"
+        },
+        {
+          "name": "City Hostel",
+          "price": 408,
+          "source": "booking"
+        },
+        {
+          "name": "Sofias Lovely Little House",
+          "price": 418,
+          "source": "booking"
+        },
+        {
+          "name": "ApartDirect Hammarby Sj\u00f6stad",
+          "price": 420,
+          "source": "booking"
+        },
+        {
+          "name": "STF L\u00e5ngholmen Hostel",
+          "price": 443,
+          "source": "booking"
+        },
+        {
+          "name": "Comfort Hotel Kista",
+          "price": 461,
+          "source": "booking"
+        },
+        {
+          "name": "Nomad City",
+          "price": 469,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:34:43.143505"
+  },
+  "Stuttgart|4": {
+    "apartment": {
+      "budget": 361,
+      "high": 631,
+      "mid": 550,
+      "options": [
+        {
+          "name": "Ferienwohnung Sia",
+          "price": 361,
+          "source": "booking"
+        },
+        {
+          "name": "Modernes Apartment nahe Arena & Mercedes Museum",
+          "price": 469,
+          "source": "booking"
+        },
+        {
+          "name": "Rioca Stuttgart Posto 4",
+          "price": 502,
+          "source": "booking"
+        },
+        {
+          "name": "Hardy's Apartment Stuttgart",
+          "price": 515,
+          "source": "booking"
+        },
+        {
+          "name": "Moderne gem\u00fctliche 2-Zimmer Wohnung Stuttgart Bad-Cannstatt",
+          "price": 529,
+          "source": "booking"
+        },
+        {
+          "name": "Moderne Studio Wohnung in Stuttgart-Zentrum",
+          "price": 550,
+          "source": "booking"
+        },
+        {
+          "name": "Gem\u00fctliches Nest mitten in STUTTGART",
+          "price": 568,
+          "source": "booking"
+        },
+        {
+          "name": "Aparthotel Adagio Stuttgart NeckarPark",
+          "price": 571,
+          "source": "booking"
+        },
+        {
+          "name": "Komfort Oase mit Klimaanlage, Terrasse und Whirlpool",
+          "price": 594,
+          "source": "booking"
+        },
+        {
+          "name": "Stuttgart Airport & Messe Apartment",
+          "price": 631,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 361,
+      "high": 434,
+      "mid": 426,
+      "options": [
+        {
+          "name": "Ferienwohnung Sia",
+          "price": 361,
+          "source": "booking"
+        },
+        {
+          "name": "Holiday Inn - the niu, Mesh Stuttgart Messe by IHG",
+          "price": 384,
+          "source": "booking"
+        },
+        {
+          "name": "Hotel Alpha",
+          "price": 409,
+          "source": "booking"
+        },
+        {
+          "name": "Moxy Stuttgart Feuerbach",
+          "price": 412,
+          "source": "booking"
+        },
+        {
+          "name": "Premier Inn Stuttgart Feuerbach",
+          "price": 422,
+          "source": "booking"
+        },
+        {
+          "name": "Holiday Inn - the niu, Kettle Stuttgart Vaihingen by IHG",
+          "price": 426,
+          "source": "booking"
+        },
+        {
+          "name": "Holiday Inn - the niu, Form Stuttgart Feuerbach by IHG",
+          "price": 426,
+          "source": "booking"
+        },
+        {
+          "name": "Holiday Inn Stuttgart by IHG",
+          "price": 431,
+          "source": "booking"
+        },
+        {
+          "name": "ibis Styles Stuttgart Vaihingen",
+          "price": 432,
+          "source": "booking"
+        },
+        {
+          "name": "B&B Hotel Stuttgart-Zuffenhausen",
+          "price": 434,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:35:06.360262"
+  },
+  "Valencia|4": {
+    "apartment": {
+      "budget": 362,
+      "high": 494,
+      "mid": 444,
+      "options": [
+        {
+          "name": "Confortable apto en la playa a 10min de Valencia",
+          "price": 362,
+          "source": "booking"
+        },
+        {
+          "name": "Boutique Room - Plaza Tower",
+          "price": 376,
+          "source": "booking"
+        },
+        {
+          "name": "Gran loft - A",
+          "price": 400,
+          "source": "booking"
+        },
+        {
+          "name": "Maravilloso Loft - B",
+          "price": 416,
+          "source": "booking"
+        },
+        {
+          "name": "Mestalla Garden",
+          "price": 440,
+          "source": "booking"
+        },
+        {
+          "name": "Naturaloft",
+          "price": 444,
+          "source": "booking"
+        },
+        {
+          "name": "Urban Style",
+          "price": 449,
+          "source": "booking"
+        },
+        {
+          "name": "Apartamento Boutique Valencia 4-Pax - A-1",
+          "price": 453,
+          "source": "booking"
+        },
+        {
+          "name": "Rep\u00fablica Argentina 02",
+          "price": 493,
+          "source": "booking"
+        },
+        {
+          "name": "Lofts Casa Tropicana",
+          "price": 494,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 386,
+      "high": 471,
+      "mid": 444,
+      "options": [
+        {
+          "name": "Confortable apto en la playa a 10min de Valencia",
+          "price": 386,
+          "source": "booking"
+        },
+        {
+          "name": "The POD Suite Hostel Village",
+          "price": 398,
+          "source": "booking"
+        },
+        {
+          "name": "Boutique Room - Plaza Tower",
+          "price": 402,
+          "source": "booking"
+        },
+        {
+          "name": "Gran loft - A",
+          "price": 432,
+          "source": "booking"
+        },
+        {
+          "name": "U-nit Hostel Central Park",
+          "price": 433,
+          "source": "booking"
+        },
+        {
+          "name": "room00 Valencia Hostel",
+          "price": 444,
+          "source": "booking"
+        },
+        {
+          "name": "Urban Style",
+          "price": 449,
+          "source": "booking"
+        },
+        {
+          "name": "Maravilloso Loft - B",
+          "price": 449,
+          "source": "booking"
+        },
+        {
+          "name": "River Hostel",
+          "price": 459,
+          "source": "booking"
+        },
+        {
+          "name": "Mestalla Garden",
+          "price": 471,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:35:27.212322"
+  },
+  "Vienna|4": {
+    "apartment": {
+      "budget": 356,
+      "high": 433,
+      "mid": 420,
+      "options": [
+        {
+          "name": "New with Parking and Metro in front of the House",
+          "price": 356,
+          "source": "booking"
+        },
+        {
+          "name": "Roomverse Residenz - N\u00e4he Stadthalle",
+          "price": 376,
+          "source": "booking"
+        },
+        {
+          "name": "N\u00fcll Residences 01 - New Studio close to Main station",
+          "price": 402,
+          "source": "booking"
+        },
+        {
+          "name": "Wiener Altbau-Revival",
+          "price": 408,
+          "source": "booking"
+        },
+        {
+          "name": "bookVienna \"Monica\" Apartments",
+          "price": 410,
+          "source": "booking"
+        },
+        {
+          "name": "Balcony Apartment I On-Site Parking 19,90 per day",
+          "price": 420,
+          "source": "booking"
+        },
+        {
+          "name": "Next to Sch\u00f6nbrunn I 10 min to U4 I Free WiFi",
+          "price": 422,
+          "source": "booking"
+        },
+        {
+          "name": "Apartment Happy Pasetti by Interhome",
+          "price": 424,
+          "source": "booking"
+        },
+        {
+          "name": "Jimmy's Apartments Lory",
+          "price": 432,
+          "source": "booking"
+        },
+        {
+          "name": "CozyNite Premium Apartment Favoriten",
+          "price": 433,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 276,
+      "high": 420,
+      "mid": 402,
+      "options": [
+        {
+          "name": "Nest Natur Hostel",
+          "price": 276,
+          "source": "booking"
+        },
+        {
+          "name": "New with Parking and Metro in front of the House",
+          "price": 356,
+          "source": "booking"
+        },
+        {
+          "name": "A&T Hotel & Hostel",
+          "price": 367,
+          "source": "booking"
+        },
+        {
+          "name": "Roomverse Residenz - N\u00e4he Stadthalle",
+          "price": 376,
+          "source": "booking"
+        },
+        {
+          "name": "Steffens PANTA RHEI",
+          "price": 391,
+          "source": "booking"
+        },
+        {
+          "name": "N\u00fcll Residences 01 - New Studio close to Main station",
+          "price": 402,
+          "source": "booking"
+        },
+        {
+          "name": "Wiener Altbau-Revival",
+          "price": 408,
+          "source": "booking"
+        },
+        {
+          "name": "bookVienna \"Monica\" Apartments",
+          "price": 410,
+          "source": "booking"
+        },
+        {
+          "name": "Meidling Rooms I 1 Min to U6 I Self Check In",
+          "price": 413,
+          "source": "booking"
+        },
+        {
+          "name": "Balcony Apartment I On-Site Parking 19,90 per day",
+          "price": 420,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:35:48.191174"
+  },
+  "Z\u00fcrich|4": {
+    "apartment": {
+      "budget": 924,
+      "high": 949,
+      "mid": 949,
+      "options": [
+        {
+          "name": "Delta Apartments - Baumackerstrasse - self check-in",
+          "price": 924,
+          "source": "booking"
+        },
+        {
+          "name": "Modern Living, Luxe Studio Zurich",
+          "price": 949,
+          "source": "booking"
+        }
+      ]
+    },
+    "hotel": {
+      "budget": 871,
+      "high": 994,
+      "mid": 924,
+      "options": [
+        {
+          "name": "MEININGER Hotel Z\u00fcrich Greencity",
+          "price": 871,
+          "source": "booking"
+        },
+        {
+          "name": "Viktoria Budget Hostel",
+          "price": 892,
+          "source": "booking"
+        },
+        {
+          "name": "Delta Apartments - Baumackerstrasse - self check-in",
+          "price": 924,
+          "source": "booking"
+        },
+        {
+          "name": "Modern Living, Luxe Studio Zurich",
+          "price": 949,
+          "source": "booking"
+        },
+        {
+          "name": "Oldtown Hostel Otter",
+          "price": 994,
+          "source": "booking"
+        }
+      ]
+    },
+    "scraped_at": "2026-04-04T23:54:53.540181"
+  }
+}
